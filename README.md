@@ -1,5 +1,7 @@
 IntunePrepTool 
 
+
+
 Created by Rink Turksma with Sapien Powershell Studio.
 
 GUI based powershell script to create and upload Intunewin packages.
@@ -49,9 +51,15 @@ The GUI shows the parameters for installation and detection method.
 
 Use Upload button to open Powershell_ISE. Press start there and you will get a prompt to logon to you tenant.
 
+![Screenshot 2023-03-10 170113](https://user-images.githubusercontent.com/127322820/224364743-8f69c55d-404f-441b-84cb-d3d4415dc9db.png)
 
 
+![Screenshot 2023-03-10 170205](https://user-images.githubusercontent.com/127322820/224364767-0a620854-963f-466b-a177-58966a22082c.png)
 
 
+![Screenshot 2023-03-10 170239](https://user-images.githubusercontent.com/127322820/224364779-1ee20690-3400-435e-8823-88f30af99d00.png)
 
 
+![Screenshot 2023-03-10 170310](https://user-images.githubusercontent.com/127322820/224364797-debe4c87-6132-427e-85e5-0109308ddd5e.png)
+
+![Screenshot 2023-03-10 170346](https://user-images.githubusercontent.com/127322820/224364810-aae03744-703d-4e7f-af95-720e6685b7b7.png)
