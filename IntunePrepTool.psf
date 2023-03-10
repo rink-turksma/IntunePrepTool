@@ -1,0 +1,2961 @@
+﻿<File version="3.2">
+  <FileID>373d466f-0843-40eb-9006-241e20fcf1fd</FileID>
+  <LastExport>133227411031353429</LastExport>
+  <Preview>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
+QmCC</Preview>
+  <Form>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</Form>
+  <Code><![CDATA[class config_customerinfo {
+	[string]$customername
+	[string]$logfoldertarget
+	[string]$packagefolder
+	[string]$tenanturl
+	
+}
+$tools_winget_label_Load = {
+	Set-ControlTheme $tools_winget_label -Theme Dark
+	<#
+	$regkeyRootCSN = "HKLM:\Software\CSN_Package"
+	try
+	{
+		[string]$klnm = $klantnaam_textbox1.text
+		[string]$ldir = $logfoldertarget_textbox2.text
+		[string]$sdir = $packacgedir_textbox3.text
+		
+		$vvcld = Get-ItemProperty -Path $regkeyRootCSN -Name ConfigLogDir -ErrorAction Stop
+		$vvck = Get-ItemProperty -Path $regkeyRootCSN -Name ConfigKlant -ErrorAction Stop
+		$vvcsd = Get-ItemProperty -Path $regkeyRootCSN -Name ConfigSourceDir -ErrorAction Stop
+		$klantnaam_textbox1.text = $vvck.ConfigKlant
+		$logfoldertarget_textbox2.text = $vvcld.ConfigLogDir
+		$packacgedir_textbox3.text = $vvcsd.ConfigSourceDir
+	}
+	catch
+	{
+		#Add-Type -AssemblyName "System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"
+		[void][System.Windows.Forms.MessageBox]::Show('Je hebt nog geen Klantnaam, Log en/of Source Dir opgegeven.. Ga naar Config', 'Configureren') # Casting the method to [void] suppresses the output. 
+	}
+	#>
+	Set-Location $PSScriptRoot
+	try
+	{
+		$config_import_csv = Import-Csv "config_customerinfo.csv" -ErrorAction Stop
+		foreach ($cis in $config_import_csv)
+		{
+			Update-ListBox $config_listbox $cis.customername  -Append
+		}
+		
+	}
+	catch
+	{
+		
+		Write-Host "Taak hier"
+		
+	}
+	
+	
+	try
+	{
+		
+		Get-ChildItem -Path "IntuneWinAppUtil.exe" -ErrorAction Stop
+	}
+	catch
+	{
+		#Add-Type -AssemblyName "System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"
+		[void][System.Windows.Forms.MessageBox]::Show('Download Microsoft Win32 Content Prep Tool. Place EXE file in same directory as this script', 'IntuneWinAppUtil missing') # Casting the method to [void] suppresses the output. 
+	}
+	#>
+	
+}
+
+
+$darkToolStripMenuItem_Click={
+	#TODO: Place custom script here
+	Set-ControlTheme -Control $tools_winget_label -Theme Dark
+}
+
+$lightToolStripMenuItem_Click={
+	Set-ControlTheme -Control $tools_winget_label -Theme Light
+}
+
+#region Control Theme Helper Function
+<#
+	.SYNOPSIS
+		Applies a theme to the control and its children.
+	
+	.PARAMETER Control
+		The control to theme. Usually the form itself.
+	
+	.PARAMETER Theme
+		The color theme:
+		Light
+		Dark
+
+	.PARAMETER CustomColor
+		A hashtable that contains the color values.
+		Keys:
+		WindowColor
+		ContainerColor
+		BackColor
+		ForeColor
+		BorderColor
+		SelectionForeColor
+		SelectionBackColor
+		MenuSelectionColor
+	.EXAMPLE
+		PS C:\> Set-ControlTheme -Control $form1 -Theme Dark
+	
+	.EXAMPLE
+		PS C:\> Set-ControlTheme -Control $form1 -CustomColor @{ WindowColor = 'White'; ContainerBackColor = 'Gray'; BackColor... }
+	.NOTES
+		Created by SAPIEN Technologies, Inc.
+#>
+function Set-ControlTheme
+{
+	[CmdletBinding()]
+	param
+	(
+		[Parameter(Mandatory = $true)]
+		[ValidateNotNull()]
+		[System.ComponentModel.Component]$Control,
+		[ValidateSet('Light', 'Dark')]
+		[string]$Theme = 'Dark',
+		[System.Collections.Hashtable]$CustomColor
+	)
+	
+	$Font = [System.Drawing.Font]::New('Segoe UI', 9)
+	
+	#Initialize the colors
+	if ($Theme -eq 'Dark')
+	{
+		$WindowColor = [System.Drawing.Color]::FromArgb(32, 32, 32)
+		$ContainerColor = [System.Drawing.Color]::FromArgb(45, 45, 45)
+		$BackColor = [System.Drawing.Color]::FromArgb(32, 32, 32)
+		$ForeColor = [System.Drawing.Color]::White
+		$BorderColor = [System.Drawing.Color]::DimGray
+		$SelectionBackColor = [System.Drawing.SystemColors]::Highlight
+		$SelectionForeColor = [System.Drawing.Color]::White
+		$MenuSelectionColor = [System.Drawing.Color]::DimGray
+	}
+	else
+	{
+		$WindowColor = [System.Drawing.Color]::White
+		$ContainerColor = [System.Drawing.Color]::WhiteSmoke
+		$BackColor = [System.Drawing.Color]::Gainsboro
+		$ForeColor = [System.Drawing.Color]::Black
+		$BorderColor = [System.Drawing.Color]::DimGray
+		$SelectionBackColor = [System.Drawing.SystemColors]::Highlight
+		$SelectionForeColor = [System.Drawing.Color]::White
+		$MenuSelectionColor = [System.Drawing.Color]::LightSteelBlue
+	}
+	
+	if ($CustomColor)
+	{
+		#Check and Validate the custom colors:
+		$Color = $CustomColor.WindowColor -as [System.Drawing.Color]
+		if ($Color) { $WindowColor = $Color }
+		$Color = $CustomColor.ContainerColor -as [System.Drawing.Color]
+		if ($Color) { $ContainerColor = $Color }
+		$Color = $CustomColor.BackColor -as [System.Drawing.Color]
+		if ($Color) { $BackColor = $Color }
+		$Color = $CustomColor.ForeColor -as [System.Drawing.Color]
+		if ($Color) { $ForeColor = $Color }
+		$Color = $CustomColor.BorderColor -as [System.Drawing.Color]
+		if ($Color) { $BorderColor = $Color }
+		$Color = $CustomColor.SelectionBackColor -as [System.Drawing.Color]
+		if ($Color) { $SelectionBackColor = $Color }
+		$Color = $CustomColor.SelectionForeColor -as [System.Drawing.Color]
+		if ($Color) { $SelectionForeColor = $Color }
+		$Color = $CustomColor.MenuSelectionColor -as [System.Drawing.Color]
+		if ($Color) { $MenuSelectionColor = $Color }
+	}
+	
+	#Define the custom renderer for the menus
+	#region Add-Type definition
+	try
+	{
+		[SAPIENTypes.SAPIENColorTable] | Out-Null
+	}
+	catch
+	{
+		if ($PSVersionTable.PSVersion.Major -ge 7)
+		{
+			$Assemblies = 'System.Windows.Forms', 'System.Drawing', 'System.Drawing.Primitives'
+		}
+		else
+		{
+			$Assemblies = 'System.Windows.Forms', 'System.Drawing'
+		}
+		Add-Type -ReferencedAssemblies $Assemblies -TypeDefinition "
+using System;
+using System.Windows.Forms;
+using System.Drawing;
+namespace SAPIENTypes
+{
+    public class SAPIENColorTable : ProfessionalColorTable
+    {
+        Color ContainerBackColor;
+        Color BackColor;
+        Color BorderColor;
+		Color SelectBackColor;
+
+        public SAPIENColorTable(Color containerColor, Color backColor, Color borderColor, Color selectBackColor)
+        {
+            ContainerBackColor = containerColor;
+            BackColor = backColor;
+            BorderColor = borderColor;
+			SelectBackColor = selectBackColor;
+        } 
+		public override Color MenuStripGradientBegin { get { return ContainerBackColor; } }
+        public override Color MenuStripGradientEnd { get { return ContainerBackColor; } }
+        public override Color ToolStripBorder { get { return BorderColor; } }
+        public override Color MenuItemBorder { get { return SelectBackColor; } }
+        public override Color MenuItemSelected { get { return SelectBackColor; } }
+        public override Color SeparatorDark { get { return BorderColor; } }
+        public override Color ToolStripDropDownBackground { get { return BackColor; } }
+        public override Color MenuBorder { get { return BorderColor; } }
+        public override Color MenuItemSelectedGradientBegin { get { return SelectBackColor; } }
+        public override Color MenuItemSelectedGradientEnd { get { return SelectBackColor; } }      
+        public override Color MenuItemPressedGradientBegin { get { return ContainerBackColor; } }
+        public override Color MenuItemPressedGradientEnd { get { return ContainerBackColor; } }
+        public override Color MenuItemPressedGradientMiddle { get { return ContainerBackColor; } }
+        public override Color ImageMarginGradientBegin { get { return BackColor; } }
+        public override Color ImageMarginGradientEnd { get { return BackColor; } }
+        public override Color ImageMarginGradientMiddle { get { return BackColor; } }
+    }
+}"
+	}
+	#endregion
+	
+	$colorTable = New-Object SAPIENTypes.SAPIENColorTable -ArgumentList $ContainerColor, $BackColor, $BorderColor, $MenuSelectionColor
+	$render = New-Object System.Windows.Forms.ToolStripProfessionalRenderer -ArgumentList $colorTable
+	[System.Windows.Forms.ToolStripManager]::Renderer = $render
+	
+	#Set up our processing queue
+	$Queue = New-Object System.Collections.Generic.Queue[System.ComponentModel.Component]
+	$Queue.Enqueue($Control)
+	
+	Add-Type -AssemblyName System.Core
+	
+	#Only process the controls once.
+	$Processed = New-Object System.Collections.Generic.HashSet[System.ComponentModel.Component]
+	
+	#Apply the colors to the controls
+	while ($Queue.Count -gt 0)
+	{
+		$target = $Queue.Dequeue()
+		
+		#Skip controls we already processed
+		if ($Processed.Contains($target)) { continue }
+		$Processed.Add($target)
+		
+		#Set the text color
+		$target.ForeColor = $ForeColor
+		
+		#region Handle Controls
+		if ($target -is [System.Windows.Forms.Form])
+		{
+			#Set Font
+			$target.Font = $Font
+			$target.BackColor = $ContainerColor
+		}
+		elseif ($target -is [System.Windows.Forms.SplitContainer])
+		{
+			$target.BackColor = $BorderColor
+		}
+		elseif ($target -is [System.Windows.Forms.PropertyGrid])
+		{
+			$target.BackColor = $BorderColor
+			$target.ViewBackColor = $BackColor
+			$target.ViewForeColor = $ForeColor
+			$target.ViewBorderColor = $BorderColor
+			$target.CategoryForeColor = $ForeColor
+			$target.CategorySplitterColor = $ContainerColor
+			$target.HelpBackColor = $BackColor
+			$target.HelpForeColor = $ForeColor
+			$target.HelpBorderColor = $BorderColor
+			$target.CommandsBackColor = $BackColor
+			$target.CommandsBorderColor = $BorderColor
+			$target.CommandsForeColor = $ForeColor
+			$target.LineColor = $ContainerColor
+		}
+		elseif ($target -is [System.Windows.Forms.ContainerControl] -or
+			$target -is [System.Windows.Forms.Panel])
+		{
+			#Set the BackColor for the container
+			$target.BackColor = $ContainerColor
+			
+		}
+		elseif ($target -is [System.Windows.Forms.GroupBox])
+		{
+			$target.FlatStyle = 'Flat'
+		}
+		elseif ($target -is [System.Windows.Forms.Button])
+		{
+			$target.FlatStyle = 'Flat'
+			$target.FlatAppearance.BorderColor = $BorderColor
+			$target.BackColor = $BackColor
+		}
+		elseif ($target -is [System.Windows.Forms.CheckBox] -or
+			$target -is [System.Windows.Forms.RadioButton] -or
+			$target -is [System.Windows.Forms.Label])
+		{
+			#$target.FlatStyle = 'Flat'
+		}
+		elseif ($target -is [System.Windows.Forms.ComboBox])
+		{
+			$target.BackColor = $BackColor
+			$target.FlatStyle = 'Flat'
+		}
+		elseif ($target -is [System.Windows.Forms.TextBox])
+		{
+			$target.BorderStyle = 'FixedSingle'
+			$target.BackColor = $BackColor
+		}
+		elseif ($target -is [System.Windows.Forms.DataGridView])
+		{
+			$target.GridColor = $BorderColor
+			$target.BackgroundColor = $ContainerColor
+			$target.DefaultCellStyle.BackColor = $WindowColor
+			$target.DefaultCellStyle.SelectionBackColor = $SelectionBackColor
+			$target.DefaultCellStyle.SelectionForeColor = $SelectionForeColor
+			$target.ColumnHeadersDefaultCellStyle.BackColor = $ContainerColor
+			$target.ColumnHeadersDefaultCellStyle.ForeColor = $ForeColor
+			$target.EnableHeadersVisualStyles = $false
+			$target.ColumnHeadersBorderStyle = 'Single'
+			$target.RowHeadersBorderStyle = 'Single'
+			$target.RowHeadersDefaultCellStyle.BackColor = $ContainerColor
+			$target.RowHeadersDefaultCellStyle.ForeColor = $ForeColor
+			
+		}
+		elseif ($PSVersionTable.PSVersion.Major -le 5 -and $target -is [System.Windows.Forms.DataGrid])
+		{
+			$target.CaptionBackColor = $WindowColor
+			$target.CaptionForeColor = $ForeColor
+			$target.BackgroundColor = $ContainerColor
+			$target.BackColor = $WindowColor
+			$target.ForeColor = $ForeColor
+			$target.HeaderBackColor = $ContainerColor
+			$target.HeaderForeColor = $ForeColor
+			$target.FlatMode = $true
+			$target.BorderStyle = 'FixedSingle'
+			$target.GridLineColor = $BorderColor
+			$target.AlternatingBackColor = $ContainerColor
+			$target.SelectionBackColor = $SelectionBackColor
+			$target.SelectionForeColor = $SelectionForeColor
+		}
+		elseif ($target -is [System.Windows.Forms.ToolStrip])
+		{
+			
+			$target.BackColor = $BackColor
+			$target.Renderer = $render
+			
+			foreach ($item in $target.Items)
+			{
+				$Queue.Enqueue($item)
+			}
+		}
+		elseif ($target -is [System.Windows.Forms.ToolStripMenuItem] -or
+			$target -is [System.Windows.Forms.ToolStripDropDown] -or
+			$target -is [System.Windows.Forms.ToolStripDropDownItem])
+		{
+			$target.BackColor = $BackColor
+			foreach ($item in $target.DropDownItems)
+			{
+				$Queue.Enqueue($item)
+			}
+		}
+		elseif ($target -is [System.Windows.Forms.ListBox] -or
+			$target -is [System.Windows.Forms.ListView] -or
+			$target -is [System.Windows.Forms.TreeView])
+		{
+			$target.BackColor = $WindowColor
+		}
+		else
+		{
+			$target.BackColor = $BackColor
+		}
+		#endregion
+		
+		if ($target -is [System.Windows.Forms.Control])
+		{
+			#Queue all the child controls
+			foreach ($child in $target.Controls)
+			{
+				$Queue.Enqueue($child)
+			}
+		}
+	}
+}
+#endregion
+
+$winget_maakPackage_button1_Click={
+	#TODO: Place custom script here
+	$config_packagefolder = Get-Variable -Name 'config_packagefolder' -ValueOnly -Scope Script
+	$config_logfoldertarget = Get-Variable -Name 'config_logfoldertarget' -ValueOnly -Scope Script
+	$config_customername = Get-Variable -Name 'config_customername' -ValueOnly -Scope Script
+	
+	$wid = $winget_WingetID_textbox1.text
+	$vid = $versie_textbox2.Text
+	$fid = $config_packagefolder
+	if ($winget_locale_checkbox1.Checked -eq $true)
+	{
+		$wlo = $Winget_locale_textbox.text
+		
+	}
+	else { $wlo = $null; }
+	if ($winget_version_checkbox.Checked -eq $true)
+	{
+		$wve = $winget_version_textbox1.text
+	}
+	else { $wve = $null; }
+
+	
+	$WinGetID = $wid
+			$regApp1 = $WinGetID.Split(".")[1]
+			$versie = $vid
+			$logdir = $config_logfoldertarget
+			$RegisterDetectionroot = "Intune_" + $config_customername
+			$outputDirectory = $fid
+	
+		$installFile = @'
+	
+<#	
+	.NOTES
+	===========================================================================
+	 Created with: 	SAPIEN Technologies, Inc., PowerShell Studio 2023 v5.8.218
+	 Created on:   	08/03/2023 12:15
+	 Created by:   	Rink Turksma
+	 Organization: 	CSN Groep B.V.
+	 Filename:     	Winget_install_uninstall.ps1
+	===========================================================================
+	.DESCRIPTION
+		Parameters will be provided from IntunePrepTool
+#>
+$WinGetID = "!!WinGetID!!"
+$logdir = "!!logdir!!"
+$RegisterDetectionroot = "!!RegisterDetectionroot!!"
+$versie = "!!versie!!"
+$locale = "!!locale!!"
+$localeSelected = "!!localeSelected!!"
+$versionWinget = "!!versionWinget!!"
+$versionWingetSelected = "!!versionSelected!!"
+
+#Dyn vars
+$regApp1 = $WinGetID.Split(".")[1]
+$logfile = $(Join-Path $logdir  "$WinGetID$versie.txt")
+$regkeyRoot = "HKLM:\Software\$RegisterDetectionroot"
+$regkeyApp = "$regkeyRoot\$regApp1"
+$excode = $null;
+#Maak log directory aan in programdata indien nodig.
+if (!(Test-Path -Path $logdir))
+{
+	
+	New-Item -ItemType Directory -Path $logdir
+}
+#Maakt de Registry Root dictory aan indien nodig
+if (!(Test-Path -Path $regkeyRoot))
+{
+	New-Item $regkeyRoot -ItemType Key -Force | out-null
+}
+#Maakt de applicatie Key aan in de Registry Root.
+if (!(Test-Path -Path $regkeyApp))
+{
+	New-Item $regkeyApp -ItemType Key -Force | out-null
+}
+
+function fDetectionInRegistry
+{
+	### Functie zorgt voor naar succesvolle of onsuccesvolle uitvoering..
+	### Uiteindelijk heb je dan bijvoorbeeld:
+	#### HKEY_LOCAL_MACHINE\SOFTWARE\Intune_Lentis\Test
+	### Met een Versie waarde en een [BOOL]Succes waarde
+	### Gebruik: fDetectionInRegistry -succes $False of fDetectionInRegistry -succes $true
+	param
+	(
+		[Parameter(Mandatory = $true)]
+		[bool]$Succes
+	)
+	
+	try
+	{
+		$AppRegVersie = Get-ItemProperty -Path $regkeyApp -Name Versie -ErrorAction Stop
+		if ($AppRegVersie.Versie -ne $versie) { set-ItemProperty -Path $regkeyApp -Name Versie -Value $Versie }
+	}
+	catch
+	{
+		new-ItemProperty -Path $regkeyApp -Name Versie -Value $Versie -PropertyType Dword
+	}
+	try
+	{
+		$AppRegSucces = Get-ItemProperty -Path $regkeyApp -Name Succes -ErrorAction Stop
+		if ($AppRegSucces.Succes -ne $Succes) { set-ItemProperty -Path $regkeyApp -Name Succes -Value $Succes }
+	}
+	catch
+	{
+		new-ItemProperty -Path $regkeyApp -Name Succes -Value $Succes -PropertyType Dword
+	}
+}
+
+
+
+<# Einde Powershell Functies
+Hier dus nog geen script uitvoering doen
+#>
+#Start Transcript.  Dit gaat opgeslagen onder de  $logdir. Zal daar in txt file beschikbaar zijn. En in de eventviewer.
+Start-Transcript -Path $logfile
+#Stelt het script uitvoerpad in op locatie root van het script.
+Set-Location $PSScriptRoot
+<#--Hieronder start Script ter installatie---
+	Hier kan dus 1 van de functies gedeclareerd hierboven gebruikt worden.
+	Altijd met een -ErrorAction Stop erachter
+#>
+
+$winget_exe = Resolve-Path "C:\Program Files\WindowsApps\Microsoft.DesktopAppInstaller_*_x64__8wekyb3d8bbwe\winget.exe"
+if ($winget_exe.count -gt 1)
+{
+	$winget_exe = $winget_exe[-1].Path
+}
+
+if (!$winget_exe) { Write-Error "Winget Is niet geinstalleerd" }
+
+try
+{
+	
+	$install = "!!WingetCommand!!"
+	if ($install -like "!!doe*")
+	{
+		if (($localeSelected -eq $false) -and ($versionWingetSelected -eq $false))
+		{
+			& $winget_exe install -e --id $WinGetID --accept-package-agreements --accept-source-agreements -h --scope=machine
+		}
+		if (($localeSelected -eq $true) -and ($versionWingetSelected -eq $false))
+		{
+			& $winget_exe install -e --id $WinGetID --accept-package-agreements --accept-source-agreements -h --scope=machine --locale $locale
+		}
+		if (($localeSelected -eq $false) -and ($versionWingetSelected -eq $true))
+		{
+			& $winget_exe install -e --id $WinGetID --accept-package-agreements --accept-source-agreements -h --scope=machine --version $versionWinget
+		}
+		if (($localeSelected -eq $true) -and ($versionWingetSelected -eq $true))
+		{
+			& $winget_exe install -e --id $WinGetID --accept-package-agreements --accept-source-agreements -h --scope=machine --version $versionWinget --locale $locale
+		}
+	}
+	else
+	{
+		& $winget_exe uninstall --id $WinGetID -h
+	}
+	$excode = 0;
+	
+}
+catch
+{
+	$excode = 1;
+	
+}
+
+<#----Hieronder einde script voor installatie---#>
+#Nu wordt de Transcript logging gestart
+Stop-Transcript
+#Na die commando wordt dit dus automatisch opgeslagen in de $logdir locatie
+#Hier is wat om de log zo te splitsen zodat we enkel de laatste run hebben.
+$split = [regex]::Escape("**********************")
+$lastRun = ((Get-Content $logfile -Raw) -split ($split))[-3]
+if ($lastRun.Length -gt 32600)
+{
+	$lastRun = $lastRun.Substring(0, 32600) + "`n`n****OUTPUT TRUNCATED****"
+}
+# In de try / catch in de uitvoering hebben we $excode op 0 of op 1 gezet
+# Op basis hiervan wordt de Log in de Event viewer op Error of op Informational gezet.
+# Daarnaast wordt de eerder gedeclareerde functie fDetectionInRegistry ingezet die de detectiemethodiek in het register plaats met of een succesvolle melding van applicatie of onsuccesvol
+if ($excode -eq 1) { $warning = 'Error'; fDetectionInRegistry -succes $false }
+else
+{
+	$warning = 'Information'; if ($install -like "!!doe*") { fDetectionInRegistry -succes $true }
+	else
+	{
+		remove-item $regkeyApp
+	}
+}
+Write-EventLog -LogName 'Windows Powershell' -Source 'Powershell' -EntryType $warning -EventId 800 -Message $lastRun
+'@
+		$installfile = $installfile.Replace('!!WinGetID!!', $WinGetID)
+		$installfile = $installfile.Replace('!!logdir!!', $logdir)
+		$installfile = $installfile.Replace('!!RegisterDetectionroot!!', $RegisterDetectionroot)
+		$installfile = $installfile.Replace('!!versie!!', $versie)
+		if ($wlo -ne $null)
+		{
+		$installfile = $installfile.Replace('!!locale!!', $wlo)
+		$installfile = $installfile.Replace("!!localeSelected!!", $true)
+		} else { $installfile = $installfile.Replace("!!localeSelected!!", $false) }
+		if ($wve -ne $null)
+		{
+		$installfile = $installfile.Replace('!!versionWinget!!', $wve)
+		$installfile = $installfile.Replace("!!versionSelected!!", $true)
+		} else { $installfile = $installfile.Replace("!!versionSelected!!", $false) }
+	
+	
+	if (!(Test-Path -Path "$outputDirectory\$wingetID\$versie\source"))
+		{
+			
+			New-Item -ItemType Directory -Path "$outputDirectory\$wingetID\$versie\source"
+		}
+		if (!(Test-Path -Path "$outputDirectory\$wingetID\$versie\output"))
+		{
+			
+			New-Item -ItemType Directory -Path "$outputDirectory\$wingetID\$versie\output"
+		}
+	
+		
+		$installfile = $installfile.Replace('!!WingetCommand!!', "!!doeinstall!!")
+		$installFile | Out-File "$outputDirectory\$wingetID\$versie\source\install.ps1" -Force
+		$installfile = $installfile.Replace('!!doeinstall!!', "geeninstall")
+		$installFile | Out-File "$outputDirectory\$wingetID\$versie\source\uninstall.ps1" -Force
+	
+	
+		Set-Location $PSScriptRoot
+		
+		
+		& .\IntuneWinAppUtil.exe -c "$outputDirectory\$wingetID\$versie\source" -s "$outputDirectory\$wingetID\$versie\source\install.ps1" -o "$outputDirectory\$wingetID\$versie\output" -q
+		
+		Rename-Item -Path "$outputDirectory\$wingetID\$versie\output\install.intunewin" -NewName "$outputDirectory\$wingetID\$versie\output\$wingetID.intunewin"
+		$winget_output_textbox3.Text = "`nNiew package aangemaakt: `r`n"
+	
+		$winget_output_textbox3.AppendText("$outputDirectory\$wingetID\$versie\output\$wingetID.intunewin")
+		$winget_output_textbox3.AppendText("`r`n")
+		$winget_output_textbox3.AppendText("Versie is: $Versie `r`n")
+		$winget_output_textbox3.AppendText("Install command is: `r`n")
+		$winget_output_textbox3.AppendText("powershell -executionpolicy bypass -file install.ps1 `r`n")
+		$winget_output_textbox3.AppendText("un-install command is: `r`n")
+		$winget_output_textbox3.AppendText("powershell -executionpolicy bypass -file uninstall.ps1 `r`n")
+		$winget_output_textbox3.AppendText("Detection registry is: `r`n")
+		$regkeyRoot = "HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\$RegisterDetectionroot\"
+		$regkeyApp = "$regkeyRoot$regApp1\"
+		$regkeyApp
+		$winget_output_textbox3.AppendText("$regkeyApp `r`n")
+		$winget_output_textbox3.AppendText("Detection Method is: 'String Comparison' `r`n")
+		$winget_output_textbox3.AppendText("Detection Value is: 'Versie' `r`n")
+		$winget_output_textbox3.AppendText("Detection Operator is: 'Equals' `r`n")
+		$winget_output_textbox3.AppendText("Detection Value is: $Versie `r`n")
+	
+	class CSNIntuneWinPackageConfig {
+		[string]$IntuneWinFile
+		[string]$DisplayName
+		[string]$Publisher
+		[string]$AppVersion
+		[string]$reglocation
+		[string]$regValue
+		[string]$installCMD
+		[string]$uninstallCMD
+	}
+	$CSNIntuneWinPackageConfig = $null;
+	$CSNIntuneWinPackageConfig += @([CSNIntuneWinPackageConfig]@{
+			IntuneWinFile = "$wingetID.intunewin"
+			DisplayName = $wingetID
+			Publisher = $config_customername_textbox.Text
+			AppVersion = $versie;
+			reglocation = $regkeyApp
+			regValue = 'Versie'
+			installCMD = "powershell -executionpolicy bypass -file install.ps1"
+			uninstallCMD = "powershell -executionpolicy bypass -file uninstall.ps1"			
+		})
+	
+	$CSNIntuneWinPackageConfig | Export-Csv "$outputDirectory\$wingetID\$versie\output\config.csv" -NoTypeInformation
+	$winget_output_textbox3.AppendText("Config.csv weggeschreven naar: `r`n")
+	$winget_output_textbox3.AppendText("$outputDirectory\$wingetID\$versie\output\config.csv")
+	
+	$winget_upload_logo_button1.Visible = $true
+	$winget_upload_logo_button1.Enabled = $true;
+	}
+	
+	
+
+$winget_WingetID_textbox1_TextChanged={
+	#TODO: Place custom script here
+	
+	if ($config_listbox.SelectedItem -eq $null) { #Add-Type -AssemblyName "System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"
+		[void][System.Windows.Forms.MessageBox]::Show('Please select Customer in the Config Tab page.', 'Select Customer first')
+	} # Casting the method to [void] suppresses the output. 
+}
+
+$versie_textbox2_TextChanged={
+	#TODO: Place custom script here
+	
+}
+
+$config_packagefolder_textbox_TextChanged={
+	#TODO: Place custom script here
+	
+}
+
+$winget_output_textbox3_TextChanged={
+	#TODO: Place custom script here
+	
+}
+
+$tabpage2_Click={
+	#TODO: Place custom script here
+	
+}
+
+$config_packagefolder_label_Click={
+	#TODO: Place custom script here
+	
+}
+
+$winget_checkurl_button1_Click={
+	#TODO: Place custom script here
+	
+	#$showurl = winget show $wgid
+	$winget_exe = Resolve-Path "C:\Program Files\WindowsApps\Microsoft.DesktopAppInstaller_*_x64__8wekyb3d8bbwe\winget.exe"
+	if ($winget_exe.count -gt 1)
+	{
+		$winget_exe = $winget_exe[-1].Path
+	}
+	
+	if (!$winget_exe)
+	{
+		#Add-Type -AssemblyName "System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"
+		[void][System.Windows.Forms.MessageBox]::Show("Expecting Winget in: C:\Program Files\WindowsApps\Microsoft.DesktopAppInstaller_*_x64__8wekyb3d8bbwe\winget.exe", 'No Winget found') # Casting the method to [void] suppresses the output. 
+	}
+
+		$wgid = $winget_WingetID_textbox1.text
+		try
+		{
+			$showurl = & $winget_exe show $wgid
+			foreach ($l in $showurl)
+			{
+			if ($l -like "*Installer Url*") { $url = "https:" + $l.Split(":")[2] }
+			}
+		}
+	catch
+	{
+		$showurl = winget show $wgid
+		foreach ($l in $showurl)
+		{
+			if ($l -like "*Download Url*") { $url = "https:" + $l.Split(":")[2] }
+		}
+		
+		
+	}
+	
+	#Add-Type -AssemblyName "System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"
+	[void][System.Windows.Forms.MessageBox]::Show($URL, 'Download source URL') # Casting the method to [void] suppresses the output. 
+	
+}
+
+$config_customername_textbox_TextChanged={
+	#TODO: Place custom script here
+	
+}
+
+$config_logfoldertarger_textbox_TextChanged={
+	#TODO: Place custom script here
+	
+}
+
+$config_save_button_Click={
+	#TODO: Place custom script here
+	
+	[string]$c_customername = $config_customername_textbox.text
+	[string]$c_logfoldertarget = $config_logfoldertarger_textbox.text
+	[string]$c_packagefolder = $config_packagefolder_textbox.text
+	[string]$c_tenanturl = $config_tenanturl_textbox.text
+
+	
+	$config_customerinfo += @([config_customerinfo]@{
+			customername =  $c_customername
+			logfoldertarget   = $c_logfoldertarget
+			packagefolder	  = $c_packagefolder
+			tenanturl   = $c_tenanturl;
+		})
+	
+	$config_customerinfo | Export-Csv "config_customerinfo.csv" -NoTypeInformation -Append
+	$config_import_csv = Import-Csv config_customerinfo.csv -ErrorAction Stop
+	$config_listbox = $null;
+	foreach ($cis in $config_import_csv)
+	{
+		Update-ListBox $config_listbox $cis.customername -Append
+	}
+	
+	
+	
+}
+
+$tabcontrol1_SelectedIndexChanged={
+	#TODO: Place custom script here
+	
+}
+
+$exe_openexe_button1_Click={
+	#TODO: Place custom script here
+	$exe_openfiledialog1.ShowDialog()
+	$exe_label1.Text = $exe_openfiledialog1.SafeFileName
+	$exe_label1.Visible = $true;
+	
+}
+
+$exe_label1_Click={
+	#TODO: Place custom script here
+	
+}
+
+$exe_maakPackageDir_button1_Click={
+	#TODO: Place custom script here
+	$config_packagefolder = Get-Variable -Name 'config_packagefolder' -ValueOnly -Scope Script
+	$config_logfoldertarget = Get-Variable -Name 'config_logfoldertarget' -ValueOnly -Scope Script
+	$config_customername = Get-Variable -Name 'config_customername' -ValueOnly -Scope Script
+	$fid = $config_packagefolder;  $outputDirectory = $fid
+	
+	$exepnaam = $exe_packagenaam_textbox1.text
+	$exeversie = $exe_versie_textbox1.text
+	if (!(Test-Path -Path "$outputDirectory\$exepnaam\$exeversie\source"))
+	{
+		
+		New-Item -ItemType Directory -Path "$outputDirectory\$exepnaam\$exeversie\source"
+	}
+	if (!(Test-Path -Path "$outputDirectory\$exepnaam\$exeversie\output"))
+	{
+		
+		New-Item -ItemType Directory -Path "$outputDirectory\$exepnaam\$exeversie\output"
+	}
+	$exe_output_textbox1.Text = "`nNew package directory created: `r`n"
+	$exe_output_textbox1.AppendText("$outputDirectory\$exepnaam\$exeversie\source")
+	$exe_output_textbox1.AppendText("`r`n")
+	$exe_output_textbox1.AppendText("`nEXE file will be copied now `r`n")
+	
+	[string]$exe_org_path = $exe_openfiledialog1.FileNames
+	try
+	{
+		Copy-Item -Path $exe_org_path -Destination "$outputDirectory\$exepnaam\$exeversie\source" -ErrorAction Stop
+		$exe_output_textbox1.AppendText("`nEXE file copy failed `r`n")
+		$exe_output_textbox1.AppendText("`nIf you need any additional files please place in just created source directory `r`n")
+		$exe_panel1.Enabled = $true
+		$exe_panel1.Visible = $true
+	}
+	catch
+	{
+		$exe_output_textbox1.AppendText("`nEXE file copy failed. Please select EXE file first `r`n")
+	}
+	$exe_open_sourcedir_button1.Enabled = $true
+	$exe_open_sourcedir_button1.Visible = $true
+}
+
+$exe_packagenaam_textbox1_TextChanged={
+	#TODO: Place custom script here
+	if ($config_listbox.SelectedItem -eq $null)
+	{
+		#Add-Type -AssemblyName "System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"
+		[void][System.Windows.Forms.MessageBox]::Show('Please select Customer in the Config Tab page.', 'Select Customer first')
+	} # Casting the method to [void] suppresses the output. 
+}
+
+$exe_versie_textbox1_TextChanged={
+	#TODO: Place custom script here
+	
+}
+
+$exe_output_textbox1_TextChanged={
+	#TODO: Place custom script here
+	
+}
+
+$tabpage5_Click={
+	#TODO: Place custom script here
+	
+}
+
+$exe_parsInstall_textbox1_TextChanged={
+	#TODO: Place custom script here
+	$argList = $exe_parsInstall_textbox1.Text
+	$exebestand = $exe_openfiledialog1.SafeFileName
+	$exe_output_installparameters.text = "Start-Process -FilePath $EXEbestand -ArgumentList $argList"
+}
+
+$exe_output_installparameters_Click={
+	#TODO: Place custom script here
+	
+}
+
+$exe_install_test_button1_Click={
+	#TODO: Place custom script here
+	if ([System.Windows.Forms.MessageBox]::Show('Do you want to test?... ', 'Test', [System.Windows.Forms.MessageBoxButtons]::YesNo) -eq 'Yes')
+	{
+		$config_packagefolder = Get-Variable -Name 'config_packagefolder' -ValueOnly -Scope Script
+		$config_logfoldertarget = Get-Variable -Name 'config_logfoldertarget' -ValueOnly -Scope Script
+		$config_customername = Get-Variable -Name 'config_customername' -ValueOnly -Scope Script
+		$exepnaam = $exe_packagenaam_textbox1.text
+		$exeversie = $exe_versie_textbox1.text
+		$outputDirectory = $config_packagefolder
+		
+		powershell_ise -file  "$outputDirectory\$exepnaam\$exeversie\source\install.ps1" 
+	}
+	
+
+}
+
+$exe_radiobuttonUninstallEXEPath_CheckedChanged={
+	#TODO: Place custom script here
+	if ($exe_radiobuttonUninstallEXEPath.Checked -eq $true)
+	{
+		$exe_uninstall_exe_path_textbox2.Enabled = $true
+		$exe_uninstall_exe_path_textbox2.Visible = $true
+		
+	}
+	if ($exe_radiobuttonGebruikZelfdeEXEAlsB.Checked -eq $true)
+	{
+		$exe_uninstall_exe_path_textbox2.Enabled = $false
+		$exe_uninstall_exe_path_textbox2.Visible = $false
+		
+	}
+}
+
+$exe_radiobuttonGebruikZelfdeEXEAlsB_CheckedChanged={
+	#TODO: Place custom script here
+	if ($exe_radiobuttonUninstallEXEPath.Checked -eq $true)
+	{
+		$exe_uninstall_exe_path_textbox2.Enabled = $true
+		$exe_uninstall_exe_path_textbox2.Visible = $true
+		
+	}
+	if ($exe_radiobuttonGebruikZelfdeEXEAlsB.Checked -eq $true)
+	{
+		$exe_uninstall_exe_path_textbox2.Enabled = $false
+		$exe_uninstall_exe_path_textbox2.Visible = $false
+		
+	}
+}
+
+$exe_parsUnInstall_textbox1_TextChanged={
+	#TODO: Place custom script here
+	if ($exe_radiobuttonUninstallEXEPath.Checked -eq $true)
+	{
+		$exe_uninstall_exe_path_textbox2.Enabled = $true
+		$exe_uninstall_exe_path_textbox2.Visible = $true
+		$exebestandUninstall = $exe_uninstall_exe_path_textbox2.text
+	}
+	if ($exe_radiobuttonGebruikZelfdeEXEAlsB.Checked -eq $true)
+	{
+		$exe_uninstall_exe_path_textbox2.Enabled = $false
+		$exe_uninstall_exe_path_textbox2.Visible = $false
+		$exebestandUninstall = $exe_openfiledialog1.SafeFileName
+	}
+	
+	
+	
+	
+	
+	$argList2 = $exe_parsUnInstall_textbox1.text
+	if ($exe_openfiledialog1.SafeFileName -like "*.exe")
+	{
+		
+		$exe_labelVoorbeeldUninstall.text = "Start-Process -FilePath $exebestandUninstall -ArgumentList $argList2"
+	}
+}
+
+$exe_labelVoorbeeldUninstall_Click={
+	#TODO: Place custom script here
+	
+}
+
+$exe_test_uninstall_button1_Click={
+	#TODO: Place custom script here
+	
+	if ([System.Windows.Forms.MessageBox]::Show('Do you want to test deinstallation.. You can Edit in Powershell ISE. And save that file if needed.?... ', 'Test', [System.Windows.Forms.MessageBoxButtons]::YesNo) -eq 'Yes')
+	{
+		$config_packagefolder = Get-Variable -Name 'config_packagefolder' -ValueOnly -Scope Script
+		$config_logfoldertarget = Get-Variable -Name 'config_logfoldertarget' -ValueOnly -Scope Script
+		$config_customername = Get-Variable -Name 'config_customername' -ValueOnly -Scope Script
+		$exepnaam = $exe_packagenaam_textbox1.text
+		$exeversie = $exe_versie_textbox1.text
+		$outputDirectory = $config_packagefolder
+		powershell_ise -file "$outputDirectory\$exepnaam\$exeversie\source\uninstall.ps1"
+	}
+	
+	
+	
+}
+
+$exe_maakScripting_button1_Click={
+	#TODO: Place custom script here
+
+
+	
+	$exe_installFile = @'
+[CmdletBinding()]
+Param ()
+#App Parameters
+$appNaam = "!!AppNaam!!"
+$versie = "!!versie!!"
+$EXEbestand = "!!EXEBestand!!"
+$EXEparameters = "!!EXEPARMS!!" ##CHeck EXE PARMS.. 
+#klant variabelen
+$logdir = "!!logdir!!"
+$RegisterDetectionroot = "!!RegisterDetectionroot!!"
+#Dyn vars
+$logfile = $(Join-Path $logdir  "$appnaam$versie.txt")
+$filenaamMSILog = $appNaam + $versie + "MSI"
+$logfileMSI = $(Join-Path $logdir  "$filenaamMSILog.txt")
+$regkeyRoot = "HKLM:\Software\$RegisterDetectionroot"
+$regkeyApp = "$regkeyRoot\$appNaam"
+$excode = $null;
+#Maak log directory aan in programdata indien nodig.
+if (!(Test-Path -Path $logdir))
+{
+	
+	New-Item -ItemType Directory -Path $logdir
+}
+#Maakt de Registry Root dictory aan indien nodig
+if (!(Test-Path -Path $regkeyRoot))
+{
+	New-Item $regkeyRoot -ItemType Key -Force | out-null
+}
+#Maakt de applicatie Key aan in de Registry Root.
+if (!(Test-Path -Path $regkeyApp))
+{
+	New-Item $regkeyApp -ItemType Key -Force | out-null
+}
+
+
+
+function fDetectionInRegistry
+{
+	### Functie zorgt voor naar succesvolle of onsuccesvolle uitvoering..
+	### Uiteindelijk heb je dan bijvoorbeeld:
+	#### HKEY_LOCAL_MACHINE\SOFTWARE\Intune_Lentis\Test
+	### Met een Versie waarde en een [BOOL]Succes waarde
+	### Gebruik: fDetectionInRegistry -succes $False of fDetectionInRegistry -succes $true
+	param
+	(
+		[Parameter(Mandatory = $true)]
+		[bool]$Succes
+	)
+	
+	try
+	{
+		$AppRegVersie = Get-ItemProperty -Path $regkeyApp -Name Versie -ErrorAction Stop
+		if ($AppRegVersie.Versie -ne $versie) { set-ItemProperty -Path $regkeyApp -Name Versie -Value $Versie }
+	}
+	catch
+	{
+		new-ItemProperty -Path $regkeyApp -Name Versie -Value $Versie -PropertyType Dword
+	}
+	try
+	{
+		$AppRegSucces = Get-ItemProperty -Path $regkeyApp -Name Succes -ErrorAction Stop
+		if ($AppRegSucces.Succes -ne $Succes) { set-ItemProperty -Path $regkeyApp -Name Succes -Value $Succes }
+	}
+	catch
+	{
+		new-ItemProperty -Path $regkeyApp -Name Succes -Value $Succes -PropertyType Dword
+	}
+}
+
+
+<# Einde Powershell Functies
+Hier dus nog geen script uitvoering doen
+#>
+#Start Transcript.  Dit gaat opgeslagen onder de  $logdir. Zal daar in txt file beschikbaar zijn. En in de eventviewer.
+Start-Transcript -Path $logfile
+#Stelt het script uitvoerpad in op locatie root van het script.
+Set-Location $PSScriptRoot
+<#--Hieronder start Script ter installatie---
+	Hier kan dus 1 van de functies gedeclareerd hierboven gebruikt worden.
+	Altijd met een -ErrorAction Stop erachter
+#>
+
+
+try
+{
+	Start-Process -FilePath $EXEbestand -ArgumentList $EXEparameters -ErrorAction Stop -wait
+	$excode = 0;
+	
+}
+catch
+{
+	$excode = 1;
+	
+}
+
+<#----Hieronder einde script voor installatie---#>
+#Nu wordt de Transcript logging gestart
+Stop-Transcript
+#Na die commando wordt dit dus automatisch opgeslagen in de $logdir locatie
+#Hier is wat om de log zo te splitsen zodat we enkel de laatste run hebben.
+$split = [regex]::Escape("**********************")
+$lastRun = ((Get-Content $logfile -Raw) -split ($split))[-3]
+if ($lastRun.Length -gt 32600)
+{
+	$lastRun = $lastRun.Substring(0, 32600) + "`n`n****OUTPUT TRUNCATED****"
+}
+# In de try / catch in de uitvoering hebben we $excode op 0 of op 1 gezet
+# Op basis hiervan wordt de Log in de Event viewer op Error of op Informational gezet.
+# Daarnaast wordt de eerder gedeclareerde functie fDetectionInRegistry ingezet die de detectiemethodiek in het register plaats met of een succesvolle melding van applicatie of onsuccesvol
+if ($excode -eq 1) { $warning = 'Error'; fDetectionInRegistry -succes $false }
+else { $warning = 'Information'; fDetectionInRegistry -succes $true }
+Write-EventLog -LogName 'Windows Powershell' -Source 'Powershell' -EntryType $warning -EventId 800 -Message $lastRun
+'@
+	
+	$config_packagefolder = Get-Variable -Name 'config_packagefolder' -ValueOnly -Scope Script
+	$config_logfoldertarget = Get-Variable -Name 'config_logfoldertarget' -ValueOnly -Scope Script
+	$config_customername = Get-Variable -Name 'config_customername' -ValueOnly -Scope Script
+	
+	$logdir = $config_logfoldertarget
+	$RegisterDetectionroot = "Intune_" + $config_customername
+	$versie = $exe_versie_textbox1.text
+	$EXEbestand = '"' + $exe_openfiledialog1.SafeFileName + '"'
+	$appnaam = '"' + $exe_packagenaam_textbox1.text + '"'
+	$EXEPARSInput = $exe_parsInstall_textbox1.Text
+	
+
+	
+	
+	
+	$exe_installFile = $exe_installFile.Replace('"!!AppNaam!!"', $appnaam)
+	$exe_installFile = $exe_installFile.Replace('!!logdir!!', $logdir)
+	$exe_installFile = $exe_installFile.Replace('!!RegisterDetectionroot!!', $RegisterDetectionroot)
+	$exe_installFile = $exe_installFile.Replace('!!versie!!', $versie)
+	$exe_installFile = $exe_installFile.Replace('"!!EXEBestand!!"', $EXEbestand)
+	$exe_installFile = $exe_installFile.Replace('"!!EXEPARMS!!"', $EXEPARSInput)
+	
+	$exepnaam = $exe_packagenaam_textbox1.text
+	$exeversie = $exe_versie_textbox1.text
+	$outputDirectory = $config_packagefolder
+	try
+	{
+		$exe_installFile | Out-File "$outputDirectory\$exepnaam\$exeversie\source\install.ps1" -Force -ErrorAction Stop
+		$exe_output_textbox1.AppendText("`nInstall.ps1 created `r`n")
+	}
+	catch
+	{
+		$exe_output_textbox1.AppendText("`nInstall.ps1 NOT created `r`n")
+	}
+	
+	$exe_uninstallFile = @'
+[CmdletBinding()]
+Param ()
+#App Parameters
+$appNaam = "!!AppNaam!!"
+$versie = "!!versie!!"
+$EXEbestand = "!!EXEBestand!!"
+$EXEparameters = "!!EXEPARMS!!" ##CHeck EXE PARMS.. 
+#klant variabelen
+$logdir = "!!logdir!!"
+$RegisterDetectionroot = "!!RegisterDetectionroot!!"
+#Dyn vars
+$logfile = $(Join-Path $logdir  "$appnaam$versie.txt")
+$filenaamMSILog = $appNaam + $versie + "MSI"
+$logfileMSI = $(Join-Path $logdir  "$filenaamMSILog.txt")
+$regkeyRoot = "HKLM:\Software\$RegisterDetectionroot"
+$regkeyApp = "$regkeyRoot\$appNaam"
+$excode = $null;
+#Maak log directory aan in programdata indien nodig.
+if (!(Test-Path -Path $logdir))
+{
+	
+	New-Item -ItemType Directory -Path $logdir
+}
+#Maakt de Registry Root dictory aan indien nodig
+if (!(Test-Path -Path $regkeyRoot))
+{
+	New-Item $regkeyRoot -ItemType Key -Force | out-null
+}
+#Maakt de applicatie Key aan in de Registry Root.
+if (!(Test-Path -Path $regkeyApp))
+{
+	New-Item $regkeyApp -ItemType Key -Force | out-null
+}
+
+
+
+function fDetectionInRegistry
+{
+	### Functie zorgt voor naar succesvolle of onsuccesvolle uitvoering..
+	### Uiteindelijk heb je dan bijvoorbeeld:
+	#### HKEY_LOCAL_MACHINE\SOFTWARE\Intune_Lentis\Test
+	### Met een Versie waarde en een [BOOL]Succes waarde
+	### Gebruik: fDetectionInRegistry -succes $False of fDetectionInRegistry -succes $true
+	param
+	(
+		[Parameter(Mandatory = $true)]
+		[bool]$Succes
+	)
+	
+	try
+	{
+		$AppRegVersie = Get-ItemProperty -Path $regkeyApp -Name Versie -ErrorAction Stop
+		if ($AppRegVersie.Versie -ne $versie) { set-ItemProperty -Path $regkeyApp -Name Versie -Value $Versie }
+	}
+	catch
+	{
+		new-ItemProperty -Path $regkeyApp -Name Versie -Value $Versie -PropertyType Dword
+	}
+	try
+	{
+		$AppRegSucces = Get-ItemProperty -Path $regkeyApp -Name Succes -ErrorAction Stop
+		if ($AppRegSucces.Succes -ne $Succes) { set-ItemProperty -Path $regkeyApp -Name Succes -Value $Succes }
+	}
+	catch
+	{
+		new-ItemProperty -Path $regkeyApp -Name Succes -Value $Succes -PropertyType Dword
+	}
+}
+
+
+<# Einde Powershell Functies
+Hier dus nog geen script uitvoering doen
+#>
+#Start Transcript.  Dit gaat opgeslagen onder de  $logdir. Zal daar in txt file beschikbaar zijn. En in de eventviewer.
+Start-Transcript -Path $logfile
+#Stelt het script uitvoerpad in op locatie root van het script.
+Set-Location $PSScriptRoot
+<#--Hieronder start Script ter installatie---
+	Hier kan dus 1 van de functies gedeclareerd hierboven gebruikt worden.
+	Altijd met een -ErrorAction Stop erachter
+#>
+
+
+try
+{
+	Start-Process -FilePath $EXEbestand -ArgumentList $EXEparameters -ErrorAction Stop -wait
+	$excode = 0;
+	
+}
+catch
+{
+	$excode = 1;
+	
+}
+
+<#----Hieronder einde script voor installatie---#>
+#Nu wordt de Transcript logging gestart
+Stop-Transcript
+#Na die commando wordt dit dus automatisch opgeslagen in de $logdir locatie
+#Hier is wat om de log zo te splitsen zodat we enkel de laatste run hebben.
+$split = [regex]::Escape("**********************")
+$lastRun = ((Get-Content $logfile -Raw) -split ($split))[-3]
+if ($lastRun.Length -gt 32600)
+{
+	$lastRun = $lastRun.Substring(0, 32600) + "`n`n****OUTPUT TRUNCATED****"
+}
+# In de try / catch in de uitvoering hebben we $excode op 0 of op 1 gezet
+# Op basis hiervan wordt de Log in de Event viewer op Error of op Informational gezet.
+# Daarnaast wordt de eerder gedeclareerde functie fDetectionInRegistry ingezet die de detectiemethodiek in het register plaats met of een succesvolle melding van applicatie of onsuccesvol
+if ($excode -eq 1) { $warning = 'Error'; fDetectionInRegistry -succes $false }
+else { $warning = 'Information';  remove-item $regkeyApp  }
+Write-EventLog -LogName 'Windows Powershell' -Source 'Powershell' -EntryType $warning -EventId 800 -Message $lastRun
+'@
+	
+	if ($exe_radiobuttonUninstallEXEPath.Checked -eq $true)
+	{
+		$EXEbestand = $exe_uninstall_exe_path_textbox2.Text
+		
+	}
+	else
+	{
+		$EXEbestand = '"' + $exe_openfiledialog1.SafeFileName + '"'
+	}
+	
+	
+	$exe_uninstallFile = $exe_uninstallFile.Replace('"!!AppNaam!!"', $appnaam)
+	$exe_uninstallFile = $exe_uninstallFile.Replace('!!logdir!!', $logdir)
+	$exe_uninstallFile = $exe_uninstallFile.Replace('!!RegisterDetectionroot!!', $RegisterDetectionroot)
+	$exe_uninstallFile = $exe_uninstallFile.Replace('!!versie!!', $versie)
+	$exe_uninstallFile = $exe_uninstallFile.Replace('"!!EXEBestand!!"', $EXEbestand)
+	$exe_uninstallFile = $exe_uninstallFile.Replace('"!!EXEPARMS!!"', $EXEPARSInput)
+	
+	try
+	{
+		$exe_uninstallFile | Out-File "$outputDirectory\$exepnaam\$exeversie\source\uninstall.ps1" -Force -ErrorAction Stop
+		$exe_output_textbox1.AppendText("`nUninstall.ps1 created `r`n")
+	}
+	catch
+	{
+		$exe_output_textbox1.AppendText("`nInstall.ps1 NIET created `r`n")
+	}
+	
+	
+}
+
+$exe_uninstall_exe_path_textbox2_TextChanged={
+	#TODO: Place custom script here
+	
+}
+
+$exe_panel1_Paint=[System.Windows.Forms.PaintEventHandler]{
+#Event Argument: $_ = [System.Windows.Forms.PaintEventArgs]
+	#TODO: Place custom script here
+	
+}
+
+$exe_maak_intuneWIN_button1_Click={
+	#TODO: Place custom script here
+	Set-Location $PSScriptRoot
+	$config_packagefolder = Get-Variable -Name 'config_packagefolder' -ValueOnly -Scope Script
+	$config_logfoldertarget = Get-Variable -Name 'config_logfoldertarget' -ValueOnly -Scope Script
+	$config_customername = Get-Variable -Name 'config_customername' -ValueOnly -Scope Script
+	$exepnaam = $exe_packagenaam_textbox1.text
+	$exeversie = $exe_versie_textbox1.text
+	$outputDirectory = $config_packagefolder
+	$mkiapn = $exe_packagenaam_textbox1.text
+	$versie = $exe_versie_textbox1.text
+	$RegisterDetectionroot = "Intune_" + $config_customername
+	& .\IntuneWinAppUtil.exe -c "$outputDirectory\$exepnaam\$exeversie\source\" -s "$outputDirectory\$exepnaam\$exeversie\source\install.ps1" -o "$outputDirectory\$exepnaam\$exeversie\output\" -q
+	Rename-Item -Path "$outputDirectory\$exepnaam\$exeversie\output\install.intunewin" -NewName "$outputDirectory\$exepnaam\$exeversie\output\$mkiapn.intunewin"
+	$exe_output_textbox1.AppendText("`nIntunewin file created: `r`n")
+	$exe_output_textbox1.AppendText("$outputDirectory\$exepnaam\$exeversie\output\$mkiapn.intunewin")
+	$exe_output_textbox1.AppendText("`r`n")
+	
+	$exe_output_textbox1.AppendText("Install command is: `r`n")
+	$exe_output_textbox1.AppendText("powershell -executionpolicy bypass -file install.ps1 `r`n")
+	$exe_output_textbox1.AppendText("un-install command is: `r`n")
+	$exe_output_textbox1.AppendText("powershell -executionpolicy bypass -file uninstall.ps1 `r`n")
+	$exe_output_textbox1.AppendText("Detection in registry is: `r`n")
+	$regkeyRoot = "HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\$RegisterDetectionroot\"
+	$regkeyApp = "$regkeyRoot$mkiapn\"
+	$regkeyApp
+	$exe_output_textbox1.AppendText("$regkeyApp `r`n")
+	$exe_output_textbox1.AppendText("Detection Method is: 'String Comparison' `r`n")
+	$exe_output_textbox1.AppendText("Detection Value is: 'Versie' `r`n")
+	$exe_output_textbox1.AppendText("Detection Operator is: 'Equals' `r`n")
+	$exe_output_textbox1.AppendText("Detection Value is: $Versie `r`n")
+	
+	
+	class CSNIntuneWinPackageConfig {
+		[string]$IntuneWinFile
+		[string]$DisplayName
+		[string]$Publisher
+		[string]$AppVersion
+		[string]$reglocation
+		[string]$regValue
+		[string]$installCMD
+		[string]$uninstallCMD
+	}
+	$CSNIntuneWinPackageConfig = $null;
+	$CSNIntuneWinPackageConfig += @([CSNIntuneWinPackageConfig]@{
+			IntuneWinFile = "$exepnaam.intunewin"
+			DisplayName   = $exepnaam
+			Publisher	  = $config_customername
+			AppVersion    = $exeversie;
+			reglocation   = $regkeyApp
+			regValue	  = 'Versie'
+			installCMD    = "powershell -executionpolicy bypass -file install.ps1"
+			uninstallCMD  = "powershell -executionpolicy bypass -file uninstall.ps1"
+		})
+	
+	$CSNIntuneWinPackageConfig | Export-Csv "$outputDirectory\$exepnaam\$exeversie\output\config.csv" -NoTypeInformation
+	$exe_output_textbox1.AppendText("Config.csv written to naar: `r`n")
+	$exe_output_textbox1.AppendText("$outputDirectory\$exepnaam\$exeversie\output\config.csv")
+	$exe_uploadlogo_button1.Enabled = $true
+	$exe_uploadlogo_button1.Visible = $true
+	
+}
+
+$msi_buttonOpenMSIFile_Click={
+	#TODO: Place custom script here
+	$msi_openfiledialog1.ShowDialog()
+	$msi_openmsi_label1.Text = $msi_openfiledialog1.SafeFileName
+	$msi_openmsi_label1.Visible = $true;
+}
+
+$msi_openmsi_label1_Click={
+	#TODO: Place custom script here
+	
+}
+
+$msi_buttonCreatePackageDirecto_Click = {
+	$config_packagefolder = Get-Variable -Name 'config_packagefolder' -ValueOnly -Scope Script
+	$config_logfoldertarget = Get-Variable -Name 'config_logfoldertarget' -ValueOnly -Scope Script
+	$config_customername = Get-Variable -Name 'config_customername' -ValueOnly -Scope Script
+	#TODO: Place custom script here
+	$fid = $config_packagefolder; $outputDirectory = $fid
+	
+	$msipnaam = $msi_packagenaam_textbox1.text
+	$msiversie = $msi_versie_textbox1.text
+	if (!(Test-Path -Path "$outputDirectory\$msipnaam\$msiversie\source"))
+	{
+		
+		New-Item -ItemType Directory -Path "$outputDirectory\$msipnaam\$msiversie\source"
+	}
+	if (!(Test-Path -Path "$outputDirectory\$msipnaam\$msiversie\output"))
+	{
+		
+		New-Item -ItemType Directory -Path "$outputDirectory\$msipnaam\$msiversie\output"
+	}
+	$msi_output_textbox1.Text = "`nNew package direcotory created: `r`n"
+	$msi_output_textbox1.AppendText("$outputDirectory\$msipnaam\$msiversie\source")
+	$msi_output_textbox1.AppendText("`r`n")
+	$msi_output_textbox1.AppendText("`nMSI file will now be copied`r`n")
+	[string]$msi_org_path = $msi_openfiledialog1.FileNames
+	try
+	{
+		Copy-Item -Path $msi_org_path -Destination "$outputDirectory\$msipnaam\$msiversie\source" -ErrorAction Stop
+		$msi_output_textbox1.AppendText("`nMSI file copy failed `r`n")
+		$msi_output_textbox1.AppendText("`nIf you need additional files. Please use open source directory to place files `r`n")
+		$msi_output_textbox1.AppendText("`nYou can use this for TRANSFORMS files `r`n")
+		$msi_panel1.Enabled = $true
+		$msi_panel1.Visible = $true
+	}
+	catch
+	{
+		$exe_output_textbox1.AppendText("`nfile copy failed. Please select file first  `r`n")
+	}
+	$appNaam = $msipnaam
+	$versie = $msiversie
+	$MSIbestand = $msi_openfiledialog1.SafeFileName
+	#klant variabelen
+	$logdir = $config_logfoldertarget
+	$RegisterDetectionroot = "Intune_" + $config_customername
+	#Dyn vars
+	$logfile = $(Join-Path $logdir  "$appnaam$versie.txt")
+	$filenaamMSILog = $appNaam + $versie + "MSI"
+	$logfileMSI = "$(Join-Path $logdir  "$filenaamMSILog.txt")"
+	$msi_install_par_textbox3.Text = "msiexec /qn, /l*v  $logfileMSI /i $MSIbestand"
+	$msi_OpenSourceDir_button1.Enabled = $true
+	$msi_OpenSourceDir_button1.Visible = $true
+}
+
+$labelInstallParametersadj_Click={
+	#TODO: Place custom script here
+	
+}
+
+$msi_uninstall_par_textbox1_TextChanged={
+	#TODO: Place custom script here
+	
+}
+
+$msi_panel1_Paint=[System.Windows.Forms.PaintEventHandler]{
+#Event Argument: $_ = [System.Windows.Forms.PaintEventArgs]
+	#TODO: Place custom script here
+	
+}
+
+$msi_button1CreateInstallScript_Click={
+	#TODO: Place custom script here
+	#'"' + $exe_openfiledialog1.SafeFileName + '"'
+
+	$msi_installFile = @'
+[CmdletBinding()]
+Param ()
+$appNaam = "!!AppNaam!!"
+$versie = "!!versie!!"
+$MSIbestand = '"' + "!!MSIBestand!!" + '"'
+$MSIparameters = "!!MSIPARMS!!"
+#klant variabelen
+$logdir = "!!logdir!!"
+$RegisterDetectionroot = "!!RegisterDetectionroot!!"
+#Dyn vars
+$logfile = $(Join-Path $logdir  "$appnaam$versie.txt")
+$filenaamMSILog = $appNaam + $versie + "MSI"
+$logfileMSI = $(Join-Path $logdir  "$filenaamMSILog.txt")
+$regkeyRoot = "HKLM:\Software\$RegisterDetectionroot"
+$regkeyApp = "$regkeyRoot\$appNaam"
+$excode = $null;
+
+
+#Maak log directory aan in programdata indien nodig.
+if (!(Test-Path -Path $logdir))
+{
+	
+	New-Item -ItemType Directory -Path $logdir
+}
+#Maakt de Registry Root dictory aan indien nodig
+if (!(Test-Path -Path $regkeyRoot))
+{
+	New-Item $regkeyRoot -ItemType Key -Force | out-null
+}
+#Maakt de applicatie Key aan in de Registry Root.
+if (!(Test-Path -Path $regkeyApp))
+{
+	New-Item $regkeyApp -ItemType Key -Force | out-null
+}
+
+<# Begin Powershell Functies
+Hier dus nog geen script uitvoering doen
+#>
+
+
+function fDetectionInRegistry
+{
+	### Functie zorgt voor naar succesvolle of onsuccesvolle uitvoering..
+	### Uiteindelijk heb je dan bijvoorbeeld:
+	#### HKEY_LOCAL_MACHINE\SOFTWARE\Intune_Lentis\Test
+	### Met een Versie waarde en een [BOOL]Succes waarde
+	### Gebruik: fDetectionInRegistry -succes $False of fDetectionInRegistry -succes $true
+	param
+	(
+		[Parameter(Mandatory = $true)]
+		[bool]$Succes
+	)
+	
+	try
+	{
+		$AppRegVersie = Get-ItemProperty -Path $regkeyApp -Name Versie -ErrorAction Stop
+		if ($AppRegVersie.Versie -ne $versie) { set-ItemProperty -Path $regkeyApp -Name Versie -Value $Versie }
+	}
+	catch
+	{
+		new-ItemProperty -Path $regkeyApp -Name Versie -Value $Versie -PropertyType Dword
+	}
+	try
+	{
+		$AppRegSucces = Get-ItemProperty -Path $regkeyApp -Name Succes -ErrorAction Stop
+		if ($AppRegSucces.Succes -ne $Succes) { set-ItemProperty -Path $regkeyApp -Name Succes -Value $Succes }
+	}
+	catch
+	{
+		new-ItemProperty -Path $regkeyApp -Name Succes -Value $Succes -PropertyType Dword
+	}
+}
+
+
+<# Einde Powershell Functies
+Hier dus nog geen script uitvoering doen
+#>
+#Start Transcript.  Dit gaat opgeslagen onder de  $logdir. Zal daar in txt file beschikbaar zijn. En in de eventviewer.
+Start-Transcript -Path $logfile
+#Stelt het script uitvoerpad in op locatie root van het script.
+Set-Location $PSScriptRoot
+<#--Hieronder start Script ter installatie---
+	Hier kan dus 1 van de functies gedeclareerd hierboven gebruikt worden.
+	Altijd met een -ErrorAction Stop erachter
+#>
+
+
+try
+{
+	$startPMSI = start-process i.cmd -wait -WindowStyle Hidden -erroraction stop
+    write-host $startPMSI
+	$msilog = get-content $logfileMSI
+    if ($msilog -eq $null) { write-error "Kan MSI log niet uitlezen.. Gebruik: /l*v c:\blabla\MSILog.txt in msiexec commando" }
+    Else {
+    foreach ($ml in $msilog) {
+    if ($ml -like "*APPCOMPAT: looking for appcompat database entry with ProductCode*"){ 
+    $msiUninstallcode = $ml.Split('{')[1].Split('}')[0]
+    }
+    }
+    write-host "Product succesvol geinstalleerd" -ForegroundColor yellow -BackgroundColor black
+    write-host "Mogelijke uninstall commando is:" -ForegroundColor yellow -BackgroundColor black
+    write-host "msiexec /x {$msiuninstallcode} /qn" -ForegroundColor Green -BackgroundColor DarkBlue
+    }
+
+	
+	$excode = 0
+}
+catch
+{
+	Write-Host "Installatie mislukt" -ForegroundColor Red -BackgroundColor Blue
+    $startPMSI
+    write-host "Zie log file v.d. MSI waarom dit niet werkt:" -ForegroundColor Red -BackgroundColor Blue
+    write-host $logfileMSI -ForegroundColor Red -BackgroundColor Blue
+	Write-Host "Zie wat dit betekent: https://learn.microsoft.com/en-us/windows/win32/msi/error-codes" -ForegroundColor Red -BackgroundColor Blue
+	$excode = 1
+}
+
+
+<#----Hieronder einde script voor installatie---#>
+#Nu wordt de Transcript logging gestart
+Stop-Transcript
+#Na die commando wordt dit dus automatisch opgeslagen in de $logdir locatie
+#Hier is wat om de log zo te splitsen zodat we enkel de laatste run hebben.
+$split = [regex]::Escape("**********************")
+$lastRun = ((Get-Content $logfile -Raw) -split ($split))[-3]
+if ($lastRun.Length -gt 32600)
+{
+	$lastRun = $lastRun.Substring(0, 32600) + "`n`n****OUTPUT TRUNCATED****"
+}
+# In de try / catch in de uitvoering hebben we $excode op 0 of op 1 gezet
+# Op basis hiervan wordt de Log in de Event viewer op Error of op Informational gezet.
+# Daarnaast wordt de eerder gedeclareerde functie fDetectionInRegistry ingezet die de detectiemethodiek in het register plaats met of een succesvolle melding van applicatie of onsuccesvol
+if ($excode -eq 1) { $warning = 'Error'; fDetectionInRegistry -succes $false }
+else { $warning = 'Information'; fDetectionInRegistry -succes $true }
+Write-EventLog -LogName 'Windows Powershell' -Source 'Powershell' -EntryType $warning -EventId 800 -Message $lastRun
+'@
+	
+	$config_packagefolder = Get-Variable -Name 'config_packagefolder' -ValueOnly -Scope Script
+	$config_logfoldertarget = Get-Variable -Name 'config_logfoldertarget' -ValueOnly -Scope Script
+	$config_customername = Get-Variable -Name 'config_customername' -ValueOnly -Scope Script
+	$logdir = $config_logfoldertarget
+	$RegisterDetectionroot = "Intune_" + $config_customername
+	$versie = $msi_versie_textbox1.text
+	$MSIbestand = '"' + $msi_openfiledialog1.SafeFileName + '"'
+	$appnaam = '"' + $MSI_packagenaam_textbox1.text + '"'
+	$MSIPARSInput = '"' + $msi_install_par_textbox3.Text + '"'
+	
+	$msi_installFile = $msi_installFile.Replace('"!!AppNaam!!"', $appnaam)
+	$msi_installFile = $msi_installFile.Replace('!!logdir!!', $logdir)
+	$msi_installFile = $msi_installFile.Replace('!!RegisterDetectionroot!!', $RegisterDetectionroot)
+	$msi_installFile = $msi_installFile.Replace('!!versie!!', $versie)
+	$msi_installFile = $msi_installFile.Replace('"!!MSIBestand!!"', $MSIbestand)
+	$msi_installFile = $msi_installFile.Replace('"!!MSIPARMS!!"', $MSIPARSInput)
+	
+	$exepnaam = $msi_packagenaam_textbox1.text
+	$exeversie = $versie
+	$outputDirectory = $config_packagefolder
+	
+	try
+	{
+		$jjmsii = $msi_install_par_textbox3.Text
+		
+		$jjmsii | Out-File "$outputDirectory\$exepnaam\$exeversie\source\i.cmd" -encoding ascii -Force -ErrorAction Stop
+		$msi_installFile | Out-File "$outputDirectory\$exepnaam\$exeversie\source\install.ps1" -Force -ErrorAction Stop
+		$msi_output_textbox1.AppendText("`nInstall.ps1 created `r`n")
+		$msi_output_textbox1.AppendText("`ni.cmd created `r`n")
+		$msi_output_textbox1.AppendText("`nTest your script. If needed, save in Powershell_ISE directly. `r`n")
+		$msi_output_textbox1.AppendText("`nAfter succesvol installation you can see the uninstall string in Powershell_ISE `r`n")
+		$msi_output_textbox1.AppendText("`nIf this is not working. Check Tab Tools for uninstall strings `r`n")
+	}
+	catch
+	{
+		$msi_output_textbox1.AppendText("`nInstall.ps1 NOT created `r`n")
+	}
+	
+	
+	
+}
+
+$msi_install_par_textbox3_TextChanged={
+	#TODO: Place custom script here
+	
+}
+
+$msi_packagenaam_textbox1_TextChanged={
+	#TODO: Place custom script here
+	if ($config_listbox.SelectedItem -eq $null)
+	{
+		#Add-Type -AssemblyName "System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"
+		[void][System.Windows.Forms.MessageBox]::Show('Please select Customer in the Config Tab page.', 'Select Customer first')
+	} # Casting the method to [void] suppresses the output. 
+}
+
+$msi_test_install_button1_Click={
+	#TODO: Place custom script here
+	if ([System.Windows.Forms.MessageBox]::Show('Do you want to test?... ', 'Test', [System.Windows.Forms.MessageBoxButtons]::YesNo) -eq 'Yes')
+	{
+		$config_packagefolder = Get-Variable -Name 'config_packagefolder' -ValueOnly -Scope Script
+		$config_logfoldertarget = Get-Variable -Name 'config_logfoldertarget' -ValueOnly -Scope Script
+		$config_customername = Get-Variable -Name 'config_customername' -ValueOnly -Scope Script
+		$fid = $config_packagefolder; $outputDirectory = $fid
+		$msipnaam = $msi_packagenaam_textbox1.text
+		$msiversie = $msi_versie_textbox1.text
+		
+		powershell_ise -file "$outputDirectory\$msipnaam\$msiversie\source\install.ps1"
+	}
+}
+
+$Tools_Uninstall_String_button_Click={
+	#TODO: Place custom script here
+	$tools_Output_textbox1.Text = "Here are alle the uninstall strings on your computer. Sorted by date `r`n"
+	
+	$InstallsUninstallString = Get-ItemProperty HKLM:\Software\Microsoft\Windows\CurrentVersion\Uninstall\* | Select-Object DisplayName, DisplayVersion, Publisher, InstallDate, UninstallString | Sort-Object InstallDate
+	
+	foreach ($ius in $InstallsUninstallString)
+	{
+		
+		
+		$tools_Output_textbox1.AppendText("`r`n")
+		$tools_Output_textbox1.AppendText("DisplayName: " + $ius.DisplayName + "`r`n")
+		$tools_Output_textbox1.AppendText("DisplayVersion: " + $ius.DisplayVersion + "`r`n")
+		$tools_Output_textbox1.AppendText("InstallDate: " + $ius.InstallDate + "`r`n")
+		$tools_Output_textbox1.AppendText("Uninstallstring: " + $ius.UninstallString + "`r`n")
+	}
+	
+}
+
+$tools_Output_textbox1_TextChanged={
+	#TODO: Place custom script here
+	
+}
+
+$tools_uninstallstring_Syswow_button_Click={
+	#TODO: Place custom script here
+	$tools_Output_textbox1.Text = "Here are alle the uninstall strings on your computer. Sorted by date `r`n"
+	$InstallsUninstallString = Get-ItemProperty HKLM:\Software\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\* | Select-Object DisplayName, DisplayVersion, Publisher, InstallDate, UninstallString | Sort-Object InstallDate
+	foreach ($ius in $InstallsUninstallString)
+	{
+		$tools_Output_textbox1.AppendText("`r`n")
+		$tools_Output_textbox1.AppendText("DisplayName: " + $ius.DisplayName + "`r`n")
+		$tools_Output_textbox1.AppendText("DisplayVersion: " + $ius.DisplayVersion + "`r`n")
+		$tools_Output_textbox1.AppendText("InstallDate: " + $ius.InstallDate + "`r`n")
+		$tools_Output_textbox1.AppendText("Uninstallstring: " + $ius.UninstallString + "`r`n")
+	}
+}
+
+$buttonUninstallstringWowAA32Node_Click={
+	#TODO: Place custom script here
+	$tools_Output_textbox1.Text = "Hier volgen alle uninstallString sort by datum WowAA32Node `r`n"
+	$InstallsUninstallString = Get-ItemProperty HKLM:\Software\WowAA32Node\Microsoft\Windows\CurrentVersion\Uninstall\* | Select-Object DisplayName, DisplayVersion, Publisher, InstallDate, UninstallString | Sort-Object InstallDate
+	foreach ($ius in $InstallsUninstallString)
+	{
+		$tools_Output_textbox1.AppendText("`r`n")
+		$tools_Output_textbox1.AppendText("DisplayName: " + $ius.DisplayName + "`r`n")
+		$tools_Output_textbox1.AppendText("DisplayVersion: " + $ius.DisplayVersion + "`r`n")
+		$tools_Output_textbox1.AppendText("InstallDate: " + $ius.InstallDate + "`r`n")
+		$tools_Output_textbox1.AppendText("Uninstallstring: " + $ius.UninstallString + "`r`n")
+	}
+}
+
+$msi_button5CreateIntunewinFile_Click={
+	#TODO: Place custom script here
+	Set-Location $PSScriptRoot
+	$config_packagefolder = Get-Variable -Name 'config_packagefolder' -ValueOnly -Scope Script
+	$config_logfoldertarget = Get-Variable -Name 'config_logfoldertarget' -ValueOnly -Scope Script
+	$config_customername = Get-Variable -Name 'config_customername' -ValueOnly -Scope Script
+	$msipnaam = $msi_packagenaam_textbox1.text
+	$msiversie = $msi_versie_textbox1.text
+	$outputDirectory = $config_packagefolder
+	$RegisterDetectionroot = "Intune_" + $config_customername
+	$msi_output_textbox1.Text = "Creation of Intunewin file has started. Please wait."
+	& .\IntuneWinAppUtil.exe -c "$outputDirectory\$msipnaam\$msiversie\source\" -s "$outputDirectory\$msipnaam\$msiversie\source\install.ps1" -o "$outputDirectory\$msipnaam\$msiversie\output\" -q
+	Rename-Item -Path "$outputDirectory\$msipnaam\$msiversie\output\install.intunewin" -NewName "$outputDirectory\$msipnaam\$msiversie\output\$msipnaam.intunewin"
+	$msi_output_textbox1.AppendText("`nIntunewin file created: `r`n")
+	$msi_output_textbox1.AppendText("$outputDirectory\$msipnaam\$msiversie\output\$msipnaam.intunewin")
+	$msi_output_textbox1.AppendText("`r`n")
+	
+	$msi_output_textbox1.AppendText("Install command is: `r`n")
+	$msi_output_textbox1.AppendText("powershell -executionpolicy bypass -file install.ps1 `r`n")
+	$msi_output_textbox1.AppendText("un-install command is: `r`n")
+	$msi_output_textbox1.AppendText("powershell -executionpolicy bypass -file uninstall.ps1 `r`n")
+	$msi_output_textbox1.AppendText("Detection registry is: `r`n")
+	$regkeyRoot = "HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\$RegisterDetectionroot\"
+	$regkeyApp = "$regkeyRoot$msipnaam\"
+	$regkeyApp
+	$msi_output_textbox1.AppendText("$regkeyApp `r`n")
+	$msi_output_textbox1.AppendText("Detection Method is: 'String Comparison' `r`n")
+	$msi_output_textbox1.AppendText("Detection Value is: 'Versie' `r`n")
+	$msi_output_textbox1.AppendText("Detection Operator is: 'Equals' `r`n")
+	$msi_output_textbox1.AppendText("Detection Value is: $msiversie `r`n")
+	
+	class CSNIntuneWinPackageConfig {
+		[string]$IntuneWinFile
+		[string]$DisplayName
+		[string]$Publisher
+		[string]$AppVersion
+		[string]$reglocation
+		[string]$regValue
+		[string]$installCMD
+		[string]$uninstallCMD
+	}
+	$CSNIntuneWinPackageConfig = $null;
+	$CSNIntuneWinPackageConfig += @([CSNIntuneWinPackageConfig]@{
+			IntuneWinFile = "$msipnaam.intunewin"
+			DisplayName   = $msipnaam
+			Publisher	  = $config_customername
+			AppVersion    = $msiversie;
+			reglocation   = $regkeyApp
+			regValue	  = 'Versie'
+			installCMD    = "powershell -executionpolicy bypass -file install.ps1"
+			uninstallCMD  = "powershell -executionpolicy bypass -file uninstall.ps1"
+		})
+	
+	$CSNIntuneWinPackageConfig | Export-Csv "$outputDirectory\$msipnaam\$msiversie\output\config.csv" -NoTypeInformation
+	$msi_output_textbox1.AppendText("Config.csv written to: `r`n")
+	$msi_output_textbox1.AppendText("$outputDirectory\$msipnaam\$msiversie\output\config.csv")
+	$msi_buttonUploadLogoPNG.Enabled = $true
+	$msi_buttonUploadLogoPNG.Visible = $true
+	
+}
+
+$msi_OpenSourceDir_button1_Click={
+	#TODO: Place custom script here
+	$config_packagefolder = Get-Variable -Name 'config_packagefolder' -ValueOnly -Scope Script
+	$config_logfoldertarget = Get-Variable -Name 'config_logfoldertarget' -ValueOnly -Scope Script
+	$config_customername = Get-Variable -Name 'config_customername' -ValueOnly -Scope Script
+	$msipnaam = $msi_packagenaam_textbox1.text
+	$msiversie = $msi_versie_textbox1.text
+	Invoke-Item "$config_packagefolder\$msipnaam\$msiversie\source\"
+}
+
+$msi_button3CreateUninstallScri_Click={
+	#TODO: Place custom script here
+	$msi_uninstallFile = @'
+[CmdletBinding()]
+Param ()
+$appNaam = "!!AppNaam!!"
+$versie = "!!versie!!"
+$MSIbestand = '"' + "!!MSIBestand!!" + '"'
+$MSIparameters = "!!MSIPARMS!!"
+#klant variabelen
+$logdir = "!!logdir!!"
+$RegisterDetectionroot = "!!RegisterDetectionroot!!"
+#Dyn vars
+$logfile = $(Join-Path $logdir  "$appnaam$versie.txt")
+$filenaamMSILog = $appNaam + $versie + "MSI"
+$logfileMSI = $(Join-Path $logdir  "$filenaamMSILog.txt")
+$regkeyRoot = "HKLM:\Software\$RegisterDetectionroot"
+$regkeyApp = "$regkeyRoot\$appNaam"
+$excode = $null;
+
+
+#Maak log directory aan in programdata indien nodig.
+if (!(Test-Path -Path $logdir))
+{
+	
+	New-Item -ItemType Directory -Path $logdir
+}
+#Maakt de Registry Root dictory aan indien nodig
+if (!(Test-Path -Path $regkeyRoot))
+{
+	New-Item $regkeyRoot -ItemType Key -Force | out-null
+}
+#Maakt de applicatie Key aan in de Registry Root.
+if (!(Test-Path -Path $regkeyApp))
+{
+	New-Item $regkeyApp -ItemType Key -Force | out-null
+}
+
+<# Begin Powershell Functies
+Hier dus nog geen script uitvoering doen
+#>
+
+
+function fDetectionInRegistry
+{
+	### Functie zorgt voor naar succesvolle of onsuccesvolle uitvoering..
+	### Uiteindelijk heb je dan bijvoorbeeld:
+	#### HKEY_LOCAL_MACHINE\SOFTWARE\Intune_Lentis\Test
+	### Met een Versie waarde en een [BOOL]Succes waarde
+	### Gebruik: fDetectionInRegistry -succes $False of fDetectionInRegistry -succes $true
+	param
+	(
+		[Parameter(Mandatory = $true)]
+		[bool]$Succes
+	)
+	
+	try
+	{
+		$AppRegVersie = Get-ItemProperty -Path $regkeyApp -Name Versie -ErrorAction Stop
+		if ($AppRegVersie.Versie -ne $versie) { set-ItemProperty -Path $regkeyApp -Name Versie -Value $Versie }
+	}
+	catch
+	{
+		new-ItemProperty -Path $regkeyApp -Name Versie -Value $Versie -PropertyType Dword
+	}
+	try
+	{
+		$AppRegSucces = Get-ItemProperty -Path $regkeyApp -Name Succes -ErrorAction Stop
+		if ($AppRegSucces.Succes -ne $Succes) { set-ItemProperty -Path $regkeyApp -Name Succes -Value $Succes }
+	}
+	catch
+	{
+		new-ItemProperty -Path $regkeyApp -Name Succes -Value $Succes -PropertyType Dword
+	}
+}
+
+
+<# Einde Powershell Functies
+Hier dus nog geen script uitvoering doen
+#>
+#Start Transcript.  Dit gaat opgeslagen onder de  $logdir. Zal daar in txt file beschikbaar zijn. En in de eventviewer.
+Start-Transcript -Path $logfile
+#Stelt het script uitvoerpad in op locatie root van het script.
+Set-Location $PSScriptRoot
+<#--Hieronder start Script ter installatie---
+	Hier kan dus 1 van de functies gedeclareerd hierboven gebruikt worden.
+	Altijd met een -ErrorAction Stop erachter
+#>
+
+
+try
+{
+	$startPMSI = start-process u.cmd -wait -erroraction stop -WindowStyle Hidden
+    write-host $startPMSI
+	write-host "Unistall uitevoerd" -ForegroundColor yellow -BackgroundColor black
+   
+
+	
+	$excode = 0
+}
+catch
+{
+	Write-Host "Deinstallatie mislukt" -ForegroundColor Red -BackgroundColor Blue
+    $startPMSI
+	$excode = 1
+}
+
+
+<#----Hieronder einde script voor installatie---#>
+#Nu wordt de Transcript logging gestart
+Stop-Transcript
+#Na die commando wordt dit dus automatisch opgeslagen in de $logdir locatie
+#Hier is wat om de log zo te splitsen zodat we enkel de laatste run hebben.
+$split = [regex]::Escape("**********************")
+$lastRun = ((Get-Content $logfile -Raw) -split ($split))[-3]
+if ($lastRun.Length -gt 32600)
+{
+	$lastRun = $lastRun.Substring(0, 32600) + "`n`n****OUTPUT TRUNCATED****"
+}
+# In de try / catch in de uitvoering hebben we $excode op 0 of op 1 gezet
+# Op basis hiervan wordt de Log in de Event viewer op Error of op Informational gezet.
+# Daarnaast wordt de eerder gedeclareerde functie fDetectionInRegistry ingezet die de detectiemethodiek in het register plaats met of een succesvolle melding van applicatie of onsuccesvol
+if ($excode -eq 1) { $warning = 'Error'; fDetectionInRegistry -succes $false }
+else { $warning = 'Information'; remove-item $regkeyApp }
+Write-EventLog -LogName 'Windows Powershell' -Source 'Powershell' -EntryType $warning -EventId 800 -Message $lastRun
+'@
+	$config_packagefolder = Get-Variable -Name 'config_packagefolder' -ValueOnly -Scope Script
+	$config_logfoldertarget = Get-Variable -Name 'config_logfoldertarget' -ValueOnly -Scope Script
+	$config_customername = Get-Variable -Name 'config_customername' -ValueOnly -Scope Script
+	$logdir = $config_logfoldertarget
+	$RegisterDetectionroot = "Intune_" + $config_customername
+	$versie = $msi_versie_textbox1.text
+	$MSIbestand = '"' + $msi_openfiledialog1.SafeFileName + '"'
+	$appnaam = '"' + $MSI_packagenaam_textbox1.text + '"'
+	$MSIPARSInput = '"' + $msi_uninstall_par_textbox1 + '"'
+	
+	$msi_uninstallFile = $msi_uninstallFile.Replace('"!!AppNaam!!"', $appnaam)
+	$msi_uninstallFile = $msi_uninstallFile.Replace('!!logdir!!', $logdir)
+	$msi_uninstallFile = $msi_uninstallFile.Replace('!!RegisterDetectionroot!!', $RegisterDetectionroot)
+	$msi_uninstallFile = $msi_uninstallFile.Replace('!!versie!!', $versie)
+	$msi_uninstallFile = $msi_uninstallFile.Replace('"!!MSIBestand!!"', $MSIbestand)
+	$msi_uninstallFile = $msi_uninstallFile.Replace('"!!MSIPARMS!!"', $MSIPARSInput)
+	
+	$exepnaam = $msi_packagenaam_textbox1.text
+	$exeversie = $versie
+	$outputDirectory = $config_packagefolder
+	
+	try
+	{
+		$jjmsii = $msi_uninstall_par_textbox1.text
+		
+		$jjmsii | Out-File "$outputDirectory\$exepnaam\$exeversie\source\u.cmd" -encoding ascii -Force -ErrorAction Stop
+		$msi_uninstallFile | Out-File "$outputDirectory\$exepnaam\$exeversie\source\uninstall.ps1" -Force -ErrorAction Stop
+		$msi_output_textbox1.AppendText("`nUninstall.ps1 created `r`n")
+		$msi_output_textbox1.AppendText("`nu.cmd created `r`n")
+		$msi_output_textbox1.AppendText("`nTest and if needed. Save changes in Powershell_ISE directly `r`n")
+		
+	
+	}
+	catch
+	{
+		$msi_output_textbox1.AppendText("`nUninstall.ps1 NOT created `r`n")
+	}
+	
+}
+
+$msi_button4TestUninstallPowers_Click={
+	#TODO: Place custom script here
+	if ([System.Windows.Forms.MessageBox]::Show('Do you want to test deinstallation?... ', 'Test', [System.Windows.Forms.MessageBoxButtons]::YesNo) -eq 'Yes')
+	{
+		$config_packagefolder = Get-Variable -Name 'config_packagefolder' -ValueOnly -Scope Script
+		$config_logfoldertarget = Get-Variable -Name 'config_logfoldertarget' -ValueOnly -Scope Script
+		$config_customername = Get-Variable -Name 'config_customername' -ValueOnly -Scope Script
+		$fid = $config_packagefolder; $outputDirectory = $fid
+		$msipnaam = $msi_packagenaam_textbox1.text
+		$msiversie = $msi_versie_textbox1.text
+		
+		powershell_ise -file "$outputDirectory\$msipnaam\$msiversie\source\uninstall.ps1"
+	}
+}
+
+$Reset_button1_Click={
+	#TODO: Place custom script here
+	Clear-Host
+}
+
+$tabpage1_Click={
+	#TODO: Place custom script here
+	
+}
+
+$winget_upload_button1_Click={
+	#TODO: Place custom script here
+	<#
+	$token = Connect-MSIntuneGraph -TenantID "339ad6f1-ba98-4db6-bf71-0c140c9271bc" -Interactive
+	$RegisterDetectionroot = "Intune_Lentis"
+	$appNaam = "Greenshot"
+	$versie = 1
+	$regkeyRoot = "HKLM:\Software\$RegisterDetectionroot"
+	$regkeyApp = "$regkeyRoot\$appNaam"
+	$DetectionRule = New-IntuneWin32AppDetectionRuleRegistry -StringComparison -KeyPath $regkeyApp -ValueName 'Versie' -StringComparisonOperator equal -StringComparisonValue $versie
+	Add-IntuneWin32App -FilePath $IntuneWinFile `
+					   -DisplayName $DisplayName `
+					   -Description $DisplayName `
+					   -Publisher $Publisher `
+					   -AppVersion $AppVersion `
+					   -Icon $IconCMD `
+					   -InstallExperience "system" `
+					   -RestartBehavior "suppress" `
+					   -DetectionRule $DetectionRule `
+					   -InstallCommandLine 'powershell -executionpolicy bypass -file install.ps1' `
+					   -UninstallCommandLine 'powershell -executionpolicy bypass -file uninstall.ps1' -Verbose
+	#>
+}
+
+$upload_LoadConfig_button1_Click={
+	#TODO: Place custom script here
+	$config_csv_openfiledialog1.ShowDialog()
+	[string]$config_csv_path = $config_csv_openfiledialog1.FileNames
+	$ConfigCSVImport = Import-Csv $config_csv_path
+	#Write-Host $ConfigCSVImport
+	$itwnf = $ConfigCSVImport.IntuneWinFile
+	$filepath = $config_csv_path.TrimEnd("config.csv")
+	$itwnffilepath = $filepath + $itwnf
+	$upload_IntuneWinFile_textbox1.Text = $itwnffilepath
+	$upload_DisplayName_textbox1.Text = $ConfigCSVImport.DisplayName
+	$upload_Publisher_textbox1.Text = $ConfigCSVImport.Publisher
+	$upload_AppVersion_textbox1.Text = $ConfigCSVImport.AppVersion
+	$upload_reglocation_textbox1.Text = $ConfigCSVImport.reglocation
+	$upload_regValue_textbox1.Text = $ConfigCSVImport.regValue
+	$upload_installCMD_textbox1.Text = $ConfigCSVImport.installCMD
+	$upload_uninstallCMD_textbox1.Text = $ConfigCSVImport.uninstallCMD
+
+}
+
+$upload_IntuneWinFile_textbox1_TextChanged={
+	#TODO: Place custom script here
+	
+}
+
+$upload_DisplayName_textbox1_TextChanged={
+	#TODO: Place custom script here
+	
+}
+
+$upload_Publisher_textbox1_TextChanged={
+	#TODO: Place custom script here
+	
+}
+
+$upload_AppVersion_textbox1_TextChanged={
+	#TODO: Place custom script here
+	
+}
+
+$upload_reglocation_textbox1_TextChanged={
+	#TODO: Place custom script here
+	
+}
+
+$upload_regValue_textbox1_TextChanged={
+	#TODO: Place custom script here
+	
+}
+
+$upload_installCMD_textbox1_TextChanged={
+	#TODO: Place custom script here
+	
+}
+
+$upload_upload_button1_Click={
+	#TODO: Place custom script here
+	$uploadIntuneFile = @'
+
+<#	
+	.NOTES
+	===========================================================================
+	 Created with: 	SAPIEN Technologies, Inc., PowerShell Studio 2022 v5.8.210
+	 Created on:   	26/02/2023 14:05
+	 Created by:   	Rink Turksma
+	 Organization: 	
+	 Filename:     	UploadIntune.ps1
+	===========================================================================
+	.DESCRIPTION
+		Params are used from IntunePrepTool
+		Uses Powershell modules MSAL.PS from Jason Thompson and IntuneWin32App from Nickolaj Andersen
+		
+#>
+
+#Requires -RunAsAdministrator
+#Installatie Powershell Modules
+Write-Host "Script will install IntuneWin32App powershell module from the Powershell Galery if needed." -ForegroundColor Green
+if (Get-Module -ListAvailable -Name IntuneWin32App) { Import-Module -Name IntuneWin32App -Force }
+else { Install-Module -name IntuneWin32App -Scope AllUsers -Force -SkipPublisherCheck -Confirm:$False; Import-Module -Name IntuneWin32App -Force }
+
+Write-Host "Script will install MSAL.PS powershell module from the Powershell Galery if needed." -ForegroundColor Green
+if (Get-Module -ListAvailable -Name MSAL.PS) { Import-Module -Name MSAL.PS -Force }
+else { Install-Module -name MSAL.PS -Scope AllUsers -Force -SkipPublisherCheck -Confirm:$False; Import-Module -Name IMSAL.PS -Force }
+[string]$config_csv_path = '!!CONFIGCSV!!'
+$tenantURL = "!!TENANTURL!!"
+$dep = "!!DEPENDENCY!!"
+Write-host "First logon with the Microsoft Tenant"
+Write-host "`r`n"
+Write-host "`r`n"
+
+Connect-MSIntuneGraph -TenantID $tenantURL -Interactive
+$ConfigCSVImport = Import-Csv $config_csv_path
+$itwnf = $ConfigCSVImport.IntuneWinFile
+$filepath = $config_csv_path.TrimEnd("config.csv")
+$itwnffilepath = $filepath + $itwnf
+$regKeyApp = $ConfigCSVImport.regLocation
+$versie = $ConfigCSVImport.AppVersion
+$dnam = $ConfigCSVImport.DisplayName
+$publ = $ConfigCSVImport.Publisher
+$icmd = $ConfigCSVImport.installCMD
+$ucmd = $ConfigCSVImport.uninstallCMD
+$logoaanwezig = get-childitem "$filepath\logo.png"
+if ($logoaanwezig -eq $null) { write-host "No Logo.PNG found in Output Directory" -ForegroundColor Green; Write-host "`r`n"; Write-host "`r`n"; }
+else
+{
+	$icon = New-IntuneWin32AppIcon -FilePath "$filepath\logo.png"
+	$DetectionRule = New-IntuneWin32AppDetectionRuleRegistry -StringComparison -KeyPath $regkeyApp -ValueName 'Versie' -StringComparisonOperator equal -StringComparisonValue $versie
+	$RequirementRule = New-IntuneWin32AppRequirementRule -Architecture "All" -MinimumSupportedWindowsRelease "20H2"
+	write-host "We will first check if there are any apps already availeble in Intune with the same DisplayName" -ForegroundColor Green ; Write-host "`r`n"; Write-host "`r`n";
+	$Win32AppEvtVorigeVersies = Get-IntuneWin32App -DisplayName $dnam -Verbose
+	if ($Win32AppEvtVorigeVersies -ne $null)
+	{
+		write-host "Already version(s) found " -ForegroundColor Green ; Write-host "`r`n"; Write-host "`r`n";
+		$evtvversie = $Win32AppEvtVorigeVersies.DisplayVersion
+		write-host $evtvversie
+		$alversieAppAanwezig = $true;
+		write-host "After uploading new version you can choose Superseedence in this script" -ForegroundColor Green; Write-host "`r`n"; Write-host "`r`n";
+	}
+	
+	else
+	{
+		$alversieAppAanwezig = $false;
+	}
+	
+	write-host "We will upload to Intune now" -ForegroundColor Green; Write-host "`r`n"; Write-host "`r`n";
+	$Win32App = Add-IntuneWin32App -FilePath $itwnffilepath -DisplayName $dnam -Description "Upload package by IntunePrepTool" -Publisher $publ -AppVersion $versie -Icon $Icon -InstallExperience "system" -RestartBehavior "suppress" -DetectionRule $DetectionRule -InstallCommandLine $icmd -UninstallCommandLine $ucmd -RequirementRule $RequirementRule -Verbose
+	Write-host "If all is good the app will now be availeble in Intune" -ForegroundColor Green; Write-host "`r`n"; Write-host "`r`n";
+	
+	$response = read-host "Press q to do nothing, Any other key for setting up dependencies. Dependency will be the same if older version. (When exists)"
+	$niksdoen = $response -eq "q"
+	if ($niksdoen -eq $true) { write-host "Ok.. We won't do this" -ForegroundColor Green; Write-host "`r`n"; Write-host "`r`n"; }
+	else
+	{
+		if ($dep -notlike $null)
+		{
+			$dependency = Get-IntuneWin32App | Where-Object { $_.Displayname -like $dep }
+			$dep2 = New-IntuneWin32AppDependency -DependencyType AutoInstall -ID $dependency.Id
+			Add-IntuneWin32AppDependency -ID $Win32App.Id -Dependency $dep2 -Confirm:$false
+			write-host "Dependency done"; Write-host "`r`n"; Write-host "`r`n";
+		}
+		else { write-host "No dependency found in older version" -ForegroundColor Green; Write-host "`r`n"; Write-host "`r`n"; }
+	}
+	
+	if ($alversieAppAanwezig -eq $false) { write-host "Because there where no older versions of this software in Intune you have to do the assingments in the Intune portal" -ForegroundColor Green; Write-host "`r`n"; Write-host "`r`n"; }
+	else
+	{
+		
+		foreach ($vorigeversie in $Win32AppEvtVorigeVersies)
+		{
+			write-host "We will now try to setup assignments " -ForegroundColor Green; Write-host "`r`n"; Write-host "`r`n";
+			$assinmentVorigeVersie = get-IntuneWin32AppAssignment -id $vorigeversie.id
+			$evtvversie = $vorigeversie.DisplayVersion
+			
+			if ($assinmentVorigeVersie -eq $null) { write-host "Older version: $evtvversie has no assignments" -ForegroundColor Green; Write-host "`r`n"; Write-host "`r`n" }
+			else
+			{
+				write-host ""; Write-host "`r`n"; Write-host "`r`n"
+				$response = read-host "Press q to do nothing, Any other key to setup assignments like: $evtvversie"
+				$niksdoen = $response -eq "q"
+				if ($niksdoen -eq $true) { write-host "Ok.. Then you have to setup the assignments in Intune" -ForegroundColor Green; Write-host "`r`n"; Write-host "`r`n" }
+				else
+				{
+					write-host "Ok .. We will fix the assignments for you!" -ForegroundColor Green; Write-host "`r`n"; Write-host "`r`n"
+					Remove-IntuneWin32AppAssignment -ID $vorigeversie.ID -Confirm:$false
+					try
+					{
+						Add-IntuneWin32AppAssignmentGroup -Intent $assinmentVorigeVersie.intent -Include -ID $Win32App.id -GroupID $assinmentVorigeVersie.Target.groupId -ErrorAction Stop
+					}
+					catch
+					{
+						Write-Host "Something went wrong. You will have to do this in Intune" -ForegroundColor Green
+					}
+				}
+			}
+		}
+		
+		foreach ($vorigeversie in $Win32AppEvtVorigeVersies)
+		{
+			$response = read-host "Press q to do nothing, Any other key to setup Supersedence  "
+			$niksdoen = $response -eq "q"
+			if ($niksdoen -eq $true) { write-host "Ok.. We are doing nothing here" -ForegroundColor Green; Write-host "`r`n"; Write-host "`r`n" }
+			else
+			{
+				write-host "Ok .. We will try to fix superseedence" -ForegroundColor Green; Write-host "`r`n"; Write-host "`r`n"
+				Write-host "We will fix superseedence for:" -ForegroundColor Green
+				$vorigeversie.displayVersion
+				
+				$superseede = New-IntuneWin32AppSupersedence -ID $vorigeversie.id -SupersedenceType Replace
+				$bestaandeSuperSedence = $null; $bestaandeSuperSedence = Get-IntuneWin32AppSupersedence -ID $vorigeversie.id
+				if ($bestaandeSuperSedence -ne $null) { Remove-IntuneWin32AppSupersedence -ID $bestaandeSuperSedence -Confirm:$False }
+				Add-IntuneWin32AppSupersedence -ID $Win32App.id -Supersedence $superseede -Confirm:$false
+			}
+		}
+		
+		
+		
+	}
+	
+}
+
+
+'@
+	[string]$config_csv_path = $config_csv_openfiledialog1.FileNames
+	$tenanturl = $upload_tenantURL_textbox.text
+	$depWin = $upload_dep_textbox1.Text
+	$uploadIntuneFile = $uploadIntuneFile.Replace('!!CONFIGCSV!!', $config_csv_path)
+	$uploadIntuneFile = $uploadIntuneFile.Replace('!!TENANTURL!!', $tenanturl)
+	$uploadIntuneFile = $uploadIntuneFile.Replace('!!DEPENDENCY!!', $depWin)
+	
+	
+	$filepath = $config_csv_path.TrimEnd("config.csv")
+	$uploadIntuneFile | Out-File $filepath\uploadIntune.ps1 -Force
+	if ([System.Windows.Forms.MessageBox]::Show('Do you want to upload using Powershell_ISE? ', 'Upload to Intune', [System.Windows.Forms.MessageBoxButtons]::YesNo) -eq 'Yes')
+	{
+		
+		powershell_ise -file $filepath\uploadIntune.ps1
+	}
+	
+}
+
+$upload_tenantURL_textbox_TextChanged={
+	#TODO: Place custom script here
+	
+}
+
+$winget_upload_logo_button1_Click={
+	#TODO: Place custom script here
+	$UploadLogo_openfiledialog1.ShowDialog()
+	[string]$logo_org_path = $UploadLogo_openfiledialog1.FileNames
+	$wid = $winget_WingetID_textbox1.text
+	$vid = $versie_textbox2.Text
+	$fid = $config_packagefolder_textbox.text
+	Copy-Item -Path $logo_org_path -Destination "$fid\$wid\$vid\Output\logo.png" -ErrorAction Stop
+	$winget_output_textbox3.AppendText("`r`n")
+	$winget_output_textbox3.AppendText("Logo.PNG now available in Output Directory`r`n")
+	
+	
+}
+
+$msi_buttonUploadLogoPNG_Click={
+	#TODO: Place custom script here
+	$UploadLogo_openfiledialog1.ShowDialog()
+	[string]$logo_org_path = $UploadLogo_openfiledialog1.FileNames
+	$msipnaam = $msi_packagenaam_textbox1.text
+	$msiversie = $msi_versie_textbox1.text
+	$outputDirectory = $config_packagefolder_textbox.text
+	Copy-Item -Path $logo_org_path -Destination "$outputDirectory\$msipnaam\$msiversie\output\logo.png" -ErrorAction Stop
+	$msi_output_textbox1.AppendText("`r`n")
+	$msi_output_textbox1.AppendText("Logo.PNG now available in Output Directory`r`n")
+	
+}
+
+$exe_uploadlogo_button1_Click={
+	#TODO: Place custom script here
+	$config_packagefolder = Get-Variable -Name 'config_packagefolder' -ValueOnly -Scope Script
+	$config_logfoldertarget = Get-Variable -Name 'config_logfoldertarget' -ValueOnly -Scope Script
+	$config_customername = Get-Variable -Name 'config_customername' -ValueOnly -Scope Script
+	$UploadLogo_openfiledialog1.ShowDialog()
+	[string]$logo_org_path = $UploadLogo_openfiledialog1.FileNames
+	$exepnaam = $exe_packagenaam_textbox1.text
+	$exeversie = $exe_versie_textbox1.text
+	$outputDirectory = $config_packagefolder
+	Copy-Item -Path $logo_org_path -Destination "$outputDirectory\$exepnaam\$exeversie\output\logo.png" -ErrorAction Stop
+	$exe_output_textbox1.AppendText("`r`n")
+	$exe_output_textbox1.AppendText("Logo.PNG now available in Output Directory`r`n")
+}
+
+$upload_dep_textbox1_TextChanged={
+	#TODO: Place custom script here
+	
+}
+
+
+
+
+
+$config_panel_Paint=[System.Windows.Forms.PaintEventHandler]{
+#Event Argument: $_ = [System.Windows.Forms.PaintEventArgs]
+	#TODO: Place custom script here
+	
+}
+
+$config_tenanturl_textbox_TextChanged={
+	#TODO: Place custom script here
+	
+}
+
+#region Control Helper Functions
+function Update-ListBox
+{
+<#
+	.SYNOPSIS
+		This functions helps you load items into a ListBox or CheckedListBox.
+	
+	.DESCRIPTION
+		Use this function to dynamically load items into the ListBox control.
+	
+	.PARAMETER ListBox
+		The ListBox control you want to add items to.
+	
+	.PARAMETER Items
+		The object or objects you wish to load into the ListBox's Items collection.
+	
+	.PARAMETER DisplayMember
+		Indicates the property to display for the items in this control.
+		
+	.PARAMETER ValueMember
+		Indicates the property to use for the value of the control.
+	
+	.PARAMETER Append
+		Adds the item(s) to the ListBox without clearing the Items collection.
+	
+	.EXAMPLE
+		Update-ListBox $ListBox1 "Red", "White", "Blue"
+	
+	.EXAMPLE
+		Update-ListBox $listBox1 "Red" -Append
+		Update-ListBox $listBox1 "White" -Append
+		Update-ListBox $listBox1 "Blue" -Append
+	
+	.EXAMPLE
+		Update-ListBox $listBox1 (Get-Process) "ProcessName"
+	
+	.NOTES
+		Additional information about the function.
+#>
+	
+	param
+	(
+		[Parameter(Mandatory = $true)]
+		[ValidateNotNull()]
+		[System.Windows.Forms.ListBox]
+		$ListBox,
+		[Parameter(Mandatory = $true)]
+		[ValidateNotNull()]
+		$Items,
+		[Parameter(Mandatory = $false)]
+		[string]$DisplayMember,
+		[Parameter(Mandatory = $false)]
+		[string]$ValueMember,
+		[switch]
+		$Append
+	)
+	
+	if (-not $Append)
+	{
+		$ListBox.Items.Clear()
+	}
+	
+	if ($Items -is [System.Windows.Forms.ListBox+ObjectCollection] -or $Items -is [System.Collections.ICollection])
+	{
+		$ListBox.Items.AddRange($Items)
+	}
+	elseif ($Items -is [System.Collections.IEnumerable])
+	{
+		$ListBox.BeginUpdate()
+		foreach ($obj in $Items)
+		{
+			$ListBox.Items.Add($obj)
+		}
+		$ListBox.EndUpdate()
+	}
+	else
+	{
+		$ListBox.Items.Add($Items)
+	}
+	
+	if ($DisplayMember)
+	{
+		$ListBox.DisplayMember = $DisplayMember
+	}
+	if ($ValueMember)
+	{
+		$ListBox.ValueMember = $ValueMember
+	}
+}
+
+
+#endregion
+
+$config_listbox_SelectedIndexChanged={
+	#TODO: Place custom script here
+	$config_import_csv = Import-Csv "config_customerinfo.csv" -ErrorAction Stop
+	foreach ($cis in $config_import_csv)
+	{
+		if ($cis.customername -eq $config_listbox.SelectedItem)
+		{
+			$config_customername_textbox.text = $cis.customername 
+			$config_logfoldertarger_textbox.text = $cis.logfoldertarget ; 
+			$config_packagefolder_textbox.text = $cis.packagefolder ; 
+			$config_tenanturl_textbox.text = $cis.tenanturl;
+			$upload_tenantURL_textbox.text = $cis.tenanturl
+			try
+			{
+				New-Variable -Name 'config_customername' -Value $cis.customername -Scope Script -ErrorAction Stop
+			}
+			catch
+			{
+				Set-Variable -Name 'config_customername' -Value $cis.customername -Scope Script
+			}
+			try
+			{
+				New-Variable -Name 'config_logfoldertarget' -Value $cis.logfoldertarget -Scope Script -ErrorAction Stop
+			}
+			catch
+			{
+				Set-Variable -Name 'config_logfoldertarget' -Value $cis.logfoldertarget -Scope Script
+			}
+			try
+			{
+				New-Variable -Name 'config_packagefolder' -Value $cis.packagefolder -Scope Script -ErrorAction Stop
+			}
+			catch
+			{
+				Set-Variable -Name 'config_packagefolder' -Value $cis.packagefolder -Scope Script
+			}
+		}
+	}
+	
+}
+
+
+
+$config_new_button_Click={
+	#TODO: Place custom script here
+	$config_customername_textbox.text = "'Enter Customer name here"
+	$config_logfoldertarger_textbox.text = "Enter log directory used by scripting on target; Example c:\ProgramData\customername\logs"
+	$config_packagefolder_textbox.text = "Enter local path where packages & scripts will be stored; Example c:\sources\"
+	$config_tenanturl_textbox.text = "Enter Intune Tenant Url; Example CSNtestRink.onmicrosoft.com"
+}
+
+$tools_winget_search_button_Click={
+	#TODO: Place custom script here
+	$winget_exe = Resolve-Path "C:\Program Files\WindowsApps\Microsoft.DesktopAppInstaller_*_x64__8wekyb3d8bbwe\winget.exe"
+	if ($winget_exe.count -gt 1)
+	{
+		$winget_exe = $winget_exe[-1].Path
+	}
+	
+	if (!$winget_exe)
+	{
+		#Add-Type -AssemblyName "System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"
+		[void][System.Windows.Forms.MessageBox]::Show("Install winget", 'No Winget found') # Casting the method to [void] suppresses the output. 
+	}
+	
+	$tools_winget_search_string = $tools_search_winget_textbox.text
+	try
+	{
+		$tools_winget_id = & $winget_exe search $tools_winget_search_string
+	
+	}
+	catch
+	{
+		$tools_winget_id = winget search $tools_winget_search_string
+		
+		
+	}
+	$tools_Output_textbox1.Text = "Search results: `r`n"
+	foreach ($twi in $tools_winget_id)
+	{
+		
+		$tools_Output_textbox1.AppendText("$twi `r`n")
+	}
+}
+
+$tools_show_winget_button_Click={
+	#TODO: Place custom script here
+	$winget_exe = Resolve-Path "C:\Program Files\WindowsApps\Microsoft.DesktopAppInstaller_*_x64__8wekyb3d8bbwe\winget.exe"
+	if ($winget_exe.count -gt 1)
+	{
+		$winget_exe = $winget_exe[-1].Path
+	}
+	
+	if (!$winget_exe)
+	{
+		#Add-Type -AssemblyName "System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"
+		[void][System.Windows.Forms.MessageBox]::Show("Install winget", 'No Winget found') # Casting the method to [void] suppresses the output. 
+	}
+	
+	$tools_winget_show_string = $tools_show_winget.text
+	try
+	{
+		$tools_winget_id = & $winget_exe show $tools_winget_show_string
+		
+	}
+	catch
+	{
+		$tools_winget_id = winget show $tools_winget_show_string
+		
+		
+	}
+	$tools_Output_textbox1.Text = "Search results: `r`n"
+	foreach ($twi in $tools_winget_id)
+	{
+		
+		$tools_Output_textbox1.AppendText("$twi `r`n")
+	}
+}
+
+$tools_show_winget_TextChanged={
+	#TODO: Place custom script here
+	
+}
+
+$winget_locale_checkbox1_CheckedChanged={
+	#TODO: Place custom script here
+	if ($winget_locale_checkbox1.Checked -eq $true)
+	{
+		$winget_locale_label.Enabled = $true
+		$winget_locale_label.Visible = $true
+		$Winget_locale_textbox.Enabled = $true
+		$Winget_locale_textbox.Visible = $true
+	}
+	else
+	{
+		$winget_locale_label.Enabled = $false
+		$winget_locale_label.Visible = $false
+		$Winget_locale_textbox.Enabled = $false
+		$Winget_locale_textbox.Visible = $false
+	}
+}
+
+$Winget_locale_textbox_TextChanged={
+	#TODO: Place custom script here
+	
+}
+
+$winget_version_checkbox_CheckedChanged={
+	#TODO: Place custom script here
+	if ($winget_version_checkbox.Checked -eq $true)
+	{
+		$winget_version_label1.Enabled = $true
+		$winget_version_label1.Visible = $true
+		$winget_version_textbox1.Enabled = $true
+		$winget_version_textbox1.Visible = $true
+	}
+	else
+	{
+		$winget_version_label1.Enabled = $false
+		$winget_version_label1.Visible = $false
+		$winget_version_textbox1.Enabled = $false
+		$winget_version_textbox1.Visible = $false
+	}
+}
+
+$tools_versions_winget_textbox_TextChanged={
+	#TODO: Place custom script here
+	
+}
+
+$tools_winget_show_versions_button_Click={
+	$winget_exe = Resolve-Path "C:\Program Files\WindowsApps\Microsoft.DesktopAppInstaller_*_x64__8wekyb3d8bbwe\winget.exe"
+	if ($winget_exe.count -gt 1)
+	{
+		$winget_exe = $winget_exe[-1].Path
+	}
+	
+	if (!$winget_exe)
+	{
+		#Add-Type -AssemblyName "System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"
+		[void][System.Windows.Forms.MessageBox]::Show("Install winget", 'No Winget found') # Casting the method to [void] suppresses the output. 
+	}
+	
+	$tools_winget_show_string = $tools_versions_winget_textbox.text
+	try
+	{
+		$tools_winget_id = & $winget_exe show $tools_winget_show_string --versions
+		
+	}
+	catch
+	{
+		$tools_winget_id = winget show $tools_winget_show_string --versions
+		
+		
+	}
+	$tools_Output_textbox1.Text = "Search results: `r`n"
+	foreach ($twi in $tools_winget_id)
+	{
+		
+		$tools_Output_textbox1.AppendText("$twi `r`n")
+	}
+	
+}
+
+$exe_open_sourcedir_button1_Click={
+	#TODO: Place custom script here
+	$config_packagefolder = Get-Variable -Name 'config_packagefolder' -ValueOnly -Scope Script
+	$config_logfoldertarget = Get-Variable -Name 'config_logfoldertarget' -ValueOnly -Scope Script
+	$config_customername = Get-Variable -Name 'config_customername' -ValueOnly -Scope Script
+	$exepnaam = $exe_packagenaam_textbox1.text
+	$exeversie = $exe_versie_textbox1.text
+	Invoke-Item "$config_packagefolder\$exepnaam\$exeversie\source"
+}
+
+$msi_labelPackageName_Click={
+	#TODO: Place custom script here
+	
+}
+]]></Code>
+  <Bookmarks />
+  <BreakPoints>
+    <Line Disabled="False">1688</Line>
+    <Line Disabled="False">2568</Line>
+  </BreakPoints>
+  <TracePoints />
+  <Mode>1</Mode>
+  <Assemblies />
+</File>
