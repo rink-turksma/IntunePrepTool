@@ -9,7 +9,7 @@ Also create scripts for Winget packages.
 
 Automatically created install.ps1 and uninstall.ps1 wich you can test and edit in Powershell_ISE with one click.
 
-All generated powershell scripts Intunewin files log Transscript logs to specified locacation. And Also show a succes or warning in the event viewer Powershell log.
+All generated powershell scripts used in Intunewin files will log Transscript logs to specified locacation. And Also show a succes or warning in the event viewer Powershell log.
 
 Button to create Intunewin file and print detection method in the app.
 
