@@ -12,10 +12,10 @@ GUI based PowerShell script to create and upload Intunewin packages.
 - Then you can use the option for uploading directly to Intune (Uses PowerShell modules MSAL.PS from Jason Thompson and IntuneWin32App from Nickolaj Andersen)
 
 ##How to use: 
-- Download files under Bin\x64:
-    -IntunePrepTool.exe
-    -config_customerinfo.csv
-    -IntuneWinAppUtil.exe (Microsoft)
+Download files under Bin\x64:
+    +IntunePrepTool.exe
+    +config_customerinfo.csv
+    +IntuneWinAppUtil.exe (Microsoft)
 - Open IntunePrepTool as Administrator.
 - In the first Tab - Config: Select the New / Clear button.
 - Then you can select Customer name, Log Folder target, Package folder (Local) and TenantURL.
