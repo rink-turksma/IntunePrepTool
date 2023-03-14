@@ -14,6 +14,7 @@ Created by Rink Turksma with Sapien Powershell Studio.
 
 ##How to use: 
 - Download files under Bin\x64: (IntunePrepTool.exe, config_customerinfo.csv, IntuneWinAppUtil.exe (Microsoft))
+- Make sure to open properties and 'Unblock file'
 - Open IntunePrepTool as Administrator.
 - In the first Tab - Config: Select the New / Clear button.
 - Then you can select Customer name, Log Folder target, Package folder (Local) and TenantURL.
@@ -25,6 +26,7 @@ Created by Rink Turksma with Sapien Powershell Studio.
 -The GUI shows the parameters for installation and detection method.
 - Use Upload button to open Powershell_ISE. Press start there and you will get a prompt to logon to your tenant.
 
+![image](https://user-images.githubusercontent.com/127322820/225110446-ad85e79c-6f0b-4d04-a676-69f83fdc1fdb.png)
 
 ![Screenshot 2023-03-10 170113](https://user-images.githubusercontent.com/127322820/224364743-8f69c55d-404f-441b-84cb-d3d4415dc9db.png)
 
