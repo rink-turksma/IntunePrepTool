@@ -13,6 +13,8 @@ Created by Rink Turksma with Sapien Powershell Studio.
 - Then you can use the option for uploading directly to Intune (Uses PowerShell modules MSAL.PS from Jason Thompson and IntuneWin32App from Nickolaj Andersen)
 
 ##How to use: 
+- For Local Winget options in the GUI. First test Winget.. Open Powershell as Admin and run something like winget list vlc and accept agreement.
+  (For packages this isn't an issue.)
 - Download files under Bin\x64: (IntunePrepTool.exe, config_customerinfo.csv, IntuneWinAppUtil.exe (Microsoft))
 - Make sure to open properties and 'Unblock file'
 - Open IntunePrepTool as Administrator.
