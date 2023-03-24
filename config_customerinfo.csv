@@ -1,2 +1,4 @@
 "customername","logfoldertarget","packagefolder","tenanturl"
 "gotomars","c:\ProgramData\gotomars\logs","c:\sources\","CSNtestRink.onmicrosoft.com"
+"Lentis","c:\windows\lentis\logs","c:\sources2","lentis.onmicrosoft.com"
+"Lentis","c:\windows\lentis\logs","c:\sources2\","lentis.onmicrosoft.com"
