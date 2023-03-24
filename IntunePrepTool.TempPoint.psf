@@ -787,7 +787,7 @@ function fDetectionInRegistry
 {
 	### Functie zorgt voor naar succesvolle of onsuccesvolle uitvoering..
 	### Uiteindelijk heb je dan bijvoorbeeld:
-	#### HKEY_LOCAL_MACHINE\SOFTWARE\Intune_Lentis\Test
+	#### HKEY_LOCAL_MACHINE\SOFTWARE\Intune_Customer\Test
 	### Met een Versie waarde en een [BOOL]Succes waarde
 	### Gebruik: fDetectionInRegistry -succes $False of fDetectionInRegistry -succes $true
 	param
@@ -1342,7 +1342,7 @@ function fDetectionInRegistry
 {
 	### Functie zorgt voor naar succesvolle of onsuccesvolle uitvoering..
 	### Uiteindelijk heb je dan bijvoorbeeld:
-	#### HKEY_LOCAL_MACHINE\SOFTWARE\Intune_Lentis\Test
+	#### HKEY_LOCAL_MACHINE\SOFTWARE\Intune_Customer\Test
 	### Met een Versie waarde en een [BOOL]Succes waarde
 	### Gebruik: fDetectionInRegistry -succes $False of fDetectionInRegistry -succes $true
 	param
@@ -1492,7 +1492,7 @@ function fDetectionInRegistry
 {
 	### Functie zorgt voor naar succesvolle of onsuccesvolle uitvoering..
 	### Uiteindelijk heb je dan bijvoorbeeld:
-	#### HKEY_LOCAL_MACHINE\SOFTWARE\Intune_Lentis\Test
+	#### HKEY_LOCAL_MACHINE\SOFTWARE\Intune_Customer\Test
 	### Met een Versie waarde en een [BOOL]Succes waarde
 	### Gebruik: fDetectionInRegistry -succes $False of fDetectionInRegistry -succes $true
 	param
@@ -1800,7 +1800,7 @@ function fDetectionInRegistry
 {
 	### Functie zorgt voor naar succesvolle of onsuccesvolle uitvoering..
 	### Uiteindelijk heb je dan bijvoorbeeld:
-	#### HKEY_LOCAL_MACHINE\SOFTWARE\Intune_Lentis\Test
+	#### HKEY_LOCAL_MACHINE\SOFTWARE\Intune_Customer\Test
 	### Met een Versie waarde en een [BOOL]Succes waarde
 	### Gebruik: fDetectionInRegistry -succes $False of fDetectionInRegistry -succes $true
 	param
@@ -2134,7 +2134,7 @@ function fDetectionInRegistry
 {
 	### Functie zorgt voor naar succesvolle of onsuccesvolle uitvoering..
 	### Uiteindelijk heb je dan bijvoorbeeld:
-	#### HKEY_LOCAL_MACHINE\SOFTWARE\Intune_Lentis\Test
+	#### HKEY_LOCAL_MACHINE\SOFTWARE\Intune_Customer\Test
 	### Met een Versie waarde en een [BOOL]Succes waarde
 	### Gebruik: fDetectionInRegistry -succes $False of fDetectionInRegistry -succes $true
 	param
@@ -2282,7 +2282,7 @@ $winget_upload_button1_Click={
 	#TODO: Place custom script here
 	<#
 	$token = Connect-MSIntuneGraph -TenantID "339ad6f1-ba98-4db6-bf71-0c140c9271bc" -Interactive
-	$RegisterDetectionroot = "Intune_Lentis"
+	$RegisterDetectionroot = "Intune_Customer"
 	$appNaam = "Greenshot"
 	$versie = 1
 	$regkeyRoot = "HKLM:\Software\$RegisterDetectionroot"
