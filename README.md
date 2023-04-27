@@ -32,7 +32,7 @@ Created by Rink Turksma with Sapien Powershell Studio.
 
 ![image](https://user-images.githubusercontent.com/127322820/225110446-ad85e79c-6f0b-4d04-a676-69f83fdc1fdb.png)
 
-![Screenshot 2023-03-10 170113](https://user-images.githubusercontent.com/127322820/224364743-8f69c55d-404f-441b-84cb-d3d4415dc9db.png)
+![image](https://user-images.githubusercontent.com/127322820/234869763-f9a0a15c-742d-4db2-8af2-fafc64614379.png)
 
 
 ![Screenshot 2023-03-10 170205](https://user-images.githubusercontent.com/127322820/224364767-0a620854-963f-466b-a177-58966a22082c.png)
