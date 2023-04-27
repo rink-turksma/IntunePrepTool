@@ -1,11 +1,13 @@
 #IntunePrepTool
 
+Update: 27/04/2023
 GUI based PowerShell script to create and upload Intunewin packages.
 
 Created by Rink Turksma with Sapien Powershell Studio.
 
 - Used for unattended installation / uninstallation EXE & MSI.
-- Also create scripts for Winget packages.
+- Also create scripts for Winget packages. 
+- Create weblink to IntuneWin file and Upload directly
 - Automatically created install.ps1 and uninstall.ps1 witch you can test and edit in Powershell_ISE with one click.
 - All generated PowerShell scripts used in Intunewin files will log Transcripts logs to specified location. And also show a success or warning in the event viewer PowerShell log.
 - Button to create Intunewin file and print detection method in the app. (Which also writes a config.csv file to the package directory.)
@@ -40,3 +42,6 @@ Created by Rink Turksma with Sapien Powershell Studio.
 ![Screenshot 2023-03-10 170310](https://user-images.githubusercontent.com/127322820/224364797-debe4c87-6132-427e-85e5-0109308ddd5e.png)
 
 ![Screenshot 2023-03-10 170346](https://user-images.githubusercontent.com/127322820/224364810-aae03744-703d-4e7f-af95-720e6685b7b7.png)
+
+![image](https://user-images.githubusercontent.com/127322820/234869274-61b21fd2-e0bc-497a-9742-e7859ae4f16b.png)
+
