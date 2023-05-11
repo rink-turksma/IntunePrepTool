@@ -1,6 +1,6 @@
 #IntunePrepTool
 
-Update: 27/04/2023
+Update: 11/05/2023
 GUI based PowerShell script to create and upload Intunewin packages.
 
 Created by Rink Turksma with Sapien Powershell Studio.
