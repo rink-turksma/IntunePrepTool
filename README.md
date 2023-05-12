@@ -32,7 +32,7 @@ Created by Rink Turksma with Sapien Powershell Studio.
 
 ![image](https://user-images.githubusercontent.com/127322820/225110446-ad85e79c-6f0b-4d04-a676-69f83fdc1fdb.png)
 
-![image](https://user-images.githubusercontent.com/127322820/234869763-f9a0a15c-742d-4db2-8af2-fafc64614379.png)
+![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/42869d67-c9c4-4baa-ab43-208599d3a735)
 
 
 ![Screenshot 2023-03-10 170205](https://user-images.githubusercontent.com/127322820/224364767-0a620854-963f-466b-a177-58966a22082c.png)
