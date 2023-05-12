@@ -1,13 +1,12 @@
 #IntunePrepTool
+GUI based PowerShell script to create intunewin packages with MS IntuneWinAppUtil.exe for intune; Source can be MSI, EXE, Winget; Test script; Inplement detection method. Transcript logs to predefined location.
 
-Update: 11/05/2023
-GUI based PowerShell script to create and upload Intunewin packages.
-
+Update: 12/05/2023
 Created by Rink Turksma with Sapien Powershell Studio.
 
-- Used for unattended installation / uninstallation EXE & MSI.
-- Also create scripts for Winget packages. 
-- Create weblink to IntuneWin file and Upload directly
+- Used for unattended installation / uninstallation EXE & MSI files.
+- Create intunewin files from winget sources.
+- Create weblink to IntuneWin file.
 - Automatically created install.ps1 and uninstall.ps1 witch you can test and edit in Powershell_ISE with one click.
 - All generated PowerShell scripts used in Intunewin files will log Transcripts logs to specified location. And also show a success or warning in the event viewer PowerShell log.
 - Button to create Intunewin file and print detection method in the app. (Which also writes a config.csv file to the package directory.)
@@ -17,9 +16,10 @@ Created by Rink Turksma with Sapien Powershell Studio.
 ##How to use: 
 - For Local Winget options in the GUI. First test Winget.. Open Powershell as Admin and run something like winget list vlc and accept agreement.
   (For packages this isn't an issue.)
-- Download files under Bin\x64: (IntunePrepTool.exe, config_customerinfo.csv, IntuneWinAppUtil.exe (Microsoft))
-- Make sure to open properties and 'Unblock file'
-- Open IntunePrepTool as Administrator.
+- Be sure to setup Powershell execution policy to unrestricted: Set-ExecutionPolicy Unrestricted
+- Donwload latest MSI file. (Unattended MSI file) Run as admin.
+- Make sure to open file properties and 'Unblock file' for: "C:\Program Files (x86)\IntunePrepTool\IntunePrepTool.exe" and "C:\Program Files (x86)\IntunePrepTool\IntuneWinAppUtil.exe"
+- Run IntunePrepTool as Administrator.
 - In the first Tab - Config: Select the New / Clear button.
 - Then you can select Customer name, Log Folder target, Package folder (Local) and TenantURL.
 - Click Save.
