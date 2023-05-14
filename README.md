@@ -1,7 +1,7 @@
 #IntunePrepTool
 GUI based PowerShell script to create intunewin packages with MS IntuneWinAppUtil.exe for intune; Source can be MSI, EXE, Winget; Test script; Inplement detection method. Transcript logs to predefined location.
 
-Update: 12/05/2023
+Update: 14/05/2023
 Created by Rink Turksma with Sapien Powershell Studio.
 
 - Used for unattended installation / uninstallation EXE & MSI files.
@@ -17,12 +17,12 @@ Created by Rink Turksma with Sapien Powershell Studio.
 - For Local Winget options in the GUI. First test Winget.. Open Powershell as Admin and run something like winget list vlc and accept agreement.
   (For packages this isn't an issue.)
 - Be sure to setup Powershell execution policy to unrestricted: Set-ExecutionPolicy Unrestricted
-- Donwload latest MSI file. (Unattended MSI file) Run as admin.
+- Donwload latest MSI file. (Unattended MSI file) Run as admin. / or use "winget install rink-turksma.IntunePrepTool" (as Admin)
 - Make sure to open file properties and 'Unblock file' for: "C:\Program Files (x86)\IntunePrepTool\IntunePrepTool.exe" and "C:\Program Files (x86)\IntunePrepTool\IntuneWinAppUtil.exe"
 - Run IntunePrepTool as Administrator.
-- In the first Tab - Config: Select the New / Clear button.
+- In the first Tab - Config: Select the New / Clear button. 
 - Then you can select Customer name, Log Folder target, Package folder (Local) and TenantURL.
-- Click Save.
+- Click Save. (Settings are saved in: "C:\Program Files (x86)\IntunePrepTool\config_customerinfo.csv")
 - Now select the newly created customer also in the tab - Config.
 - For EXE, MSI and Winget it should be clear how to use this.
 - After creating the Intunewin package you will get the option to upload a logo. (This is mandatory for the upload to Intune option) Select a PNG file.
