@@ -1,7 +1,7 @@
 #IntunePrepTool
 GUI based PowerShell script to create intunewin packages with MS IntuneWinAppUtil.exe for intune; Source can be MSI, EXE, Winget; Test script; Inplement detection method. Transcript logs to predefined location.
 
-Update: 14/05/2023
+Update: 18/05/2023
 Created by Rink Turksma with Sapien Powershell Studio.
 
 - Used for unattended installation / uninstallation EXE & MSI files.
