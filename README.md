@@ -34,7 +34,8 @@ Created by Rink Turksma with Sapien Powershell Studio.
 
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/a3af44ef-e27d-4a9b-b354-88900e202771)
 
-![Screenshot 2023-03-10 170205](https://user-images.githubusercontent.com/127322820/224364767-0a620854-963f-466b-a177-58966a22082c.png)
+![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/4cd313db-1353-49a4-a837-06c40e6e7d4d)
+
 
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/aa131f79-f147-4af7-9d3b-a90ee2f8c4e7)
 
