@@ -52,4 +52,7 @@ Please update to release: 1.0.3.3 or newer for a fix for uploading. This because
 
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/1589c0b4-3478-4bf9-ab76-ccf4acdb2f65)
 
+![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/997e5b73-56df-4446-954a-26fc10a05139)
+
+
 
