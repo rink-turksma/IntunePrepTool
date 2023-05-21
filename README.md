@@ -1,14 +1,17 @@
 #IntunePrepTool
 GUI based PowerShell script to create intunewin packages with MS IntuneWinAppUtil.exe for intune; Source can be MSI, EXE, Winget; Test script; Inplement detection method. Transcript logs to predefined location.
 
-Update: 18/05/2023
+Update: 21/05/2023
 Created by Rink Turksma with Sapien Powershell Studio.
+
+Please update to release: 1.0.3.3 for a fix for uploading. This because Intune now needs a new format for OS Requirements.
 
 - Used for unattended installation / uninstallation EXE & MSI files.
 - Create intunewin files from winget sources.
 - Create weblink to IntuneWin file.
 - Automatically created install.ps1 and uninstall.ps1 witch you can test and edit in Powershell_ISE with one click.
-- All generated PowerShell scripts used in Intunewin files will log Transcripts logs to specified location. And also show a success or warning in the event viewer PowerShell log.
+- All generated PowerShell scripts used in Intunewin files will log Transcripts logs to specified location. And also show a Informational or Error in the event viewer IntunePrepTool (Under Application and services) log.
+- Log file also located: "C:\ProgramData\Microsoft\IntuneManagementExtension\Logs\IntunePrepTool.evtx"; This so you can use The collect Diagnostics option from the Intune Admin Portal for Windows clients and download the logs of the packages.
 - Button to create Intunewin file and print detection method in the app. (Which also writes a config.csv file to the package directory.)
 - After you select create Intunewin. You will get the option to select a PNG file.
 - Then you can use the option for uploading directly to Intune (Uses PowerShell modules MSAL.PS from Jason Thompson and IntuneWin32App from Nickolaj Andersen)
