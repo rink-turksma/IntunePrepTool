@@ -4,7 +4,8 @@ GUI based PowerShell script to create intunewin packages with MS IntuneWinAppUti
 Update: 21/05/2023
 Created by Rink Turksma with Sapien Powershell Studio.
 
-Please update to release: 1.0.3.3 for a fix for uploading. This because Intune now needs a new format for OS Requirements.
+Please update to release: 1.0.3.4 or newer for a fix updating "C:\ProgramData\Microsoft\IntuneManagementExtension\Logs\IntunePrepTool.evtx".
+Please update to release: 1.0.3.3 or newer for a fix for uploading. This because Intune now needs a new format for OS Requirements.
 
 - Used for unattended installation / uninstallation EXE & MSI files.
 - Create intunewin files from winget sources.
