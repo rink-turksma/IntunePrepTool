@@ -1,4 +1,5 @@
 Update: 21/05/2023
+
 Created by Rink Turksma with Sapien Powershell Studio.
 
 Please update to release: 1.0.3.4 or newer for a fix updating "C:\ProgramData\Microsoft\IntuneManagementExtension\Logs\IntunePrepTool.evtx".
