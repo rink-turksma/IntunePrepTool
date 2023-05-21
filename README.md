@@ -12,11 +12,11 @@ Please update to release: 1.0.3.3 or newer for a fix for uploading. This because
 - Create intunewin files from winget sources.
 - Create weblink to IntuneWin file.
 - Automatically created install.ps1 and uninstall.ps1 witch you can test and edit in Powershell_ISE with one click.
-- All generated PowerShell scripts used in Intunewin files will log Transcripts logs to specified location. And also show a Informational or Error in the event viewer IntunePrepTool (Under Application and services) log.
+- All generated PowerShell scripts used in Intunewin files will log Transcripts logs to specified location. And also show a Informational or Error in the event viewer IntunePrepTool (Application and services) log.
 - Log file also located: "C:\ProgramData\Microsoft\IntuneManagementExtension\Logs\IntunePrepTool.evtx"; This so you can use The collect Diagnostics option from the Intune Admin Portal for Windows clients and download the logs of the packages.
-- Button to create Intunewin file and print detection method in the app. (Which also writes a config.csv file to the package directory.)
+- Button to create Intunewin file, and print detection method in the app. (Which also writes a config.csv file to the package directory.)
 - After you select create Intunewin. You will get the option to select a PNG file.
-- Then you can use the option for uploading directly to Intune (Uses PowerShell modules MSAL.PS from Jason Thompson and IntuneWin32App from Nickolaj Andersen)
+- Then you can use the option for uploading directly to Intune (Uses PowerShell modules MSAL.PS from Jason Thompson and IntuneWin32App from Nickolaj Andersen) (Update 21/05/2023: Version 1.0.3.3 or later needed)
 
 ##How to use: 
 - For Local Winget options in the GUI. First test Winget.. Open Powershell as Admin and run something like winget list vlc and accept agreement.
