@@ -4,7 +4,8 @@ Created by Rink Turksma with Sapien Powershell Studio.
 
 Please update to release: 1.0.3.4 or newer for a fix updating "C:\ProgramData\Microsoft\IntuneManagementExtension\Logs\IntunePrepTool.evtx".
 
-Please update to release: 1.0.3.3 or newer for a fix for uploading. This because Intune now needs a new format for OS Requirements.
+Please update to release: 1.0.3.3 or newer for a fix for uploading. This because the Powershell Module 'IntuneWin32App' from https://www.powershellgallery.com/packages/IntuneWin32App now needs a new format for OS Requirements.
+If you are experiencing error about requirements while uploading please run: update-module IntuneWin32App (As Admin in Powershell)
 
 - Used for unattended installation / uninstallation EXE & MSI files.
 - Create intunewin files from winget sources.
