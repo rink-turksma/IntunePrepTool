@@ -6,7 +6,7 @@ Version 1.1.0.0: Extra version check on the Powershell module 'IntuneWin32App' f
 
 Please use Winget to install the latest version: "winget install rink-turksma.IntunePrepTool" (Run as Admin in CMD or Powershell)
 or update using: "winget upgrade rink-turksma.IntunePrepTool"
-Or download latest MSI from Releases on Github
+Or download latest MSI. (Github releases)
 
 
 - Used for unattended installation / uninstallation EXE & MSI files.
