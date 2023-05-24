@@ -1,11 +1,14 @@
-Update: 21/05/2023
+Update: 24/05/2023
 
 Created by Rink Turksma with Sapien Powershell Studio.
 
-Please update to release: 1.0.3.4 or newer for a fix updating "C:\ProgramData\Microsoft\IntuneManagementExtension\Logs\IntunePrepTool.evtx".
+Version 1.1.0.0: Extra version check on the Powershell module 'IntuneWin32App' from https://www.powershellgallery.com/packages/IntuneWin32App . Newer Powershell module will be automatically installed when needed. See releases for all the updates in version 1.1.0.0
 
-Please update to release: 1.0.3.3 or newer for a fix for uploading. This because the Powershell Module 'IntuneWin32App' from https://www.powershellgallery.com/packages/IntuneWin32App now needs a new format for OS Requirements.
-If you are experiencing error about requirements while uploading please run: update-module IntuneWin32App (As Admin in Powershell)
+Please use Winget to install the latest version:
+winget install rink-turksma.IntunePrepTool
+or update using:
+winget upgrade rink-turksma.IntunePrepTool
+
 
 - Used for unattended installation / uninstallation EXE & MSI files.
 - Create intunewin files from winget sources.
