@@ -40,7 +40,7 @@ Or download latest MSI. (Github releases)
 
 ![image](https://user-images.githubusercontent.com/127322820/225110446-ad85e79c-6f0b-4d04-a676-69f83fdc1fdb.png)
 
-![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/fe521277-96bf-41db-b3cb-e7d888086648)
+![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/014b5597-0937-45dd-8b2a-1686b4ce1179)
 
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/4cd313db-1353-49a4-a837-06c40e6e7d4d)
 
