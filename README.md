@@ -1,6 +1,8 @@
-Update: 24/05/2023
+Update: 05/06/2023
 
 Created by Rink Turksma with Sapien Powershell Studio.
+
+Version 1.2.0.0: Added option to create remediation policy to update winget packages.
 
 Version 1.1.0.0: Extra version check on the Powershell module 'IntuneWin32App' from https://www.powershellgallery.com/packages/IntuneWin32App . Newer Powershell module will be automatically installed when needed. See releases for all the updates in version 1.1.0.0
 
@@ -8,10 +10,10 @@ Please use Winget to install the latest version: "winget install rink-turksma.In
 or update using: "winget upgrade rink-turksma.IntunePrepTool"
 Or download latest MSI. (Github releases)
 
-
 - Used for unattended installation / uninstallation EXE & MSI files.
 - Create intunewin files from winget sources.
 - Create weblink to IntuneWin file.
+- Create winget update remediation policy.
 - Automatically created install.ps1 and uninstall.ps1 witch you can test and edit in Powershell_ISE with one click.
 - All generated PowerShell scripts used in Intunewin files will log Transcripts logs to specified location. And also show a Informational or Error in the event viewer IntunePrepTool (Application and services) log.
 - Log file also located: "C:\ProgramData\Microsoft\IntuneManagementExtension\Logs\IntunePrepTool.evtx"; This so you can use The collect Diagnostics option from the Intune Admin Portal for Windows clients and download the logs of the packages.
