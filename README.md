@@ -2,7 +2,7 @@ Update: 05/06/2023
 
 Created by Rink Turksma with Sapien Powershell Studio.
 
-Version 1.2.0.0: Added option to create remediation policy to update winget packages.
+Version 1.2.1.0: Added option to create remediation policy to update winget packages.
 
 Version 1.1.0.0: Extra version check on the Powershell module 'IntuneWin32App' from https://www.powershellgallery.com/packages/IntuneWin32App . Newer Powershell module will be automatically installed when needed. See releases for all the updates in version 1.1.0.0
 
