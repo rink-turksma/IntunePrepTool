@@ -15,7 +15,7 @@ Or download latest MSI. (Github releases)
 - Create weblink to IntuneWin file.
 - Create winget update remediation policy.
 - Automatically created install.ps1 and uninstall.ps1 witch you can test and edit in Powershell_ISE with one click.
-- All generated PowerShell scripts used in Intunewin files will log Transcripts logs to specified location. And also show a Informational or Error in the event viewer IntunePrepTool (Application and services) log.
+- All generated PowerShell scripts used in Intunewin files will write transcripts logs to specified location. And also show a Informational or Error in the event viewer IntunePrepTool (Application and services) log.
 - Log file also located: "C:\ProgramData\Microsoft\IntuneManagementExtension\Logs\IntunePrepTool.evtx"; This so you can use The collect Diagnostics option from the Intune Admin Portal for Windows clients and download the logs of the packages.
 - Button to create Intunewin file, and print detection method in the app. (Which also writes a config.csv file to the package directory.)
 - After you select create Intunewin. You will get the option to select a PNG file.
