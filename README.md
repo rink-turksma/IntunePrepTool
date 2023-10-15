@@ -1,8 +1,11 @@
-Update: 05/06/2023
+Update: 10/15/2023
 
 Created by Rink Turksma with Sapien Powershell Studio.
 
-Version 1.2.3.0: Added option to create remediation policy to update winget packages.
+Version 1.2.4.0: 
+1. Unblock-file option added when creating MSI and EXE packages.
+2. New button in the start / config menu to install needed Powershell modules
+3. Fixed an issue when parsing variables to the MSI install and uninstall script.
 
 Please use Winget to install the latest version: "winget install rink-turksma.IntunePrepTool" (Run as Admin in CMD or Powershell)
 or update using: "winget upgrade rink-turksma.IntunePrepTool"
