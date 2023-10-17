@@ -1,8 +1,9 @@
 Update: 10/17/2023
 
 Created by Rink Turksma with Sapien Powershell Studio.
+![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/26be7a39-1df9-4e5b-8e18-c1c7e48c2194)
 
-New screenshots with instruction how to use this tool below.
+More screenshots with instructions below.
 
 Version 1.2.4.1:
 The addition of the option to download Winget packages locally or to an UNC path.
