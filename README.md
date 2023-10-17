@@ -4,7 +4,6 @@ Created by Rink Turksma with Sapien Powershell Studio.
 
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/1505d2f6-f5c4-4870-9c35-13edc2275745)
 
-![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/26be7a39-1df9-4e5b-8e18-c1c7e48c2194)
 
 More screenshots with instructions below.
 
