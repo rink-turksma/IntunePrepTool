@@ -3,12 +3,11 @@ Update: 10/17/2023
 Created by Rink Turksma with Sapien Powershell Studio.
 
 Version 1.2.4.1:
-The addition of the option to download Winget packages locally or through a UNC path enhances the tool's flexibility and usability, catering to different network configurations and user preferences.
+The addition of the option to download Winget packages locally or on UNC path.
 
 Version 1.2.4.0:
-1: The inclusion of the Unblock-file option when creating MSI and EXE packages demonstrates attention to detail and ensures a smooth user experience.
-2: The new button in the start/config menu for installing necessary PowerShell modules simplifies the setup process, eliminating potential roadblocks for users who might lack required modules.
-3: Addressing the issue related to parsing variables in the MSI install and uninstall script enhances the tool's reliability, ensuring accurate deployment and removal of software packages.
+1: When opening a downloaded MSI or EXE file the Unblock-file option is now used.
+: Addressing the issue related to parsing variables in the MSI install and uninstall script enhances the tool's reliability, ensuring accurate deployment and removal of software packages.
 
 Please use Winget to install the latest version: "winget install rink-turksma.IntunePrepTool" (Run as Admin in CMD or Powershell)
 or update using: "winget upgrade rink-turksma.IntunePrepTool"
