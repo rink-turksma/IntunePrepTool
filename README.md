@@ -8,14 +8,13 @@ Created by Rink Turksma with Sapien Powershell Studio.
 More screenshots with instructions below.
 
 Version 1.2.4.1:
-
 The addition of the option to download Winget packages locally or to an UNC path.
 
 Version 1.2.4.0:
-
 1: When opening a downloaded MSI or EXE file the Unblock-file option is now used.
-
 2: Addressing an issue related to parsing variables in the MSI install and uninstall script.
+
+See releases for more release notes.
 
 Please use Winget to install the latest version: "winget install rink-turksma.IntunePrepTool" (Run as Admin in CMD or Powershell)
 or update using: "winget upgrade rink-turksma.IntunePrepTool"
