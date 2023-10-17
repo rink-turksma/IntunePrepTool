@@ -12,7 +12,7 @@ The addition of the option to download Winget packages locally or to an UNC path
 
 Version 1.2.4.0:
 1: When opening a downloaded MSI or EXE file the Unblock-file option is now used.
-: Addressing the issue related to parsing variables in the MSI install and uninstall script enhances the tool's reliability, ensuring accurate deployment and removal of software packages.
+2: Addressing an issue related to parsing variables in the MSI install and uninstall script.
 
 Please use Winget to install the latest version: "winget install rink-turksma.IntunePrepTool" (Run as Admin in CMD or Powershell)
 or update using: "winget upgrade rink-turksma.IntunePrepTool"
