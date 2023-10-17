@@ -1,2 +1,3 @@
-"customername","logfoldertarget","packagefolder","tenanturl"
-"gotomars","c:\ProgramData\gotomars\logs","c:\sources\gotomars\","CSNtestRink.onmicrosoft.com"
+"customername","logfoldertarget","packagefolder","tenanturl","downloadpath"
+"gotomars","c:\ProgramData\gotomars\logs","c:\sources\gotomars\","CSNtestRink.onmicrosoft.com","\\localhost\Dlpackages"
+"rinktest","c:\ProgramData\rinktest\logs","c:\sources\rinktest\","rinktest.onmicrosoft.com","\\localhost\Dlpackages"
