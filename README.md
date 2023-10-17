@@ -1,11 +1,11 @@
 Update: 10/17/2023
 
-New screenshots with instruction how to use this tool below.
-
 Created by Rink Turksma with Sapien Powershell Studio.
 
+New screenshots with instruction how to use this tool below.
+
 Version 1.2.4.1:
-The addition of the option to download Winget packages locally or on UNC path.
+The addition of the option to download Winget packages locally or to an UNC path.
 
 Version 1.2.4.0:
 1: When opening a downloaded MSI or EXE file the Unblock-file option is now used.
