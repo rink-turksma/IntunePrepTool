@@ -2,13 +2,13 @@ Update: 10/17/2023
 
 Created by Rink Turksma with Sapien Powershell Studio.
 
-Version 1.2.4.1
-1. Added option to Download Winget packages locally or UNC path.
+Version 1.2.4.1:
+The addition of the option to download Winget packages locally or through a UNC path enhances the tool's flexibility and usability, catering to different network configurations and user preferences.
 
-Version 1.2.4.0: 
-1. Unblock-file option added when creating MSI and EXE packages.
-2. New button in the start / config menu to install needed Powershell modules
-3. Fixed an issue when parsing variables to the MSI install and uninstall script.
+Version 1.2.4.0:
+1: The inclusion of the Unblock-file option when creating MSI and EXE packages demonstrates attention to detail and ensures a smooth user experience.
+2: The new button in the start/config menu for installing necessary PowerShell modules simplifies the setup process, eliminating potential roadblocks for users who might lack required modules.
+3: Addressing the issue related to parsing variables in the MSI install and uninstall script enhances the tool's reliability, ensuring accurate deployment and removal of software packages.
 
 Please use Winget to install the latest version: "winget install rink-turksma.IntunePrepTool" (Run as Admin in CMD or Powershell)
 or update using: "winget upgrade rink-turksma.IntunePrepTool"
@@ -26,15 +26,29 @@ Or download latest MSI. (Github releases)
 - Then you can use the option for uploading directly to Intune (Uses PowerShell modules MSAL.PS from Jason Thompson and IntuneWin32App from Nickolaj Andersen) (Update 21/05/2023: Version 1.0.3.3 or later needed)
 
 ##How to use: 
-- For Local Winget options in the GUI. First test Winget.. Open Powershell as Admin and run something like winget list vlc and accept agreement.
-  (For packages this isn't an issue.)
-- Be sure to setup Powershell execution policy to unrestricted: Set-ExecutionPolicy Unrestricted
-- Donwload latest MSI file. (Unattended MSI file) Run as admin. / or use "winget install rink-turksma.IntunePrepTool" (as Admin)
-- Make sure to open file properties and 'Unblock file' for: "C:\Program Files (x86)\IntunePrepTool\IntunePrepTool.exe" and "C:\Program Files (x86)\IntunePrepTool\IntuneWinAppUtil.exe"
-- Run IntunePrepTool as Administrator.
+Verify Local Winget Installation:
+Before using the local Winget options in the GUI, ensure Winget is functional. Open PowerShell as an Administrator and run a test command like winget list vlc. Agree to the terms if prompted. (This step is unnecessary for packages.)
+
+Adjust PowerShell Execution Policy:
+Set your PowerShell execution policy to unrestricted using the command: Set-ExecutionPolicy Unrestricted.
+
+Install IntunePrepTool:
+Download the latest MSI file and run it as an administrator. Alternatively, use the command: winget install rink-turksma.IntunePrepTool (Run as Admin).
+
+Unblock Files:
+In file properties, ensure you 'Unblock' the following files:
+"C:\Program Files (x86)\IntunePrepTool\IntunePrepTool.exe"
+"C:\Program Files (x86)\IntunePrepTool\IntuneWinAppUtil.exe"
+
+Launch IntunePrepTool:
+Run IntunePrepTool as an Administrator.
+
+Select Customer Configuration:
+Choose the newly created customer configuration in the 'Config' tab.
 - In the first Tab - Config: Select the New / Clear button. 
 - Then you can select Customer name, Log Folder target, Package folder (Local) and TenantURL.
 - Click Save. (Settings are saved in: "C:\Program Files (x86)\IntunePrepTool\config_customerinfo.csv")
+
 - Now select the newly created customer also in the tab - Config.
 - For EXE, MSI and Winget it should be clear how to use this.
 - After creating the Intunewin package you will get the option to upload a logo. (This is mandatory for the upload to Intune option) Select a PNG file.
