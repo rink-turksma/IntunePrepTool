@@ -26,6 +26,7 @@ Or download latest MSI. (Github releases)
 - Then you can use the option for uploading directly to Intune (Uses PowerShell modules MSAL.PS from Jason Thompson and IntuneWin32App from Nickolaj Andersen) (Update 21/05/2023: Version 1.0.3.3 or later needed)
 
 ##How to use: 
+
 Verify Local Winget Installation:
 Before using the local Winget options in the GUI, ensure Winget is functional. Open PowerShell as an Administrator and run a test command like winget list vlc. Agree to the terms if prompted. (This step is unnecessary for packages.)
 
