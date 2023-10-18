@@ -1,4 +1,4 @@
-Update: 10/17/2023
+Update: 10/19/2023
 
 Created by Rink Turksma with Sapien Powershell Studio.
 
@@ -6,6 +6,11 @@ Created by Rink Turksma with Sapien Powershell Studio.
 
 
 More screenshots with instructions below.
+
+Version 1.2.4.4
+
+1: Fixed an issue with logging and detection method in Intune with failed MSI installs.
+2: MSIEXEC logs are now also loaded in the Event Viewer.
 
 Version 1.2.4.1:
 
