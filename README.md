@@ -21,7 +21,7 @@ Created by Rink Turksma with Sapien Powershell Studio.
 - After you select create Intunewin. You will get the option to select a PNG file.
 - Then you can use the option for uploading directly to Intune (Uses PowerShell modules MSAL.PS from Jason Thompson and IntuneWin32App from Nickolaj Andersen) (Update 21/05/2023: Version 1.0.3.3 or later needed)
 
-##How to use: 
+### How to install: 
 
 Verify Local Winget Installation:
 
@@ -48,6 +48,7 @@ Unblock Files (Powershell as Admin):
 	unblock-file "C:\Program Files\IntunePrepTool\IntunePrepTool.exe"
  	unblock-file "C:\Program Files\IntunePrepTool\IntuneWinAppUtil.exe"
  	
+### How to use
 
 Launch IntunePrepTool:
 
@@ -55,13 +56,23 @@ Run IntunePrepTool as an Administrator.
 
 Screenshots with instructions below.
 
+### Select Customer / Tenant:
+
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/0200af55-3d8a-4caf-b4fd-fa9c90eb9501)
+
+### Download sources from Winget.
 
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/ae268b9c-25ee-493d-8fb4-288c3bdda69f)
 
+### Create Intunewin package options
+
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/dea99ee5-65fa-4c51-b2dc-d4a32e635a28)
 
+### Tools options. 
+
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/b599056b-887b-4d19-835f-b5b634c68842)
+
+### How to use the package option to create Intunewin file from MSI installer.
 
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/a493d6b3-4b33-4daa-8295-0468e8f36df8)
 
@@ -79,9 +90,15 @@ Screenshots with instructions below.
 
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/55d056fe-d16f-4db2-83db-cd86f99b03ab)
 
+### How to use Upload function to upload Intunewin created by IntunePrepTool to Microsoft Intune
+
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/1f2f99c5-16a5-4132-aae4-fe7ac96ae636)
 
+### How to find Uninstall strings from the tools menu.
+
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/651860b5-3488-44bc-ab66-f9b4073ee650)
+
+### How to create Intunewin package from an EXE source
 
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/c233c227-1249-439e-b0fe-7b59b8ab56aa)
 
@@ -94,6 +111,7 @@ Screenshots with instructions below.
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/7763cbfd-f914-451c-bf76-cfc298d876e4)
 
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/e65218c5-ebfb-46ad-a10b-622a62b3f459)
+
 
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/4cd313db-1353-49a4-a837-06c40e6e7d4d)
 
