@@ -7,6 +7,10 @@ Created by Rink Turksma with Sapien Powershell Studio.
 
 More screenshots with instructions below.
 
+Version 1.2.4.5
+
+1: Updated created packages from EXE file: Extra logging, Fixed some issues in detection method, Added the option to use an MSIEXEC command as uninstall script
+
 Version 1.2.4.4
 
 1: Fixed an issue with logging and detection method in Intune with failed MSI installs.
