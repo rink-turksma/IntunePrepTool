@@ -1,10 +1,12 @@
 Update: 10/21/2023
 
+For release notes and latest MSI installers see:
+https://github.com/rink-turksma/IntunePrepTool/releases
+
 Created by Rink Turksma with Sapien Powershell Studio.
 
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/1505d2f6-f5c4-4870-9c35-13edc2275745)
 
-See releases for release notes.
 
 
 
@@ -39,7 +41,7 @@ Please use Winget to install the latest version: (Run as Admin)
 
 	winget install rink-turksma.IntunePrepTool
  
- Or download latest MSI. (Github releases)
+ Or download latest MSI. (https://github.com/rink-turksma/IntunePrepTool/releases)
 
 Unblock Files (Powershell as Admin):
 
