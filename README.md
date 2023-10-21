@@ -104,6 +104,8 @@ Choose the newly created customer configuration in the 'Config' tab.
 
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/1461fb6d-b66d-432d-9c5f-f7c49991b4c6)
 
+![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/b3fbc7d6-d5bb-4e54-8a27-aa67dce2eba2)
+
 
 
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/4cd313db-1353-49a4-a837-06c40e6e7d4d)
