@@ -56,8 +56,6 @@ Run IntunePrepTool as an Administrator.
 
 Screenshots with instructions below.
 
-https://github.com/rink-turksma/IntunePrepTool/blob/main/README.md#select-customer--tenant
-
 ### Select Customer / Tenant:
 
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/0200af55-3d8a-4caf-b4fd-fa9c90eb9501)
