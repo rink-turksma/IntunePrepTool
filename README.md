@@ -5,9 +5,9 @@ https://github.com/rink-turksma/IntunePrepTool/releases
 
 Created by Rink Turksma with Sapien Powershell Studio.
 
+email: rinkob@gmail.com
+
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/1505d2f6-f5c4-4870-9c35-13edc2275745)
-
-
 
 
 - Used for unattended installation / uninstallation EXE & MSI files.
