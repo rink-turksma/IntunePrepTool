@@ -1,35 +1,12 @@
-Update: 10/19/2023
+Update: 10/21/2023
 
 Created by Rink Turksma with Sapien Powershell Studio.
 
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/1505d2f6-f5c4-4870-9c35-13edc2275745)
 
+See releases for release notes.
 
-More screenshots with instructions below.
 
-Version 1.2.4.5
-
-1: Updated created packages from EXE file: Extra logging, Fixed some issues in detection method, Added the option to use an MSIEXEC command as uninstall script
-
-Version 1.2.4.4
-
-1: Fixed an issue with logging and detection method in Intune with failed MSI installs.
-2: MSIEXEC logs are now also loaded in the Event Viewer.
-
-Version 1.2.4.1:
-
-The addition of the option to download Winget packages locally or to an UNC path.
-
-Version 1.2.4.0:
-
-1: When opening a downloaded MSI or EXE file the Unblock-file option is now used.
-2: Addressing an issue related to parsing variables in the MSI install and uninstall script.
-
-See releases for more release notes.
-
-Please use Winget to install the latest version: "winget install rink-turksma.IntunePrepTool" (Run as Admin in CMD or Powershell)
-or update using: "winget upgrade rink-turksma.IntunePrepTool"
-Or download latest MSI. (Github releases)
 
 - Used for unattended installation / uninstallation EXE & MSI files.
 - Create intunewin files from winget sources.
@@ -45,36 +22,36 @@ Or download latest MSI. (Github releases)
 ##How to use: 
 
 Verify Local Winget Installation:
-Before using the local Winget options in the GUI, ensure Winget is functional. Open PowerShell as an Administrator and run a test command like winget list vlc. Agree to the terms if prompted. (This step is unnecessary for packages.)
 
-Adjust PowerShell Execution Policy:
-Set your PowerShell execution policy to unrestricted using the command: Set-ExecutionPolicy Unrestricted.
+Before using the local Winget options in the GUI, ensure Winget is functional. 
 
-Install IntunePrepTool:
-Download the latest MSI file and run it as an administrator. Alternatively, use the command: winget install rink-turksma.IntunePrepTool (Run as Admin).
+Open PowerShell as an Administrator and run a test command like
 
-Unblock Files:
-In file properties, ensure you 'Unblock' the following files:
-"C:\Program Files (x86)\IntunePrepTool\IntunePrepTool.exe"
-"C:\Program Files (x86)\IntunePrepTool\IntuneWinAppUtil.exe"
+	winget list vlc
+
+Agree to the terms if prompted. (This step is unnecessary for packages.)
+
+Set your PowerShell execution policy to unrestricted using the command: 
+
+	Set-ExecutionPolicy Unrestricted.
+
+Please use Winget to install the latest version: (Run as Admin)
+
+	winget install rink-turksma.IntunePrepTool
+ 
+ Or download latest MSI. (Github releases)
+
+Unblock Files (Powershell as Admin):
+
+	unblock-file "C:\Program Files\IntunePrepTool\IntunePrepTool.exe"
+ 	unblock-file "C:\Program Files\IntunePrepTool\IntuneWinAppUtil.exe"
+ 	
 
 Launch IntunePrepTool:
+
 Run IntunePrepTool as an Administrator.
 
-Select Customer Configuration:
-Choose the newly created customer configuration in the 'Config' tab.
-- In the first Tab - Config: Select the New / Clear button. 
-- Then you can select Customer name, Log Folder target, Package folder (Local) and TenantURL.
-- Click Save. (Settings are saved in: "C:\Program Files (x86)\IntunePrepTool\config_customerinfo.csv")
-
-- Now select the newly created customer also in the tab - Config.
-- For EXE, MSI and Winget it should be clear how to use this.
-- After creating the Intunewin package you will get the option to upload a logo. (This is mandatory for the upload to Intune option) Select a PNG file.
-- When you want to upload a package to Intune, please use load config.csv from the output package directory. (Location visible when creating package in GUI)
--The GUI shows the parameters for installation and detection method.
-- Use Upload button to open Powershell_ISE. Press start there and you will get a prompt to logon to your tenant.
-
-![image](https://user-images.githubusercontent.com/127322820/225110446-ad85e79c-6f0b-4d04-a676-69f83fdc1fdb.png)
+Screenshots with instructions below.
 
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/0200af55-3d8a-4caf-b4fd-fa9c90eb9501)
 
