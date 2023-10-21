@@ -96,7 +96,8 @@ Screenshots with instructions below.
 
 ### How to find Uninstall strings from the tools menu.
 
-![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/651860b5-3488-44bc-ab66-f9b4073ee650)
+![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/c637256d-7dd8-466b-b5a5-747a8847f4a4)
+
 
 ### How to create Intunewin package from an EXE source
 
