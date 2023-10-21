@@ -35,7 +35,7 @@ Agree to the terms if prompted. (This step is unnecessary for packages.)
 
 Set your PowerShell execution policy to unrestricted using the command: 
 
-	Set-ExecutionPolicy Unrestricted.
+	Set-ExecutionPolicy Unrestricted
 
 Please use Winget to install the latest version: (Run as Admin)
 
