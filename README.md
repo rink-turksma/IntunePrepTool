@@ -1,4 +1,11 @@
-Update: 10/21/2023
+Update: 10/22/2023
+
+When using existing: "C:\Program Files\IntunePrepTool\config_customerinfo.csv"
+
+Please add "downloadpath" to your CSV file.
+
+![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/23421297-0411-470a-8ec4-bb4076f054a2)
+
 
 For release notes and latest MSI installers see:
 https://github.com/rink-turksma/IntunePrepTool/releases
