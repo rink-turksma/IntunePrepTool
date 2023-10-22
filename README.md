@@ -9,7 +9,6 @@ Please use Issues in Github or email for assistence: rinkob@gmail.com
 
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/1505d2f6-f5c4-4870-9c35-13edc2275745)
 
-
 - Used for unattended installation / uninstallation EXE & MSI files.
 - Create intunewin files from winget sources.
 - Create weblink to IntuneWin file.
@@ -20,6 +19,12 @@ Please use Issues in Github or email for assistence: rinkob@gmail.com
 - Button to create Intunewin file, and print detection method in the app. (Which also writes a config.csv file to the package directory.)
 - After you select create Intunewin. You will get the option to select a PNG file.
 - Then you can use the option for uploading directly to Intune (Uses PowerShell modules MSAL.PS from Jason Thompson and IntuneWin32App from Nickolaj Andersen) (Update 21/05/2023: Version 1.0.3.3 or later needed)
+
+When using existing: "C:\Program Files\IntunePrepTool\config_customerinfo.csv"
+
+Please add "downloadpath" to your CSV file.
+
+![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/23421297-0411-470a-8ec4-bb4076f054a2)
 
 ### How to install: 
 
