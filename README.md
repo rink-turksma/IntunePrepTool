@@ -47,6 +47,14 @@ Open PowerShell as an Administrator and run a test command like
 
 Agree to the terms if prompted. (This step is unnecessary for packages.)
 
+If this is not working for you please install winget from here: (Also needed on the target machine when using the package winget to Intunewin option)
+
+https://github.com/microsoft/winget-cli/releases
+
+Also availbe in the Windows Store:
+
+https://apps.microsoft.com/detail/9NBLGGH4NNS1
+
 Set your PowerShell execution policy to unrestricted using the command: 
 
 	Set-ExecutionPolicy Unrestricted
