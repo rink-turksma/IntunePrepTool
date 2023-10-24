@@ -51,7 +51,7 @@ If this is not working for you please install winget from here: (Also needed on 
 
 https://github.com/microsoft/winget-cli/releases
 
-Also availbe in the Windows Store:
+Also available in the Windows Store:
 
 https://apps.microsoft.com/detail/9NBLGGH4NNS1
 
