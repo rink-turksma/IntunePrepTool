@@ -9,7 +9,7 @@ Please use Issues in Github or email for assistence: rinkob@gmail.com
 
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/1505d2f6-f5c4-4870-9c35-13edc2275745)
 
-- Easy to configure EXE, MSI, Winget, Scheduled Task and Weblinks installation files to Intunewin Files. then upload them directly
+- Easy to configure from sources like EXE, MSI, Winget, Powershell as Scheduled Task and Weblinks for creating (un)installation files. Package to Intunewin. then upload them directly. With detection method in registry for Intune in place.
 - Create winget update remediation policy.
 - Download option to download source files from Winget.
 - Automatically created install.ps1 and uninstall.ps1 witch you can test and edit in Powershell_ISE with one click.
