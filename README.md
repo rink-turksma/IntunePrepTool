@@ -9,10 +9,9 @@ Please use Issues in Github or email for assistence: rinkob@gmail.com
 
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/1505d2f6-f5c4-4870-9c35-13edc2275745)
 
-- Used for unattended installation / uninstallation EXE & MSI files.
-- Create intunewin files from winget sources.
-- Create weblink to IntuneWin file.
+- Easy to configure EXE, MSI, Winget, Scheduled Task and Weblinks installation files to Intunewin Files. then upload them directly
 - Create winget update remediation policy.
+- Download option to download source files from Winget.
 - Automatically created install.ps1 and uninstall.ps1 witch you can test and edit in Powershell_ISE with one click.
 - All generated PowerShell scripts used in Intunewin files will write transcripts logs to specified location. And also show a Informational or Error in the event viewer IntunePrepTool (Application and services) log.
 - Log file also located: "C:\ProgramData\Microsoft\IntuneManagementExtension\Logs\IntunePrepTool.evtx"; This so you can use The collect Diagnostics option from the Intune Admin Portal for Windows clients and download the logs of the packages.
