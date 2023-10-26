@@ -93,7 +93,7 @@ Screenshots with instructions below.
 
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/b599056b-887b-4d19-835f-b5b634c68842)
 
-### How to use the package option to create Intunewin file from MSI installer.
+### Create Intunewin file from an MSI source.
 
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/a493d6b3-4b33-4daa-8295-0468e8f36df8)
 
@@ -111,16 +111,16 @@ Screenshots with instructions below.
 
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/55d056fe-d16f-4db2-83db-cd86f99b03ab)
 
-### How to use Upload function to upload Intunewin created by IntunePrepTool to Microsoft Intune
+### Upload function to upload Intunewin packages created by IntunePrepTool to Microsoft Intune
 
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/1f2f99c5-16a5-4132-aae4-fe7ac96ae636)
 
-### How to find Uninstall strings from the tools menu.
+### How to find Uninstall strings using option in the tools menu.
 
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/c637256d-7dd8-466b-b5a5-747a8847f4a4)
 
 
-### How to create Intunewin package from an EXE source
+### Create Intunewin file from an EXE source.
 
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/c233c227-1249-439e-b0fe-7b59b8ab56aa)
 
@@ -154,8 +154,11 @@ Screenshots with instructions below.
 
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/ddad4e63-251c-4679-8f7c-3b3a42c05507)
 
+![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/c740ddc6-1454-40e2-91ca-4ae995095c88)
 
 
+
+### Location IntunePrepTool logs in Event viewer.
 
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/3a429542-af1a-45f1-9a6c-4c10cb721559)
 
