@@ -140,6 +140,27 @@ Screenshots with instructions below.
 
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/22891d06-4aea-4784-b9ee-3c1e1ed51165)
 
+### How to create a scheduled task Intunewin package
+
+![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/073a19b6-d401-4d1c-9347-35a2f773945f)
+
+![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/f7c48aa4-7a88-4d83-a885-94e6c44ae212)
+
+![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/ec217d62-33b1-427b-b9cc-08623f0e3eb7)
+
+![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/f735450d-726a-4471-9d1f-3249c845e63a)
+
+![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/de06e79b-0db2-4de1-ad17-f16034ca27ee)
+
+![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/ddad4e63-251c-4679-8f7c-3b3a42c05507)
+
+![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/10a73a80-dd80-4f02-b499-2104a29d069f)
+
+![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/3a429542-af1a-45f1-9a6c-4c10cb721559)
+
+![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/8f69c0fe-a473-4f21-9268-cbcbc07d4b77)
+
+
 
 
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/4cd313db-1353-49a4-a837-06c40e6e7d4d)
