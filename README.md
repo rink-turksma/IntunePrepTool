@@ -1,4 +1,4 @@
-Update: 10/25/2023
+Update: 10/26/2023
 
 For release notes and latest MSI installers see:
 https://github.com/rink-turksma/IntunePrepTool/releases
