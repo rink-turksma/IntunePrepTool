@@ -154,18 +154,12 @@ Screenshots with instructions below.
 
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/ddad4e63-251c-4679-8f7c-3b3a42c05507)
 
-![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/10a73a80-dd80-4f02-b499-2104a29d069f)
+
+
 
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/3a429542-af1a-45f1-9a6c-4c10cb721559)
 
-![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/8f69c0fe-a473-4f21-9268-cbcbc07d4b77)
-
-
-
-
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/4cd313db-1353-49a4-a837-06c40e6e7d4d)
-
-![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/cbe19ee2-929d-41ac-af43-e87588bb057f)
 
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/7e70ccb8-ee80-4d5c-a714-6d513f5ea805)
 
