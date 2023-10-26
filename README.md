@@ -154,11 +154,10 @@ Screenshots with instructions below.
 
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/ddad4e63-251c-4679-8f7c-3b3a42c05507)
 
+![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/3a429542-af1a-45f1-9a6c-4c10cb721559)
+
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/c740ddc6-1454-40e2-91ca-4ae995095c88)
 
-### Location IntunePrepTool logs in Event viewer.
-
-![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/3a429542-af1a-45f1-9a6c-4c10cb721559)
 
 ### Create Winget Intunewin packages.
 
@@ -177,6 +176,7 @@ Screenshots with instructions below.
 
 
 
+### Location IntunePrepTool logs in Event viewer.
 
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/6a88d37a-9d8b-4c50-a56d-3829e0ea4d7c)
 
