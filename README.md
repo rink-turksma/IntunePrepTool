@@ -79,15 +79,25 @@ Screenshots with instructions below.
 
 ### Select Customer / Tenant:
 
+1.	Add your customer / tenant here.
+2.	Always select a customer before creating a package.
+3.	This information is stored in:  "C:\Program Files\IntunePrepTool\config_customerinfo.csv"
+
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/0200af55-3d8a-4caf-b4fd-fa9c90eb9501)
 
 ### Download sources from Winget.
+
+1.	This option is used for downloading installers from the Winget repository. (MSI, MSIX or EXE sources)
+2.	When using this download options. Files are stored in the specified location in Config panel. (or "C:\Program Files\IntunePrepTool\config_customerinfo.csv" as Downloadpath)
 
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/ae268b9c-25ee-493d-8fb4-288c3bdda69f)
 
 ### Create Intunewin package options
 
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/dea99ee5-65fa-4c51-b2dc-d4a32e635a28)
+
+![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/c1e8c742-755c-4591-9521-f673c683245d)
+
 
 ### Tools options. 
 
