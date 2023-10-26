@@ -88,7 +88,7 @@ Screenshots with instructions below.
 ### Download sources from Winget.
 
 1.	This option is used for downloading installers from the Winget repository. (MSI, MSIX or EXE sources)
-2.	When using this download options. Files are stored in the specified location in Config panel. (or "C:\Program Files\IntunePrepTool\config_customerinfo.csv" as Downloadpath)
+2.	When using this download option. Files are stored in the specified location in Config panel. (or "C:\Program Files\IntunePrepTool\config_customerinfo.csv" as Downloadpath)
 
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/ae268b9c-25ee-493d-8fb4-288c3bdda69f)
 
