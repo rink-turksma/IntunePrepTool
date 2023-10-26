@@ -164,11 +164,10 @@ Screenshots with instructions below.
 
 1.	Please note. Winget is needed on the target machine. (Windows 10 and 11)
 
-2.	Download the latest stable MSIX from this source.
+2.	Download the latest stable MSIX from this source: https://github.com/microsoft/winget-cli/releases
 
-3.	https://github.com/microsoft/winget-cli/releases
-
-4.	Fix installation of the MSIX in a Win32 app if you want to use the 'Required' assignment option in Intune so you can setup Dependency for your Winget apps.
+3.	Fix installation of the MSIX in a Win32 app if you want to use the 'Required' assignment option in Intune. This so you can use the Dependency option for your Winget apps.
+4.	
 
 
 
