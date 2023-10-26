@@ -1,5 +1,7 @@
 Update: 10/26/2023
 
+IntunePrepTool is a graphical user interface (GUI) designed for creating Intune packages using the MS Win32 Content Prep Tool. The tool aims to simplify the process of packaging applications for deployment through Intune by automatically generating installation and uninstallation scripts for various types of installers, including MSI, EXE, Winget, and Scheduled tasks.
+
 For release notes and latest MSI installers see:
 https://github.com/rink-turksma/IntunePrepTool/releases
 
