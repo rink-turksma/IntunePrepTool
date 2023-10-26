@@ -162,12 +162,13 @@ Screenshots with instructions below.
 
 ### Create Winget Intunewin packages.
 
-Please note. Winget is needed on the target machine. (Windows 10 and 11);
-Download the latest stable MSIX from this source.
+1.	Please note. Winget is needed on the target machine. (Windows 10 and 11)
 
-https://github.com/microsoft/winget-cli/releases
+2.	Download the latest stable MSIX from this source.
 
-Fix installation of the MSIX in a Win32 app if you want to use the 'Required' assignment option in Intune so you can setup Dependency for your Winget apps.
+3.	https://github.com/microsoft/winget-cli/releases
+
+4.	Fix installation of the MSIX in a Win32 app if you want to use the 'Required' assignment option in Intune so you can setup Dependency for your Winget apps.
 
 
 
