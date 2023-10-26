@@ -94,16 +94,13 @@ Screenshots with instructions below.
 
 ### Create Intunewin package options
 
-![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/dea99ee5-65fa-4c51-b2dc-d4a32e635a28)
-
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/c1e8c742-755c-4591-9521-f673c683245d)
-
 
 ### Tools options. 
 
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/b599056b-887b-4d19-835f-b5b634c68842)
 
-### Create Intunewin file from an MSI source.
+### Create Intunewin file from an MSI file.
 
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/a493d6b3-4b33-4daa-8295-0468e8f36df8)
 
@@ -123,9 +120,13 @@ Screenshots with instructions below.
 
 ### Upload function to upload Intunewin packages created by IntunePrepTool to Microsoft Intune
 
+1.	After creating Intunewin package with IntunePrepTool a config.csv is written to the output folder of your package. Load the config.csv here to upload your package to MS Intune.
+
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/1f2f99c5-16a5-4132-aae4-fe7ac96ae636)
 
 ### How to find Uninstall strings using option in the tools menu.
+
+1.	Search registry for installed application to find the Uninstall string. 
 
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/c637256d-7dd8-466b-b5a5-747a8847f4a4)
 
@@ -151,6 +152,8 @@ Screenshots with instructions below.
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/22891d06-4aea-4784-b9ee-3c1e1ed51165)
 
 ### How to create a scheduled task Intunewin package
+
+1.	Add Powershell code to run weekly or at startup as a scheduled task. 
 
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/073a19b6-d401-4d1c-9347-35a2f773945f)
 
@@ -183,11 +186,6 @@ Screenshots with instructions below.
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/e5a10c5d-9e51-4631-9082-e819c86ca1fe)
 
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/960ad0c4-28a8-4d40-a3d0-99668fc9ae65)
-
-
-
-
-
 
 
 ### Location IntunePrepTool logs in Event viewer.
