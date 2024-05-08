@@ -3,6 +3,8 @@ Update: 08/05/2024
 Created by Rink Turksma with Sapien Powershell Studio.
 
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/rink-turksma/IntunePrepTool/total)
+![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/rink-turksma/IntunePrepTool/latest/total)
+
 
 For release notes and latest MSI installers see:
 https://github.com/rink-turksma/IntunePrepTool/releases
