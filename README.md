@@ -126,7 +126,7 @@ Screenshots with instructions below.
 ### Upload function to upload Intunewin packages created by IntunePrepTool to Microsoft Intune
 
 1.	After creating Intunewin package with IntunePrepTool a config.csv is written to the output folder of your package. Load the config.csv here to upload your package to MS Intune.
-
+2. 	Please check instructions in the release notes https://github.com/rink-turksma/IntunePrepTool/releases/tag/IntunePrepTool-1.3.0.0 
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/1f2f99c5-16a5-4132-aae4-fe7ac96ae636)
 
 ### How to find Uninstall strings using option in the tools menu.
