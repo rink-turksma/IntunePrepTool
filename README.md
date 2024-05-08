@@ -27,21 +27,6 @@ Please use Issues in Github or email for assistence: rinkob@gmail.com
 - After you select create Intunewin. You will get the option to select a PNG file.
 - Then you can use the option for uploading directly to Intune (Uses PowerShell modules MSAL.PS from Jason Thompson and IntuneWin32App from Nickolaj Andersen) (Update 21/05/2023: Version 1.0.3.3 or later needed)
 
-### How to update
-
-When using existing: "C:\Program Files\IntunePrepTool\config_customerinfo.csv"
-
-Please add "downloadpath" to your CSV file.
-
-![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/23421297-0411-470a-8ec4-bb4076f054a2)
-
-Please use Winget to install the latest version: (Run as Admin)
-
-	winget upgrade rink-turksma.IntunePrepTool
-
- Or download latest MSI. (https://github.com/rink-turksma/IntunePrepTool/releases)
- 
-
 ### How to install: 
 
 Verify Local Winget Installation:
