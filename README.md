@@ -1,9 +1,13 @@
-Update: 03/03/2024
+Update: 08/05/2024
 
 Created by Rink Turksma with Sapien Powershell Studio.
 
 For release notes and latest MSI installers see:
 https://github.com/rink-turksma/IntunePrepTool/releases
+
+After 06/05/2024 there was a problem with uploading due to deprecation of some functions in the IntuneWin32app powershell module.
+This is fixed in version 1.3.0.0. Please see release notes of version 1.3.0.0 for information how to use the upload function with app registration.
+https://github.com/rink-turksma/IntunePrepTool/releases/tag/IntunePrepTool-1.3.0.0
 
 Please use Issues in Github or email for assistence: rinkob@gmail.com
 
