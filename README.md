@@ -72,6 +72,7 @@ Unblock Files (Powershell as Admin):
 
 	unblock-file "C:\Program Files\IntunePrepTool\IntunePrepTool.exe"
  	unblock-file "C:\Program Files\IntunePrepTool\IntuneWinAppUtil.exe"
+  	unblock-file "C:\Program Files\IntunePrepTool\addAppReg.exe"
  	
 ### How to use
 
@@ -85,7 +86,7 @@ Screenshots with instructions below.
 
 1.	Add your customer / tenant here.
 2.	Always select a customer before creating a package.
-3.	This information is stored in:  "C:\Program Files\IntunePrepTool\config_customerinfo.csv"
+3.	This information is stored in:  "C:\Users\$ENV:username\\.IntunePrepTool\\config_customerinfo.csv"
 
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/0200af55-3d8a-4caf-b4fd-fa9c90eb9501)
 
