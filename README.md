@@ -31,7 +31,7 @@ Please use Issues in Github or email for assistence: rinkob@gmail.com
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Xn2EBQ_e82U
 " target="_blank"><img src="http://img.youtube.com/vi/=Xn2EBQ_e82U/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IntunePrepTool Youtube" width="240" height="180" border="10" /></a>
 
 ### How to install: 
 
