@@ -29,9 +29,7 @@ Please use Issues in Github or email for assistence: rinkob@gmail.com
 
 ### Simple example on Youtube
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=Xn2EBQ_e82U" target="_blank"><img src="http://img.youtube.com/vi/=Xn2EBQ_e82U/maxresdefault.jpg" alt="IntunePrepTool Youtube" width="240" height="180" border="10" /></a>
-
-[![IntunePrepTool Example Youtube](https://img.youtube.com/vi/Xn2EBQ_e82U/maxresdefault.jpg)](https://www.youtube.com/watch?Xn2EBQ_e82U)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Xn2EBQ_e82U" target="_blank"><img src="http://img.youtube.com/vi/Xn2EBQ_e82U/maxresdefault.jpg" alt="IntunePrepTool Youtube" width="240" height="180" border="10" /></a>
 
 ### How to install: 
 
