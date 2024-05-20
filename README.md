@@ -5,13 +5,13 @@ Created by Rink Turksma with Sapien Powershell Studio.
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/rink-turksma/IntunePrepTool/total)
 ![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/rink-turksma/IntunePrepTool/latest/total)
 
+### Simple example on Youtube
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Xn2EBQ_e82U" target="_blank"><img src="http://img.youtube.com/vi/Xn2EBQ_e82U/maxresdefault.jpg" alt="IntunePrepTool Youtube" width="240" height="180" border="10" /></a>
+
 
 For release notes and latest MSI installers see:
 https://github.com/rink-turksma/IntunePrepTool/releases
-
-After 06/05/2024 there was a problem with uploading due to deprecation of some functions in the IntuneWin32app powershell module.
-This is fixed in version 1.3.0.0. Please see release notes of version 1.3.0.0 for information how to use the upload function with app registration.
-https://github.com/rink-turksma/IntunePrepTool/releases/tag/IntunePrepTool-1.3.0.0
 
 Please use Issues in Github or email for assistence: rinkob@gmail.com
 
@@ -27,9 +27,6 @@ Please use Issues in Github or email for assistence: rinkob@gmail.com
 - After you select create Intunewin. You will get the option to select a PNG file.
 - Then you can use the option for uploading directly to Intune (Uses PowerShell modules MSAL.PS from Jason Thompson and IntuneWin32App from Nickolaj Andersen) (Update 21/05/2023: Version 1.0.3.3 or later needed)
 
-### Simple example on Youtube
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=Xn2EBQ_e82U" target="_blank"><img src="http://img.youtube.com/vi/Xn2EBQ_e82U/maxresdefault.jpg" alt="IntunePrepTool Youtube" width="240" height="180" border="10" /></a>
 
 ### How to install: 
 
