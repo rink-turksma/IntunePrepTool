@@ -33,39 +33,13 @@ Please use Issues in Github or email for assistence: rinkob@gmail.com
 
 ### How to install: 
 
-Verify Local Winget Installation:
+Download latest MSI. (https://github.com/rink-turksma/IntunePrepTool/releases)
 
-Before using the local Winget options in the GUI, ensure Winget is functional. 
+Unblock MSI file:
 
-Open PowerShell as an Administrator and run a test command like
+![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/307b670e-66dd-46d8-b2c6-9fb464a64da1)
 
-	winget list vlc
-
-Agree to the terms if prompted. (This step is unnecessary for packages.)
-
-If this is not working for you please install winget from here: (Also needed on the target machine when using the package winget to Intunewin option)
-
-https://github.com/microsoft/winget-cli/releases
-
-Also available in the Windows Store:
-
-https://apps.microsoft.com/detail/9NBLGGH4NNS1
-
-Set your PowerShell execution policy to unrestricted using the command: 
-
-	Set-ExecutionPolicy Unrestricted
-
-Please use Winget to install the latest version: (Run as Admin)
-
-	winget install rink-turksma.IntunePrepTool
- 
- Or download latest MSI. (https://github.com/rink-turksma/IntunePrepTool/releases)
-
-Unblock Files (Powershell as Admin):
-
-	unblock-file "C:\Program Files\IntunePrepTool\IntunePrepTool.exe"
- 	unblock-file "C:\Program Files\IntunePrepTool\IntuneWinAppUtil.exe"
-  	unblock-file "C:\Program Files\IntunePrepTool\addAppReg.exe"
+Run MSI file.
  	
 ### How to use
 
