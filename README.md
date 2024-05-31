@@ -54,6 +54,24 @@ Screenshots with instructions below.
 
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/0200af55-3d8a-4caf-b4fd-fa9c90eb9501)
 
+### Add App registration EntraID for Upload function
+![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/c8e1afdd-8184-4900-8df3-89c43a14dd21)
+
+![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/c955e113-82ac-4878-9517-400e5e6f2074)
+
+![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/0227f498-aa44-4992-9033-8c24828b2439)
+
+![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/7c68dd1f-28f4-4855-94fb-5bdadad94564)
+
+![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/92363e92-956e-4ffb-abab-886a35ed47fe)
+
+![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/1cda23ac-fea3-4506-8b55-7ce136052168)
+
+
+
+
+
+
 ### Download sources from Winget.
 
 1.	This option is used for downloading installers from the Winget repository. (MSI, MSIX or EXE sources)
