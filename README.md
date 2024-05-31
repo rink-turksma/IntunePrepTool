@@ -67,10 +67,9 @@ Screenshots with instructions below.
 
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/1cda23ac-fea3-4506-8b55-7ce136052168)
 
+![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/0607a8fd-e796-47c3-8087-72e9848dbd72)
 
-
-
-
+![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/bd9930b0-1d10-4798-bfc1-f5a83bc6f736)
 
 ### Download sources from Winget.
 
