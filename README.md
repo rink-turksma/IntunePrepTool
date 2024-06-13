@@ -5,15 +5,15 @@ Created by Rink Turksma with Sapien Powershell Studio.
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/rink-turksma/IntunePrepTool/total)
 ![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/rink-turksma/IntunePrepTool/latest/total)
 
-### Simple example on Youtube
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=Xn2EBQ_e82U" target="_blank"><img src="http://img.youtube.com/vi/Xn2EBQ_e82U/maxresdefault.jpg" alt="IntunePrepTool Youtube" width="240" height="180" border="10" /></a>
-
-
 For release notes and latest MSI installers see:
 https://github.com/rink-turksma/IntunePrepTool/releases
 
 Please use Issues in Github or email for assistence: rinkob@gmail.com
+
+### Simple example on Youtube
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Xn2EBQ_e82U" target="_blank"><img src="http://img.youtube.com/vi/Xn2EBQ_e82U/maxresdefault.jpg" alt="IntunePrepTool Youtube" width="240" height="180" border="10" /></a>
+
 
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/1505d2f6-f5c4-4870-9c35-13edc2275745)
 
