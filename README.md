@@ -1,4 +1,4 @@
-Update: 10/09/2024
+Update: 22/09/2024
 
 Created by Rink Turksma with Sapien Powershell Studio.
 
@@ -18,6 +18,7 @@ Please use Issues in Github or email for assistence: rinkob@gmail.com
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/1505d2f6-f5c4-4870-9c35-13edc2275745)
 
 - Easy to configure from sources like EXE, MSI, MSIX, Winget, Powershell as Scheduled Task and Weblinks for creating (un)installation files. Package to Intunewin. upload to Intune directly. With detection method in place.
+- Use Azure OpenAI gpt-4o to look for install parameters when creating packages from EXE files.
 - Create winget update remediation policy.
 - Download option to download source files from Winget.
 - Automatically created install.ps1 and uninstall.ps1 witch you can test and edit in Powershell_ISE with one click.
@@ -176,5 +177,28 @@ Screenshots with instructions below.
 
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/6a88d37a-9d8b-4c50-a56d-3829e0ea4d7c)
 
+### Adding Azure OpenAI gpt-4o model to IntunePrepTool
 
+![image](https://github.com/user-attachments/assets/dd5185c0-8ed1-48dc-9b25-f6e01fc121e5)
 
+![image](https://github.com/user-attachments/assets/c6d50664-6988-424d-a108-e539ce796177)
+
+![image](https://github.com/user-attachments/assets/2eeebfba-3ba0-4f2e-944c-28a027e91d97)
+
+![image](https://github.com/user-attachments/assets/60e13d4c-48e5-43b3-8a06-84f93942984c)
+
+![image](https://github.com/user-attachments/assets/9bf3444d-0bb4-499f-bd50-524ff2310070)
+
+![image](https://github.com/user-attachments/assets/70ef255e-c7af-44a8-bd53-3c991fbf090d)
+
+![image](https://github.com/user-attachments/assets/72005c15-496e-4b98-8876-88fd5a4cca83)
+
+![image](https://github.com/user-attachments/assets/cf9b4471-a3c6-438c-86b4-8f98152f7af6)
+
+![image](https://github.com/user-attachments/assets/32dcbbd8-aec4-4c5a-9a59-1b76dae99bfa)
+
+![image](https://github.com/user-attachments/assets/82d0fe9a-f990-4d0b-b0cf-10179a246781)
+
+![image](https://github.com/user-attachments/assets/2d1b3ee3-febb-4286-a11a-8cba96bf5c04)
+
+![image](https://github.com/user-attachments/assets/3b471dee-7386-48ef-b073-2a8868456d89)
