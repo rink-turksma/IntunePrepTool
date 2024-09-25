@@ -1,6 +1,4 @@
-Update: 23/09/2024
-
--- Scheduled Tasks broken in latest releases. Fix coming soon.
+Update: 25/09/2024
 
 Created by Rink Turksma with Sapien Powershell Studio.
 
