@@ -17,13 +17,13 @@ Please use Issues in Github or email for assistence: rinkob@gmail.com
 
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/1505d2f6-f5c4-4870-9c35-13edc2275745)
 
-- Easy to configure from sources like EXE, MSI, MSIX, Winget, Powershell as Scheduled Task and Weblinks for creating (un)installation files. Package to Intunewin. upload to Intune directly. With detection method in place.
-- Use Azure OpenAI gpt-4o to look for install parameters when creating packages from EXE files.
+- Easily configure sources such as EXE, MSI, MSIX, Winget, PowerShell, Scheduled Tasks and weblinks to create installation and uninstallation files. Package them into Intunewin files and upload directly to Intune, with detection methods in place.
+- Use Azure OpenAI GPT-4 to look for install parameters when creating packages from EXE files.
 - Create winget update remediation policy.
 - Download option to download source files from Winget.
-- Automatically created install.ps1 and uninstall.ps1 witch you can test and edit in Powershell_ISE with one click.
-- All generated PowerShell scripts used in Intunewin files will write transcripts logs to specified location. And also show a Informational or Error in the event viewer IntunePrepTool (Application and services) log.
-- Log file also located: "C:\ProgramData\Microsoft\IntuneManagementExtension\Logs\IntunePrepTool.evtx"; This so you can use The collect Diagnostics option from the Intune Admin Portal for Windows clients and download the logs of the packages.
+- Automatically creates install.ps1 and uninstall.ps1, which you can test and edit in PowerShell ISE with one click.
+- All generated PowerShell scripts used in Intunewin files will write transcript logs to a specified location and also show an informational or error message in the Event Viewer under the IntunePrepTool (Application and Services) log.
+- The log file is also located at "C:\ProgramData\Microsoft\IntuneManagementExtension\Logs\IntunePrepTool.evtx"; this allows you to use the 'Collect Diagnostics' option from the Intune Admin Portal for Windows clients and download the logs of the packages.
 - Button to create Intunewin file, and print detection method in the app. (Which also writes a config.csv file to the package directory.)
 - After you select create Intunewin. You will get the option to select a PNG file.
 - Then you can use the option for uploading directly to Intune (Uses PowerShell modules MSAL.PS from Jason Thompson and IntuneWin32App from Nickolaj Andersen) (Update 21/05/2023: Version 1.0.3.3 or later needed)
