@@ -1,6 +1,6 @@
 Update: 02/12/2024
 
-Winget version is out of date. I'm sorry. Will be up to date soon. For now please update using MSI installer under releases.
+The Winget version is currently out of date. It will be updated soon. In the meantime, please use the MSI installer available under the 'Releases' section to update
 
 Created by Rink Turksma with Sapien Powershell Studio.
 
