@@ -1,6 +1,6 @@
-Update: 04/12/2024
+Update: 14 december 2024
 
-The Winget version is up to date now.
+The Winget version is not yet up to date.
 
 Created by Rink Turksma with Sapien Powershell Studio.
 
