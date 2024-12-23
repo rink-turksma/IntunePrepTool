@@ -1,4 +1,4 @@
-Update: 14 december 2024
+Update: 23 december 2024
 
 The Winget version is not yet up to date.
 
@@ -19,7 +19,7 @@ Please use Issues in Github or email for assistence: rinkob@gmail.com
 
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/1505d2f6-f5c4-4870-9c35-13edc2275745)
 
-- Easily configure sources such as EXE, MSI, MSIX, Winget, PowerShell, Scheduled Tasks and weblinks to create installation and uninstallation files. Package them into Intunewin files and upload directly to Intune, with detection methods in place.
+- Easily configure sources such as EXE, MSI, MSIX, Winget, Chocolatey, PowerShell, Scheduled Tasks and weblinks to create installation and uninstallation files. Package them into Intunewin files and upload directly to Intune, with detection methods in place.
 - Use Azure OpenAI GPT-4 to look for install parameters when creating packages from EXE files.
 - Create winget update remediation policy.
 - Download option to download source files from Winget.
