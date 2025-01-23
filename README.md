@@ -1,4 +1,4 @@
-Update: 20 Januari 2025
+Update: 23 Januari 2025
 
 The Winget version is up to date.
 
