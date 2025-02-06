@@ -1,6 +1,6 @@
 Update: 2 Februari 2025
 
-The Winget version is Not yet up to date.
+The Winget version is up to date now. (06/02/2025)
 
 Created by Rink Turksma with Sapien Powershell Studio.
 
@@ -13,6 +13,8 @@ https://github.com/rink-turksma/IntunePrepTool/releases
 Please use Issues in Github or email for assistence: rinkob@gmail.com
 
 ### Simple example on Youtube
+
+A bit outdated. I will update the instruction video soon. For now, see the changes in the Releases section.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Xn2EBQ_e82U" target="_blank"><img src="http://img.youtube.com/vi/Xn2EBQ_e82U/maxresdefault.jpg" alt="IntunePrepTool Youtube" width="240" height="180" border="10" /></a>
 
