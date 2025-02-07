@@ -12,11 +12,10 @@ https://github.com/rink-turksma/IntunePrepTool/releases
 
 Please use Issues in Github or email for assistence: rinkob@gmail.com
 
-### Simple example on Youtube
+### Simple example on Youtube (Update Februari 2025)
 
-A bit outdated. I will update the instruction video soon. For now, see the changes in the Releases section.
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=Xn2EBQ_e82U" target="_blank"><img src="http://img.youtube.com/vi/Xn2EBQ_e82U/maxresdefault.jpg" alt="IntunePrepTool Youtube" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=607YYwTvL3I" target="_blank"><img src="http://img.youtube.com/vi/607YYwTvL3I/maxresdefault.jpg" alt="IntunePrepTool Youtube" width="240" height="180" border="10" /></a>
 
 
 ![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/1505d2f6-f5c4-4870-9c35-13edc2275745)
