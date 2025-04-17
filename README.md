@@ -28,7 +28,7 @@ Please use Issues in Github or email for assistence: rinkob@gmail.com
 - The log file is also located at "C:\ProgramData\Microsoft\IntuneManagementExtension\Logs\IntunePrepTool.evtx"; this allows you to use the 'Collect Diagnostics' option from the Intune Admin Portal for Windows clients and download the logs of the packages.
 - Button to create Intunewin file, and print detection method in the app. (Which also writes a config.csv file to the package directory.)
 - After you select create Intunewin. You will get the option to select a PNG file.
-- Then you can use the option for uploading directly to your Intune tenant(s) (Uses IntuneWin32App powershell module from Nickolaj Andersen) 
+- Then you can use the option for uploading directly to your Intune tenant(s) (Uses IntuneWin32App powershell module from Nickolaj Andersen - https://github.com/MSEndpointMgr/IntuneWin32App) 
 
 
 ### How to install: 
