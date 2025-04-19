@@ -1,4 +1,7 @@
-Update: 6 March 2025
+Update: 19 April 2025
+
+See latest How-to setup here:
+https://intunepreptool.com/how-to/basic-setup/
 
 Big update coming real soon!
 
