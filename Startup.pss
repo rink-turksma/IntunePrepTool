@@ -1,0 +1,65 @@
+﻿<File version="3.2">
+  <Code><![CDATA[#Define a Param block to use custom parameters in the project
+#Param ($CustomParameter)
+
+function Main {
+<#
+    .SYNOPSIS
+        The Main function starts the project application.
+    
+    .PARAMETER Commandline
+        $Commandline contains the complete argument string passed to the script packager executable.
+    
+    .NOTES
+        Use this function to initialize your script and to call GUI forms.
+		
+    .NOTES
+        To get the console output in the Packager (Forms Engine) use: 
+		$ConsoleOutput (Type: System.Collections.ArrayList)
+#>
+	Param ([String]$Commandline)
+		
+	#--------------------------------------------------------------------------
+	#TODO: Add initialization script here (Load modules and check requirements)
+	#region Set DPI Awareness
+	$null = Add-Type -TypeDefinition @"
+using System;
+using System.Runtime.InteropServices;
+namespace SAPIEN
+{
+	public static class DPIAware
+	{
+		public enum PROCESS_DPI_AWARENESS
+		{
+			PROCESS_DPI_UNAWARE = 0,
+			PROCESS_SYSTEM_DPI_AWARE = 1,
+			PROCESS_PER_MONITOR_DPI_AWARE = 2
+		}
+
+		[DllImport("SHCore.dll", SetLastError = true)]
+		public static extern int SetProcessDpiAwareness(PROCESS_DPI_AWARENESS awareness);
+	}
+}
+"@
+	#Call before displaying a GUI
+	[SAPIEN.DPIAware]::SetProcessDpiAwareness('PROCESS_SYSTEM_DPI_AWARE')
+	#endregion
+	
+	#--------------------------------------------------------------------------
+	<#
+	if((Show-MainForm_psf) -eq 'OK')
+	{
+		
+	}
+	#>
+	if ((Show-IntunePrepTool_psf) -eq 'OK') {
+
+}
+	
+	$script:ExitCode = 0 #Set the exit code for the Packager
+}
+
+
+]]></Code>
+  <TV>0</TV>
+</File>

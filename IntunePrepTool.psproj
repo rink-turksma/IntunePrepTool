@@ -1,0 +1,16 @@
+﻿<Project Synchronized="False" SyncFilter="*.ps1;*.psm1;*.psd1;*.ps1xml;*.psf;*.pss;*.xml;*.help.txt">
+  <Version>2.1</Version>
+  <FileID>fb03ecfd-68e8-4b5e-bf45-37b391e3b5ae</FileID>
+  <ProjectType>0</ProjectType>
+  <RememberPowerShellVersion>True</RememberPowerShellVersion>
+  <PowerShellVersion>Local Machine - PowerShell V5 (64 Bit)</PowerShellVersion>
+  <Folders />
+  <Files>
+    <File Build="0">Startup.pss</File>
+    <File Build="0" Shared="True" ReferenceFunction="Invoke-Global_ps1">Globals.ps1</File>
+    <File Build="0" ReferenceFunction="Show-IntunePrepTool_psf">IntunePrepTool.psf</File>
+    <File Build="0" ReferenceFunction="Show-BuildingBlocksRegistry_psf">BuildingBlocksRegistry.psf</File>
+    <File Build="0" ReferenceFunction="Show-BuildingBlocksFilesAndFolders_psf">BuildingBlocksFilesAndFolders.psf</File>
+    <File Build="0" ReferenceFunction="Show-BuildingBlocksShortcut_psf">BuildingBlocksShortcut.psf</File>
+  </Files>
+</Project>
