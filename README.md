@@ -6,7 +6,7 @@ https://intunepreptool.com/how-to/basic-setup/
 See How-to use Building Blocks:
 https://intunepreptool.com/how-to/building-blocks/
 
-The Winget version is NOT up to date now. (28/04/2025)
+The Winget version is up to date now. (30/04/2025)
 
 Created by Rink Turksma with Sapien Powershell Studio.
 
