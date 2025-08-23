@@ -1,5 +1,6 @@
-Update: 23 August 2025
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/rink-turksma/IntunePrepTool/total)
+
+Update: 23 August 2025
 
 The Winget version is not yet up to date
 
