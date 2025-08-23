@@ -28,7 +28,7 @@ Designed for **efficiency, transparency, and automation**, IntunePrepTool helps 
 
 - Configure sources: **EXE, MSI, MSIX, Winget, Chocolatey, PowerShell, Scheduled Tasks**  
 - Package into **Intunewin** files and upload directly to Intune  
-  *(Uses the [IntuneWin32App PowerShell module](https://github.com/MSEndpointMgr/IntuneWin32App) by Nickolaj Andersen)*  
+  *(Upload functions uses the [IntuneWin32App PowerShell module](https://github.com/MSEndpointMgr/IntuneWin32App) by Nickolaj Andersen)*  
 - Use **Azure OpenAI GPT-4** to suggest install parameters for EXE packaging  
 - Download installers directly from **Winget**  
 - Auto-generate `install.ps1` and `uninstall.ps1` (ready to test or edit in PowerShell ISE)  
