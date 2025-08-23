@@ -14,19 +14,17 @@ param
 (
 	[parameter(Mandatory = $true)]
 	[string]$appRegName,
-	[string]$customername
+	[string]$customername,
+	[string]$customPrivacyURL
 )
 #Requires -RunAsAdministrator
-Import-Module -Name IntuneWin32App -RequiredVersion 1.4.4 -Force
-Import-Module -Name Microsoft.Graph.Authentication -RequiredVersion 2.18.0 -Force
-Import-Module -Name Microsoft.Graph.Applications -RequiredVersion 2.18.0 -Force
-Import-Module -Name Microsoft.Graph.Identity.SignIns -RequiredVersion 2.18.0 -Force
 
 $customerloc = "C:\Users\$env:username\.IntunePrepTool\$customername.csv"
 
 
 class config_tenantinfo {
 	[string]$customername
+	[string]$customPrivacyURL
 	[string]$appRegName
 	[string]$tenantID
 	[string]$appId
@@ -80,7 +78,8 @@ $username = $appInfo.AppId
 $password = $clientSecret.SecretText
 $config_tenantinfo = $null;
 $config_tenantinfo += @([config_tenantinfo]@{
-		customername    = $customername
+		customername = $customername
+		customPrivacyURL = $customPrivacyURL
 		appRegName	    = $appRegName
 		tenantID	    = $tenantID
 		appID		    = $appId

@@ -1,0 +1,584 @@
+﻿<File version="3.2">
+  <FileID>c7c9aa09-5a53-48b0-948f-a7366079e785</FileID>
+  <Preview>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
+ogAAAGBDFAAAAGyIAgAAgA1RAAAAsCEKAAAANkQBAADAhigAAADYEAUAAAAbogAAAGBDFAAAAGyI
+AgAAgA1RAAAAsCEKAAAANkQBAADAhigAAADYEAUAAAAbogAAAGBDFAAAAGyIAgAAgA1RAAAAsCEK
+AAAANkQBAADAhigAAADYEAUAAAAbogAAAGBDFAAAAGyIAgAAgA1RAAAAsCEKAAAANkQBAADAhigA
+AADYEAUAAAAbogAAAGBDFAAAAGyIAgAAgA1RAAAAsCEKAAAANkQBAADAhigAAADYEAUAAAAbogAA
+AGBDFAAAAGyIAgAAgA1RAAAAsCEKAAAANkQBAADAhigAAADYEAUAAAAbogAAAGBDFAAAAGyIAgAA
+gA1RAAAAsCEKAAAANkQBAADAhigAAADYEAUAAAAbogAAAGBDFAAAAGyIAgAAgA1RAAAAsCEKAAAA
+NkQBAADAhigAAADYEAUAAAAbogAAAGBDFAAAAGyIAgAAgA1RAAAAsCEKAAAANkQBAADAhigAAADY
+EAUAAAAbogAAAGBDFAAAAGyIAgAAgA1RAAAAsCEKAAAANkQBAADAhigAAADYEAUAAAAbogAAAGBD
+FAAAAGyIAgAAgA1RAAAAsCEKAAAANkQBAADAhigAAADYEAUAAAAbogAAAGBDFAAAAGyIAgAAgA1R
+AAAAsCEKAAAANkQBAADAhigAAADYEAUAAAAbogAAAGBDFAAAAGyIAgAAgA1RAAAAsCEKAAAANkQB
+AADAhigAAADYEAUAAAAbogAAAGBDFAAAAGyIAgAAgA1RAAAAsCEKAAAANkQBAADAhigAAADYEAUA
+AAAbogAAAGBDFAAAAGyIAgAAgA1RAAAAsCEKAAAANkQBAADAhigAAADYEAUAAAAbogAAAGBDFAAA
+AGyIAgAAgA1RAAAAsCEKAAAANkQBAADAhigAAADYEAUAAAAbogAAAGBDFAAAAGyIAgAAgA1RAAAA
+sCEKAAAANkQBAADAhigAAADYEAUAAAAbogAAAGBDFAAAAGyIAgAAgA1RAAAAsCEKAAAANkQBAADA
+higAAADYEAUAAAAbogAAAGBDFAAAAGyIAgAAgA1RAAAAsCEKAAAANkQBAADAhigAAADYEAUAAAAb
+ogAAAGBDFAAAAGyIAgAAgA1RAAAAsCEKAAAANkQBAADAhigAAADYEAUAAAAbogAAAGBDFAAAAGyI
+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
+AABwx/3/IHwqlVMjRjgAAAAASUVORK5CYII=</Preview>
+  <Form>tKKy1y5keAcAACODCAAAAAAABAC1lG9v2jAQxt9P2new/DoCUv4UJIg0YJWqtRtasu4lcpxb62F8yHY6qPbh
+d0mGhka2hBdVJCuW77l7fP7Z00/pd5DeRW/fMDatJswfdjDj8cF52Ha+KpPhD9e5QbutxoDVLQXs
+AaxTaGaDTq/4ArbItc8tzAzk3godsFWeaiU/wCHBDZhZen0thnI4Cif9AfTGE86M2FLld1m2BCet
+2nnK942yh5zJJ6UzSyq+QOMtasdL02R7ZXEH1h+O8txjLIWGpdqCKSxR6ChgYX/aPYY2Se8xAx7d
+UKVGzUIrMD5WLyQY9AdUZzxpFBUtm6PNwMb+oItSag9ZgqirpjYm+Egjj2o61aiMvbB+hU4VEh4t
+yDy5kBbANGoT2Hse3RqfG1hZ2BWG2U9GNlj2x8d5mvfPVOV3jjsUWa3zdbEy7ZaxR2EzkfPcezSv
+zqR7Qutl7tdLNLBOy6L/pfK8eUslND5+BkcWqO/CSNBnraqRodzwaI5Ucdsi/A6lqE6WdhuOrlpI
+7oV9VCQgdvsBK8YWogrA2ra0UJ9cl6vrFvGJSG9NBnseheM24SWnsXgG1mWFtRaaLw4elMuFLm/k
+XMjNAjVaHiU2r9WfQk2PQHFKte1Yl4t/gd2tyG7PebGlOe5fHXRPdVLcX8p2CWmCu0sJ7bXhk7ai
+tDLw77OohfO4lct4DEdtPJ0AOTx/705P92Ry/HXRLxfP7Yx4BwAA</Form>
+  <Code><![CDATA[
+$AddDescriptionform1_Load={
+	#TODO: Initialize Form Controls here
+	Set-ControlTheme $AddDescriptionform1 -Theme Dark
+}
+
+$darkToolStripMenuItem_Click={
+	#TODO: Place custom script here
+	Set-ControlTheme -Control $AddDescriptionform1 -Theme Dark
+}
+
+$lightToolStripMenuItem_Click={
+	Set-ControlTheme -Control $AddDescriptionform1 -Theme Light
+}
+
+#region Control Theme Helper Function
+<#
+	.SYNOPSIS
+		Applies a theme to the control and its children.
+	
+	.PARAMETER Control
+		The control to theme. Usually the form itself.
+	
+	.PARAMETER Theme
+		The color theme:
+		Light
+		Dark
+
+	.PARAMETER CustomColor
+		A hashtable that contains the color values.
+		Keys:
+		WindowColor
+		ContainerColor
+		BackColor
+		ForeColor
+		BorderColor
+		SelectionForeColor
+		SelectionBackColor
+		MenuSelectionColor
+	.EXAMPLE
+		PS C:\> Set-ControlTheme -Control $form1 -Theme Dark
+	
+	.EXAMPLE
+		PS C:\> Set-ControlTheme -Control $form1 -CustomColor @{ WindowColor = 'White'; ContainerBackColor = 'Gray'; BackColor... }
+	.NOTES
+		Created by SAPIEN Technologies, Inc.
+#>
+function Set-ControlTheme
+{
+	[CmdletBinding()]
+	param
+	(
+		[Parameter(Mandatory = $true)]
+		[ValidateNotNull()]
+		[System.ComponentModel.Component]$Control,
+		[ValidateSet('Light', 'Dark')]
+		[string]$Theme = 'Dark',
+		[System.Collections.Hashtable]$CustomColor
+	)
+	
+	$Font = [System.Drawing.Font]::New('Segoe UI', 9)
+	
+	#Initialize the colors
+	if ($Theme -eq 'Dark')
+	{
+		$WindowColor = [System.Drawing.Color]::FromArgb(32, 32, 32)
+		$ContainerColor = [System.Drawing.Color]::FromArgb(45, 45, 45)
+		$BackColor = [System.Drawing.Color]::FromArgb(32, 32, 32)
+		$ForeColor = [System.Drawing.Color]::White
+		$BorderColor = [System.Drawing.Color]::DimGray
+		$SelectionBackColor = [System.Drawing.SystemColors]::Highlight
+		$SelectionForeColor = [System.Drawing.Color]::White
+		$MenuSelectionColor = [System.Drawing.Color]::DimGray
+	}
+	else
+	{
+		$WindowColor = [System.Drawing.Color]::White
+		$ContainerColor = [System.Drawing.Color]::WhiteSmoke
+		$BackColor = [System.Drawing.Color]::Gainsboro
+		$ForeColor = [System.Drawing.Color]::Black
+		$BorderColor = [System.Drawing.Color]::DimGray
+		$SelectionBackColor = [System.Drawing.SystemColors]::Highlight
+		$SelectionForeColor = [System.Drawing.Color]::White
+		$MenuSelectionColor = [System.Drawing.Color]::LightSteelBlue
+	}
+	
+	if ($CustomColor)
+	{
+		#Check and Validate the custom colors:
+		$Color = $CustomColor.WindowColor -as [System.Drawing.Color]
+		if ($Color) { $WindowColor = $Color }
+		$Color = $CustomColor.ContainerColor -as [System.Drawing.Color]
+		if ($Color) { $ContainerColor = $Color }
+		$Color = $CustomColor.BackColor -as [System.Drawing.Color]
+		if ($Color) { $BackColor = $Color }
+		$Color = $CustomColor.ForeColor -as [System.Drawing.Color]
+		if ($Color) { $ForeColor = $Color }
+		$Color = $CustomColor.BorderColor -as [System.Drawing.Color]
+		if ($Color) { $BorderColor = $Color }
+		$Color = $CustomColor.SelectionBackColor -as [System.Drawing.Color]
+		if ($Color) { $SelectionBackColor = $Color }
+		$Color = $CustomColor.SelectionForeColor -as [System.Drawing.Color]
+		if ($Color) { $SelectionForeColor = $Color }
+		$Color = $CustomColor.MenuSelectionColor -as [System.Drawing.Color]
+		if ($Color) { $MenuSelectionColor = $Color }
+	}
+	
+	#Define the custom renderer for the menus
+	#region Add-Type definition
+	try
+	{
+		[SAPIENTypes.SAPIENColorTable] | Out-Null
+	}
+	catch
+	{
+		if ($PSVersionTable.PSVersion.Major -ge 7)
+		{
+			$Assemblies = 'System.Windows.Forms', 'System.Drawing', 'System.Drawing.Primitives'
+		}
+		else
+		{
+			$Assemblies = 'System.Windows.Forms', 'System.Drawing'
+		}
+		Add-Type -ReferencedAssemblies $Assemblies -TypeDefinition "
+using System;
+using System.Windows.Forms;
+using System.Drawing;
+namespace SAPIENTypes
+{
+    public class SAPIENColorTable : ProfessionalColorTable
+    {
+        Color ContainerBackColor;
+        Color BackColor;
+        Color BorderColor;
+		Color SelectBackColor;
+
+        public SAPIENColorTable(Color containerColor, Color backColor, Color borderColor, Color selectBackColor)
+        {
+            ContainerBackColor = containerColor;
+            BackColor = backColor;
+            BorderColor = borderColor;
+			SelectBackColor = selectBackColor;
+        } 
+		public override Color MenuStripGradientBegin { get { return ContainerBackColor; } }
+        public override Color MenuStripGradientEnd { get { return ContainerBackColor; } }
+        public override Color ToolStripBorder { get { return BorderColor; } }
+        public override Color MenuItemBorder { get { return SelectBackColor; } }
+        public override Color MenuItemSelected { get { return SelectBackColor; } }
+        public override Color SeparatorDark { get { return BorderColor; } }
+        public override Color ToolStripDropDownBackground { get { return BackColor; } }
+        public override Color MenuBorder { get { return BorderColor; } }
+        public override Color MenuItemSelectedGradientBegin { get { return SelectBackColor; } }
+        public override Color MenuItemSelectedGradientEnd { get { return SelectBackColor; } }      
+        public override Color MenuItemPressedGradientBegin { get { return ContainerBackColor; } }
+        public override Color MenuItemPressedGradientEnd { get { return ContainerBackColor; } }
+        public override Color MenuItemPressedGradientMiddle { get { return ContainerBackColor; } }
+        public override Color ImageMarginGradientBegin { get { return BackColor; } }
+        public override Color ImageMarginGradientEnd { get { return BackColor; } }
+        public override Color ImageMarginGradientMiddle { get { return BackColor; } }
+    }
+}"
+	}
+	#endregion
+	
+	$colorTable = New-Object SAPIENTypes.SAPIENColorTable -ArgumentList $ContainerColor, $BackColor, $BorderColor, $MenuSelectionColor
+	$render = New-Object System.Windows.Forms.ToolStripProfessionalRenderer -ArgumentList $colorTable
+	[System.Windows.Forms.ToolStripManager]::Renderer = $render
+	
+	#Set up our processing queue
+	$Queue = New-Object System.Collections.Generic.Queue[System.ComponentModel.Component]
+	$Queue.Enqueue($Control)
+	
+	Add-Type -AssemblyName System.Core
+	
+	#Only process the controls once.
+	$Processed = New-Object System.Collections.Generic.HashSet[System.ComponentModel.Component]
+	
+	#Apply the colors to the controls
+	while ($Queue.Count -gt 0)
+	{
+		$target = $Queue.Dequeue()
+		
+		#Skip controls we already processed
+		if ($Processed.Contains($target)) { continue }
+		$Processed.Add($target)
+		
+		#Set the text color
+		$target.ForeColor = $ForeColor
+		
+		#region Handle Controls
+		if ($target -is [System.Windows.Forms.Form])
+		{
+			#Set Font
+			$target.Font = $Font
+			$target.BackColor = $ContainerColor
+		}
+		elseif ($target -is [System.Windows.Forms.SplitContainer])
+		{
+			$target.BackColor = $BorderColor
+		}
+		elseif ($target -is [System.Windows.Forms.PropertyGrid])
+		{
+			$target.BackColor = $BorderColor
+			$target.ViewBackColor = $BackColor
+			$target.ViewForeColor = $ForeColor
+			$target.ViewBorderColor = $BorderColor
+			$target.CategoryForeColor = $ForeColor
+			$target.CategorySplitterColor = $ContainerColor
+			$target.HelpBackColor = $BackColor
+			$target.HelpForeColor = $ForeColor
+			$target.HelpBorderColor = $BorderColor
+			$target.CommandsBackColor = $BackColor
+			$target.CommandsBorderColor = $BorderColor
+			$target.CommandsForeColor = $ForeColor
+			$target.LineColor = $ContainerColor
+		}
+		elseif ($target -is [System.Windows.Forms.ContainerControl] -or
+			$target -is [System.Windows.Forms.Panel])
+		{
+			#Set the BackColor for the container
+			$target.BackColor = $ContainerColor
+			
+		}
+		elseif ($target -is [System.Windows.Forms.GroupBox])
+		{
+			$target.FlatStyle = 'Flat'
+		}
+		elseif ($target -is [System.Windows.Forms.Button])
+		{
+			$target.FlatStyle = 'Flat'
+			$target.FlatAppearance.BorderColor = $BorderColor
+			$target.BackColor = $BackColor
+		}
+		elseif ($target -is [System.Windows.Forms.CheckBox] -or
+			$target -is [System.Windows.Forms.RadioButton] -or
+			$target -is [System.Windows.Forms.Label])
+		{
+			#$target.FlatStyle = 'Flat'
+		}
+		elseif ($target -is [System.Windows.Forms.ComboBox])
+		{
+			$target.BackColor = $BackColor
+			$target.FlatStyle = 'Flat'
+		}
+		elseif ($target -is [System.Windows.Forms.TextBox])
+		{
+			$target.BorderStyle = 'FixedSingle'
+			$target.BackColor = $BackColor
+		}
+		elseif ($target -is [System.Windows.Forms.DataGridView])
+		{
+			$target.GridColor = $BorderColor
+			$target.BackgroundColor = $ContainerColor
+			$target.DefaultCellStyle.BackColor = $WindowColor
+			$target.DefaultCellStyle.SelectionBackColor = $SelectionBackColor
+			$target.DefaultCellStyle.SelectionForeColor = $SelectionForeColor
+			$target.ColumnHeadersDefaultCellStyle.BackColor = $ContainerColor
+			$target.ColumnHeadersDefaultCellStyle.ForeColor = $ForeColor
+			$target.EnableHeadersVisualStyles = $false
+			$target.ColumnHeadersBorderStyle = 'Single'
+			$target.RowHeadersBorderStyle = 'Single'
+			$target.RowHeadersDefaultCellStyle.BackColor = $ContainerColor
+			$target.RowHeadersDefaultCellStyle.ForeColor = $ForeColor
+			
+		}
+		elseif ($PSVersionTable.PSVersion.Major -le 5 -and $target -is [System.Windows.Forms.DataGrid])
+		{
+			$target.CaptionBackColor = $WindowColor
+			$target.CaptionForeColor = $ForeColor
+			$target.BackgroundColor = $ContainerColor
+			$target.BackColor = $WindowColor
+			$target.ForeColor = $ForeColor
+			$target.HeaderBackColor = $ContainerColor
+			$target.HeaderForeColor = $ForeColor
+			$target.FlatMode = $true
+			$target.BorderStyle = 'FixedSingle'
+			$target.GridLineColor = $BorderColor
+			$target.AlternatingBackColor = $ContainerColor
+			$target.SelectionBackColor = $SelectionBackColor
+			$target.SelectionForeColor = $SelectionForeColor
+		}
+		elseif ($target -is [System.Windows.Forms.ToolStrip])
+		{
+			
+			$target.BackColor = $BackColor
+			$target.Renderer = $render
+			
+			foreach ($item in $target.Items)
+			{
+				$Queue.Enqueue($item)
+			}
+		}
+		elseif ($target -is [System.Windows.Forms.ToolStripMenuItem] -or
+			$target -is [System.Windows.Forms.ToolStripDropDown] -or
+			$target -is [System.Windows.Forms.ToolStripDropDownItem])
+		{
+			$target.BackColor = $BackColor
+			foreach ($item in $target.DropDownItems)
+			{
+				$Queue.Enqueue($item)
+			}
+		}
+		elseif ($target -is [System.Windows.Forms.ListBox] -or
+			$target -is [System.Windows.Forms.ListView] -or
+			$target -is [System.Windows.Forms.TreeView])
+		{
+			$target.BackColor = $WindowColor
+		}
+		else
+		{
+			$target.BackColor = $BackColor
+		}
+		#endregion
+		
+		if ($target -is [System.Windows.Forms.Control])
+		{
+			#Queue all the child controls
+			foreach ($child in $target.Controls)
+			{
+				$Queue.Enqueue($child)
+			}
+			if ($target.ContextMenuStrip)
+			{
+				$Queue.Enqueue($target.ContextMenuStrip);
+			}
+		}
+	}
+}
+#endregion
+
+
+
+
+$shortcut_Done_button1_Click={
+	#TODO: Place custom script here
+	$config_packagefolder = Get-Variable -Name 'config_packagefolder' -ValueOnly -Scope Script
+	$config_logfoldertarget = Get-Variable -Name 'config_logfoldertarget' -ValueOnly -Scope Script
+	$config_customername = Get-Variable -Name 'config_customername' -ValueOnly -Scope Script
+	$ActivePackageName = Get-Variable -Name ActivePackageName -ValueOnly
+	$ActivePackageVersion = Get-Variable -Name ActivePackageVersion -ValueOnly
+	$textbox1.text | out-file "$config_packagefolder\$ActivePackageName\$ActivePackageVersion\output\Description.txt" -force
+}
+]]></Code>
+  <TV>0</TV>
+  <Mode>1</Mode>
+  <Assemblies />
+</File>

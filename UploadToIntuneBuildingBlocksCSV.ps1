@@ -66,6 +66,7 @@ foreach ($load in $load_import_csv)
 			$tenantID = $cust.tenantID
 			$AppId = $cust.appId
 			$Secret = $cust.clientsecret
+			$customPrivacyURL = $cust.customPrivacyURL
 			
 		}
 	}
@@ -93,6 +94,15 @@ foreach ($block in $blocks)
 		$itwnf = $ConfigCSVImport.IntuneWinFile
 		$filepath = $sysConfig.TrimEnd("config.csv")
 		$itwnffilepath = $filepath + $itwnf
+		$descriptionpath = $filepath + 'Description.txt'
+		if (Test-Path $descriptionpath)
+		{
+			$description = Get-Content $descriptionpath
+		}
+		else
+		{
+			$description = "The package has been uploaded using the IntunePrepTool."
+		}
 		$regKeyApp = $ConfigCSVImport.regLocation
 		$versie = $ConfigCSVImport.AppVersion
 		$regvalue = $ConfigCSVImport.RegValue
@@ -137,11 +147,26 @@ foreach ($block in $blocks)
 		write-host "We will upload to Intune now" -ForegroundColor Green; Write-host "`r`n"; Write-host "`r`n";
 		if ($logoaanwezig -eq $null)
 		{
-			$Win32App = Add-IntuneWin32App -FilePath $itwnffilepath -DisplayName $dnam -Description "Upload package by IntunePrepTool" -Publisher $publ -AppVersion $versie -InstallExperience $context -RestartBehavior "suppress" -DetectionRule $DetectionRule -InstallCommandLine $icmd -UninstallCommandLine $ucmd -RequirementRule $RequirementRule
+			if ($customPrivacyURL -ne $null)
+			{
+				$Win32App = Add-IntuneWin32App -FilePath $itwnffilepath -DisplayName $dnam -Description $description -Publisher $publ -AppVersion $versie -InstallExperience $context -RestartBehavior "suppress" -DetectionRule $DetectionRule -InstallCommandLine $icmd -UninstallCommandLine $ucmd -RequirementRule $RequirementRule -PrivacyURL $customPrivacyURL
+				
+			}
+			else
+			{
+				$Win32App = Add-IntuneWin32App -FilePath $itwnffilepath -DisplayName $dnam -Description $description -Publisher $publ -AppVersion $versie -InstallExperience $context -RestartBehavior "suppress" -DetectionRule $DetectionRule -InstallCommandLine $icmd -UninstallCommandLine $ucmd -RequirementRule $RequirementRule
+			}
 		}
 		else
 		{
-			$Win32App = Add-IntuneWin32App -FilePath $itwnffilepath -DisplayName $dnam -Description "Upload package by IntunePrepTool" -Publisher $publ -AppVersion $versie -Icon $Icon -InstallExperience $context -RestartBehavior "suppress" -DetectionRule $DetectionRule -InstallCommandLine $icmd -UninstallCommandLine $ucmd -RequirementRule $RequirementRule
+			if ($customPrivacyURL -ne $null)
+			{
+				$Win32App = Add-IntuneWin32App -FilePath $itwnffilepath -DisplayName $dnam -Description $description -Publisher $publ -AppVersion $versie -Icon $Icon -InstallExperience $context -RestartBehavior "suppress" -DetectionRule $DetectionRule -InstallCommandLine $icmd -UninstallCommandLine $ucmd -RequirementRule $RequirementRule -PrivacyURL $customPrivacyURL
+			}
+			else
+			{
+				$Win32App = Add-IntuneWin32App -FilePath $itwnffilepath -DisplayName $dnam -Description $description -Publisher $publ -AppVersion $versie -Icon $Icon -InstallExperience $context -RestartBehavior "suppress" -DetectionRule $DetectionRule -InstallCommandLine $icmd -UninstallCommandLine $ucmd -RequirementRule $RequirementRule
+			}
 		}
 		if ($context -like 'system')
 		{
@@ -192,7 +217,7 @@ foreach ($block in $blocks)
 				{
 					$Win32App = Add-IntuneWin32App -FilePath $itwnffilepath `
 												   -DisplayName $dnam `
-												   -Description "Upload package by IntunePrepTool" `
+												   -Description $description `
 												   -Publisher $publ `
 												   -AppVersion $versie `
 												   -InstallExperience $context `
@@ -206,7 +231,7 @@ foreach ($block in $blocks)
 				{
 					$Win32App = Add-IntuneWin32App -FilePath $itwnffilepath `
 												   -DisplayName $dnam `
-												   -Description "Upload package by IntunePrepTool" `
+												   -Description $description `
 												   -Publisher $publ `
 												   -AppVersion $versie `
 												   -Icon $Icon `
@@ -336,6 +361,15 @@ foreach ($block in $blocks)
 		$itwnf = $ConfigCSVImport.IntuneWinFile
 		$filepath = $sysConfig.TrimEnd("config.csv")
 		$itwnffilepath = $filepath + $itwnf
+		$descriptionpath = $filepath + 'Description.txt'
+		if (Test-Path $descriptionpath)
+		{
+			$description = Get-Content $descriptionpath
+		}
+		else
+		{
+			$description = "The package has been uploaded using the IntunePrepTool."
+		}
 		$regKeyApp = $ConfigCSVImport.regLocation
 		$versie = $ConfigCSVImport.AppVersion
 		$regvalue = $ConfigCSVImport.RegValue
@@ -380,11 +414,25 @@ foreach ($block in $blocks)
 		write-host "We will upload to Intune now" -ForegroundColor Green; Write-host "`r`n"; Write-host "`r`n";
 		if ($logoaanwezig -eq $null)
 		{
-			$Win32App = Add-IntuneWin32App -FilePath $itwnffilepath -DisplayName $dnam -Description "Upload package by IntunePrepTool" -Publisher $publ -AppVersion $versie -InstallExperience $context -RestartBehavior "suppress" -DetectionRule $DetectionRule -InstallCommandLine $icmd -UninstallCommandLine $ucmd -RequirementRule $RequirementRule
+			if ($customPrivacyURL -ne $null)
+			{
+				$Win32App = Add-IntuneWin32App -FilePath $itwnffilepath -DisplayName $dnam -Description $description -Publisher $publ -AppVersion $versie -InstallExperience $context -RestartBehavior "suppress" -DetectionRule $DetectionRule -InstallCommandLine $icmd -UninstallCommandLine $ucmd -RequirementRule $RequirementRule -PrivacyURL $customPrivacyURL
+			}
+			else
+			{
+				$Win32App = Add-IntuneWin32App -FilePath $itwnffilepath -DisplayName $dnam -Description $description -Publisher $publ -AppVersion $versie -InstallExperience $context -RestartBehavior "suppress" -DetectionRule $DetectionRule -InstallCommandLine $icmd -UninstallCommandLine $ucmd -RequirementRule $RequirementRule
+			}
 		}
 		else
 		{
-			$Win32App = Add-IntuneWin32App -FilePath $itwnffilepath -DisplayName $dnam -Description "Upload package by IntunePrepTool" -Publisher $publ -AppVersion $versie -Icon $Icon -InstallExperience $context -RestartBehavior "suppress" -DetectionRule $DetectionRule -InstallCommandLine $icmd -UninstallCommandLine $ucmd -RequirementRule $RequirementRule
+			if ($customPrivacyURL -ne $null)
+			{
+				$Win32App = Add-IntuneWin32App -FilePath $itwnffilepath -DisplayName $dnam -Description $description -Publisher $publ -AppVersion $versie -Icon $Icon -InstallExperience $context -RestartBehavior "suppress" -DetectionRule $DetectionRule -InstallCommandLine $icmd -UninstallCommandLine $ucmd -RequirementRule $RequirementRule -PrivacyURL $customPrivacyURL
+			}
+			else
+			{
+				$Win32App = Add-IntuneWin32App -FilePath $itwnffilepath -DisplayName $dnam -Description $description -Publisher $publ -AppVersion $versie -Icon $Icon -InstallExperience $context -RestartBehavior "suppress" -DetectionRule $DetectionRule -InstallCommandLine $icmd -UninstallCommandLine $ucmd -RequirementRule $RequirementRule
+			}
 		}
 		if ($context -like 'system')
 		{
@@ -451,6 +499,15 @@ foreach ($block in $blocks)
 		$itwnf = $ConfigCSVImport.IntuneWinFile
 		$filepath = $userConfig.TrimEnd("config.csv")
 		$itwnffilepath = $filepath + $itwnf
+		$descriptionpath = $filepath + 'Description.txt'
+		if (Test-Path $descriptionpath)
+		{
+			$description = Get-Content $descriptionpath
+		}
+		else
+		{
+			$description = "The package has been uploaded using the IntunePrepTool."
+		}
 		$regKeyApp = $ConfigCSVImport.regLocation
 		$versie = $ConfigCSVImport.AppVersion
 		$regvalue = $ConfigCSVImport.RegValue
@@ -495,11 +552,25 @@ foreach ($block in $blocks)
 		write-host "We will upload to Intune now" -ForegroundColor Green; Write-host "`r`n"; Write-host "`r`n";
 		if ($logoaanwezig -eq $null)
 		{
-			$Win32App = Add-IntuneWin32App -FilePath $itwnffilepath -DisplayName $dnam -Description "Upload package by IntunePrepTool" -Publisher $publ -AppVersion $versie -InstallExperience $context -RestartBehavior "suppress" -DetectionRule $DetectionRule -InstallCommandLine $icmd -UninstallCommandLine $ucmd -RequirementRule $RequirementRule
+			if ($customPrivacyURL -ne $null)
+			{
+				$Win32App = Add-IntuneWin32App -FilePath $itwnffilepath -DisplayName $dnam -Description $description -Publisher $publ -AppVersion $versie -InstallExperience $context -RestartBehavior "suppress" -DetectionRule $DetectionRule -InstallCommandLine $icmd -UninstallCommandLine $ucmd -RequirementRule $RequirementRule -PrivacyURL $customPrivacyURL
+			}
+			else
+			{
+				$Win32App = Add-IntuneWin32App -FilePath $itwnffilepath -DisplayName $dnam -Description $description -Publisher $publ -AppVersion $versie -InstallExperience $context -RestartBehavior "suppress" -DetectionRule $DetectionRule -InstallCommandLine $icmd -UninstallCommandLine $ucmd -RequirementRule $RequirementRule
+			}
 		}
 		else
 		{
-			$Win32App = Add-IntuneWin32App -FilePath $itwnffilepath -DisplayName $dnam -Description "Upload package by IntunePrepTool" -Publisher $publ -AppVersion $versie -Icon $Icon -InstallExperience $context -RestartBehavior "suppress" -DetectionRule $DetectionRule -InstallCommandLine $icmd -UninstallCommandLine $ucmd -RequirementRule $RequirementRule
+			if ($customPrivacyURL -ne $null)
+			{
+				$Win32App = Add-IntuneWin32App -FilePath $itwnffilepath -DisplayName $dnam -Description $description -Publisher $publ -AppVersion $versie -Icon $Icon -InstallExperience $context -RestartBehavior "suppress" -DetectionRule $DetectionRule -InstallCommandLine $icmd -UninstallCommandLine $ucmd -RequirementRule $RequirementRule -PrivacyURL $customPrivacyURL
+			}
+			else
+			{
+				$Win32App = Add-IntuneWin32App -FilePath $itwnffilepath -DisplayName $dnam -Description $description -Publisher $publ -AppVersion $versie -Icon $Icon -InstallExperience $context -RestartBehavior "suppress" -DetectionRule $DetectionRule -InstallCommandLine $icmd -UninstallCommandLine $ucmd -RequirementRule $RequirementRule
+			}
 		}
 		if ($context -like 'system')
 		{

@@ -12,5 +12,6 @@
     <File Build="0" ReferenceFunction="Show-BuildingBlocksRegistry_psf">BuildingBlocksRegistry.psf</File>
     <File Build="0" ReferenceFunction="Show-BuildingBlocksFilesAndFolders_psf">BuildingBlocksFilesAndFolders.psf</File>
     <File Build="0" ReferenceFunction="Show-BuildingBlocksShortcut_psf">BuildingBlocksShortcut.psf</File>
+    <File Build="0" ReferenceFunction="Show-AddDescription_psf">AddDescription.psf</File>
   </Files>
 </Project>
