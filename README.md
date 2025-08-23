@@ -1,7 +1,9 @@
 Update: 23 August 2025
-The Winget version is not yet up to date
-Created by Rink Turksma with Sapien Powershell Studio.  
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/rink-turksma/IntunePrepTool/total)
+
+The Winget version is not yet up to date
+
+Created by Rink Turksma with Sapien Powershell Studio.  
 
 See latest How-to setup here:
 https://intunepreptool.com/how-to/basic-setup/
@@ -34,7 +36,7 @@ Please use Issues in Github or email for assistence: rinkob@gmail.com
 - After you select create Intunewin. You will get the option to select a PNG file.
 - Then you can use the option for uploading directly to your Intune tenant(s) (Uses IntuneWin32App powershell module from Nickolaj Andersen - https://github.com/MSEndpointMgr/IntuneWin32App) 
 
-#Below is outdated: Please go to [https://intunepreptool.com](url) for latest instructions:
+###Below is outdated: Please go to [https://intunepreptool.com](url) for latest instructions:
 
 ### How to install:  
 
