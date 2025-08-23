@@ -43,7 +43,7 @@ Built for **efficiency, transparency, and automation**, IntunePrepTool helps IT 
 - [How to: Basic Setup](https://intunepreptool.com/how-to/basic-setup/)  
 - [How to: Building Blocks](https://intunepreptool.com/how-to/building-blocks/)  
 - [Latest Release Notes](https://intunepreptool.com/updates/intunepreptool-release-notes-1-6-8-0/)  
-- [All Releases (MSI)](https://github.com/rink-turksma/IntunePrepTool/releases)  
+
 
 For questions or issues, please:  
 - Use the **[GitHub Issues](https://github.com/rink-turksma/IntunePrepTool/issues)** tab, or  
