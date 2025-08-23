@@ -18,7 +18,9 @@ Created by **Rink Turksma** using *SAPIEN PowerShell Studio*.
 
 It allows administrators to package:  
 - **EXE, MSI, MSIX, Winget, Chocolatey, PowerShell, Scheduled Tasks, and Web Links**  
-into Intunewin files, complete with detection methods and upload functionality.  
+into Intunewin files, complete with detection methods and upload functionality.
+
+And configure Registry (HKCU/HKLM), create shortcuts, or perform file/folder actions.
 
 Designed for **efficiency, transparency, and automation**, IntunePrepTool helps IT admins save time and reduce errors during app deployment.  
 
