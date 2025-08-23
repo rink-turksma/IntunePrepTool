@@ -28,7 +28,7 @@ Designed for **efficiency, transparency, and automation**, IntunePrepTool helps 
 
 - Configure sources: **EXE, MSI, MSIX, Winget, Chocolatey, PowerShell, Scheduled Tasks**  
 - Package into **Intunewin** files and upload directly to Intune  
-  *(Upload functions uses the [IntuneWin32App PowerShell module](https://github.com/MSEndpointMgr/IntuneWin32App) by Nickolaj Andersen)*  
+  *(Uses the [IntuneWin32App PowerShell module](https://github.com/MSEndpointMgr/IntuneWin32App) by Nickolaj Andersen)*  
 - Use **Azure OpenAI GPT-4** to suggest install parameters for EXE packaging  
 - Download installers directly from **Winget**  
 - Auto-generate `install.ps1` and `uninstall.ps1` (ready to test or edit in PowerShell ISE)  
@@ -50,9 +50,10 @@ For questions or issues, please:
 
 ---
 
-## 🎥 Example (YouTube)  
+## 🎥 Instructions (YouTube)  
 
-*(Updated February 2025)*  
+Follow the [Basic Setup guide](https://intunepreptool.com/how-to/basic-setup/) first,  
+then watch from **7 minutes** in this YouTube video *(Updated February 2025)*:  
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=607YYwTvL3I" target="_blank">
   <img src="http://img.youtube.com/vi/607YYwTvL3I/maxresdefault.jpg" alt="IntunePrepTool YouTube" width="240" height="180" border="10" />
@@ -60,16 +61,27 @@ For questions or issues, please:
 
 ---
 
-## 🖼️ Screenshot  
+## 🎥 Examples on YouTube  
 
-![image](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/1505d2f6-f5c4-4870-9c35-13edc2275745)  
+### Building Blocks Demo (Updated February 2025)  
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=KJxLT2Gl8HM" target="_blank">
+  <img src="http://img.youtube.com/vi/KJxLT2Gl8HM/maxresdefault.jpg" alt="IntunePrepTool YouTube" width="240" height="180" border="10" />
+</a>  
 
 ---
 
-## ⚠️ Outdated Information  
+## 🖼️ Screenshot  
+
+![IntunePrepTool Screenshot](https://github.com/rink-turksma/IntunePrepTool/assets/127322820/1505d2f6-f5c4-4870-9c35-13edc2275745)  
+
+---
+
+## ⚠️ Outdated Information below
 
 For the **latest instructions**, please visit:  
 👉 [https://intunepreptool.com](https://intunepreptool.com)  
+
 
 
 ### How to install:  
