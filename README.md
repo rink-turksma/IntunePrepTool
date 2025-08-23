@@ -1,4 +1,7 @@
 Update: 23 August 2025
+The Winget version is not yet up to date
+Created by Rink Turksma with Sapien Powershell Studio.  
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/rink-turksma/IntunePrepTool/total)
 
 See latest How-to setup here:
 https://intunepreptool.com/how-to/basic-setup/
@@ -9,19 +12,12 @@ https://intunepreptool.com/how-to/building-blocks/
 See Release notes latest release:
 https://intunepreptool.com/updates/intunepreptool-release-notes-1-6-8-0/
 
-The Winget version is not yet up to date
-
-Created by Rink Turksma with Sapien Powershell Studio.
-
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/rink-turksma/IntunePrepTool/total)
-
-For release notes and latest MSI installers see:
+For all releases (MSI):
 https://github.com/rink-turksma/IntunePrepTool/releases
 
 Please use Issues in Github or email for assistence: rinkob@gmail.com
 
 ### Simple example on Youtube (Update Februari 2025)
-
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=607YYwTvL3I" target="_blank"><img src="http://img.youtube.com/vi/607YYwTvL3I/maxresdefault.jpg" alt="IntunePrepTool Youtube" width="240" height="180" border="10" /></a>
 
@@ -30,7 +26,6 @@ Please use Issues in Github or email for assistence: rinkob@gmail.com
 
 - Easily configure sources such as EXE, MSI, MSIX, Winget, Chocolatey, PowerShell, Scheduled Tasks and weblinks to create installation and uninstallation files. Package them into Intunewin files and upload directly to Intune, with detection methods in place.
 - Use Azure OpenAI GPT-4 to look for install parameters when creating packages from EXE files.
-- Create winget update remediation policy.
 - Download option to download source files from Winget.
 - Automatically creates install.ps1 and uninstall.ps1, which you can test and edit in PowerShell ISE with one click.
 - All generated PowerShell scripts used in Intunewin files will write transcript logs to a specified location and also show an informational or error message in the Event Viewer under the IntunePrepTool (Application and Services) log.
@@ -39,8 +34,9 @@ Please use Issues in Github or email for assistence: rinkob@gmail.com
 - After you select create Intunewin. You will get the option to select a PNG file.
 - Then you can use the option for uploading directly to your Intune tenant(s) (Uses IntuneWin32App powershell module from Nickolaj Andersen - https://github.com/MSEndpointMgr/IntuneWin32App) 
 
+#Below is outdated: Please go to [https://intunepreptool.com](url) for latest instructions:
 
-### How to install: 
+### How to install:  
 
 Download latest MSI. (https://github.com/rink-turksma/IntunePrepTool/releases)
 
