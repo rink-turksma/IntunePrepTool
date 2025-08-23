@@ -1,10 +1,35 @@
+# IntunePrepTool
+
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/rink-turksma/IntunePrepTool/total)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/rink-turksma/IntunePrepTool)
+![GitHub issues](https://img.shields.io/github/issues/rink-turksma/IntunePrepTool)
 
-Update: 23 August 2025
+**Last update: 23 August 2025**  
 
-The Winget version is not yet up to date
+⚠️ The **Winget version** is not yet up to date.  
 
-Created by Rink Turksma with Sapien Powershell Studio.  
+Created by **Rink Turksma** with *SAPIEN PowerShell Studio*.
+
+---
+
+## 📖 Overview  
+
+**IntunePrepTool** simplifies the process of packaging and deploying applications to Microsoft Intune.  
+It enables administrators to package **EXE, MSI, MSIX, Winget, Chocolatey, PowerShell, Scheduled Tasks, and web links** into Intunewin files, complete with detection methods and upload functionality.  
+
+Designed for efficiency, transparency, and automation, IntunePrepTool helps IT admins save time and reduce errors during app deployment.
+
+---
+
+## 🚀 Features  
+
+- Configure sources: **EXE, MSI, MSIX, Winget, Chocolatey, PowerShell, Scheduled Tasks, Web Links**  
+- Package into **Intunewin** files and upload directly to Intune  
+- Use **Azure OpenAI GPT-4** to suggest install parameters for EXE packaging  
+- Download installers directly from **Winget**  
+- Auto-generate `install.ps1` and `uninstall.ps1` (ready to test/edit in PowerShell ISE)  
+- Transcript logs for every script, stored in:  
+
 
 See latest How-to setup here:
 https://intunepreptool.com/how-to/basic-setup/
@@ -37,7 +62,7 @@ Please use Issues in Github or email for assistence: rinkob@gmail.com
 - After you select create Intunewin. You will get the option to select a PNG file.
 - Then you can use the option for uploading directly to your Intune tenant(s) (Uses IntuneWin32App powershell module from Nickolaj Andersen - https://github.com/MSEndpointMgr/IntuneWin32App) 
 
-### Below is outdated: 
+### The information below is outdated: 
 Please go to https://intunepreptool.com for latest instructions:
 
 ### How to install:  
