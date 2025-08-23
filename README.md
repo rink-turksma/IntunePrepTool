@@ -63,7 +63,7 @@ then watch from **7 minutes** in this YouTube video *(Updated February 2025)*:
 
 ## 🎥 Examples on YouTube  
 
-### Building Blocks Demo (Updated February 2025)  
+### Building Blocks Demo
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=KJxLT2Gl8HM" target="_blank">
   <img src="http://img.youtube.com/vi/KJxLT2Gl8HM/maxresdefault.jpg" alt="IntunePrepTool YouTube" width="240" height="180" border="10" />
