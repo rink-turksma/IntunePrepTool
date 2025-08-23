@@ -38,7 +38,7 @@ Built for **efficiency, transparency, and automation**, IntunePrepTool helps IT 
 
 ---
 
-### Building Blocks Demo
+### Building Blocks Demo (YouTube)
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=KJxLT2Gl8HM" target="_blank">
   <img src="http://img.youtube.com/vi/KJxLT2Gl8HM/maxresdefault.jpg" alt="IntunePrepTool YouTube" width="240" height="180" border="10" />
