@@ -17,7 +17,7 @@ Created by **Rink Turksma** using *SAPIEN PowerShell Studio*.
 **IntunePrepTool** streamlines the packaging and deployment of applications to Microsoft Intune.  
 
 With IntunePrepTool, administrators can:  
-- Package **EXE, MSI, MSIX, Winget, Chocolatey, PowerShell scripts, Scheduled Tasks, and Web Links**  
+- Package **EXE, MSI, MSIX, Winget, Chocolatey, PowerShell scripts and Scheduled Tasks**  
   into Intunewin files, complete with detection methods and upload functionality.  
 - Easily configure **Registry keys (HKCU/HKLM)**, create **shortcuts**, and perform **file/folder actions** using the built-in Building Blocks feature.  
 
