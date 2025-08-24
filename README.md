@@ -48,7 +48,8 @@ Built for **efficiency, transparency, and automation**, IntunePrepTool helps IT 
 
 ## 📚 Documentation  
 
-- [How to: Basic Setup](https://intunepreptool.com/how-to/basic-setup/)  
+- [How to: Basic Setup](https://intunepreptool.com/how-to/basic-setup/)
+- [How to: Package MSI - Example with MST language file](https://intunepreptool.com/how-to/package-msi-example-foxit-reader-language-mst/)
 - [How to: Building Blocks](https://intunepreptool.com/how-to/building-blocks/)  
 - [Latest Release Notes](https://intunepreptool.com/updates/intunepreptool-release-notes-1-6-8-0/)  
 
