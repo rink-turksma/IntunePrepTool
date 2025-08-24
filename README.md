@@ -6,8 +6,6 @@
 
 **Last update: 23 August 2025**  
 
-⚠️ **Note:** The Winget version is not yet up to date.  
-
 Created by **Rink Turksma** using *SAPIEN PowerShell Studio*.  
 
 ---
