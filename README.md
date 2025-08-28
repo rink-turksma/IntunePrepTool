@@ -1,7 +1,6 @@
 # IntunePrepTool  
 
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/rink-turksma/IntunePrepTool/total)  
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/rink-turksma/IntunePrepTool)  
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/rink-turksma/IntunePrepTool/total)   
 ![GitHub issues](https://img.shields.io/github/issues/rink-turksma/IntunePrepTool)  
 
 **Last update: 23 August 2025**  
