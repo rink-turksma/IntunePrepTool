@@ -3,7 +3,7 @@
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/rink-turksma/IntunePrepTool/total)   
 ![GitHub issues](https://img.shields.io/github/issues/rink-turksma/IntunePrepTool)  
 
-**Last update: 23 August 2025**  
+**Last update: 29 August 2025**  
 
 Created by **Rink Turksma** using *SAPIEN PowerShell Studio*.  
 
