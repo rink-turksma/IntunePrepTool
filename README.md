@@ -3,7 +3,7 @@
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/rink-turksma/IntunePrepTool/total)   
 ![GitHub issues](https://img.shields.io/github/issues/rink-turksma/IntunePrepTool)  
 
-**Last update: 29 August 2025**  
+**Last update: 14 September 2025**  
 
 Created by **Rink Turksma** using *SAPIEN PowerShell Studio*.  
 
@@ -48,7 +48,7 @@ Built for **efficiency, transparency, and automation**, IntunePrepTool helps IT 
 - [How to: Basic Setup](https://intunepreptool.com/how-to/basic-setup/)
 - [How to: Package MSI - Example with MST language file](https://intunepreptool.com/how-to/package-msi-example-foxit-reader-language-mst/)
 - [How to: Building Blocks](https://intunepreptool.com/how-to/building-blocks/)  
-- [Latest Release Notes](https://intunepreptool.com/updates/intunepreptool-release-notes-1-6-8-0/)  
+- [Latest Release Notes](https://intunepreptool.com/updates/intunepreptool-1-7-0-0/))  
 
 
 For questions or issues, please:  
