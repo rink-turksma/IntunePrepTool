@@ -575,10 +575,19 @@ $shortcut_Done_button1_Click={
 	$config_customername = Get-Variable -Name 'config_customername' -ValueOnly -Scope Script
 	$ActivePackageName = Get-Variable -Name ActivePackageName -ValueOnly
 	$ActivePackageVersion = Get-Variable -Name ActivePackageVersion -ValueOnly
-	$textbox1.text | out-file "$config_packagefolder\$ActivePackageName\$ActivePackageVersion\output\Description.txt" -force
+	[string]$Desctext = $textbox1.text
+	if (Test-Path "$config_packagefolder\$ActivePackageName\$ActivePackageVersion\output\Description.txt")
+	{
+		Remove-Item "$config_packagefolder\$ActivePackageName\$ActivePackageVersion\output\Description.txt" -Confirm:$false
+	}
+	foreach ($t in $Desctext)
+	{
+		"$t `r`n" | out-file "$config_packagefolder\$ActivePackageName\$ActivePackageVersion\output\Description.txt" -force
+	}
+	
 }
 ]]></Code>
   <TV>0</TV>
-  <Mode>1</Mode>
+  <Mode>0</Mode>
   <Assemblies />
 </File>

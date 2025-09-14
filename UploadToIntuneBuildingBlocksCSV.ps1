@@ -97,7 +97,7 @@ foreach ($block in $blocks)
 		$descriptionpath = $filepath + 'Description.txt'
 		if (Test-Path $descriptionpath)
 		{
-			$description = Get-Content $descriptionpath
+			[string]$description = Get-Content $descriptionpath
 		}
 		else
 		{
@@ -364,7 +364,7 @@ foreach ($block in $blocks)
 		$descriptionpath = $filepath + 'Description.txt'
 		if (Test-Path $descriptionpath)
 		{
-			$description = Get-Content $descriptionpath
+			[string]$description = Get-Content $descriptionpath
 		}
 		else
 		{
@@ -502,7 +502,7 @@ foreach ($block in $blocks)
 		$descriptionpath = $filepath + 'Description.txt'
 		if (Test-Path $descriptionpath)
 		{
-			$description = Get-Content $descriptionpath
+			[string]$description = Get-Content $descriptionpath
 		}
 		else
 		{
