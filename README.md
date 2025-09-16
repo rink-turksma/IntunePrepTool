@@ -3,9 +3,11 @@
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/rink-turksma/IntunePrepTool/total)   
 ![GitHub issues](https://img.shields.io/github/issues/rink-turksma/IntunePrepTool)  
 
-**Last update: 14 September 2025**  
+**Last update: 16 September 2025**  
 
 Created by **Rink Turksma** using *SAPIEN PowerShell Studio*.  
+
+1.7.1.0: Fixed: Adding a tenant without a Custom Privacy URL no longer fails.
 
 ---
 
