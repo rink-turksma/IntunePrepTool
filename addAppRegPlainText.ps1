@@ -17,6 +17,7 @@ param
 	[string]$customername,
 	[string]$customPrivacyURL
 )
+
 #Requires -RunAsAdministrator
 
 $customerloc = "C:\Users\$env:username\.IntunePrepTool\$customername.csv"
@@ -77,19 +78,34 @@ $clientSecret = $clientSecret.SecretText
 $username = $appInfo.AppId
 $password = $clientSecret.SecretText
 $config_tenantinfo = $null;
-$config_tenantinfo += @([config_tenantinfo]@{
-		customername = $customername
-		customPrivacyURL = $customPrivacyURL
-		appRegName	    = $appRegName
-		tenantID	    = $tenantID
-		appID		    = $appId
-		clientsecret    = $clientSecret
-		validdate    = (Get-Date).AddMonths(+ 12)
-		
-	})
 
-
-
+if ($CustomPrivacyUrl -like 'nvt')
+{
+	
+	$config_tenantinfo += @([config_tenantinfo]@{
+			customername	 = $customername
+			customPrivacyURL = $null
+			appRegName	     = $appRegName
+			tenantID		 = $tenantID
+			appID		     = $appId
+			clientsecret	 = $clientSecret
+			validdate	     = (Get-Date).AddMonths(+ 12)
+			
+		})
+}
+else
+{
+	$config_tenantinfo += @([config_tenantinfo]@{
+			customername	 = $customername
+			customPrivacyURL = $customPrivacyURL
+			appRegName	     = $appRegName
+			tenantID		 = $tenantID
+			appID		     = $appId
+			clientsecret	 = $clientSecret
+			validdate	     = (Get-Date).AddMonths(+ 12)
+			
+		})
+}
 
 
 $graphSpId = $(Get-MgServicePrincipal -Filter "appId eq '00000003-0000-0000-c000-000000000000'").Id
