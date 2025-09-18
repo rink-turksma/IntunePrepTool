@@ -8,6 +8,9 @@
 Created by **Rink Turksma** using *SAPIEN PowerShell Studio*.  
 
 1.7.1.0: Fixed: Adding a tenant without a Custom Privacy URL no longer fails.
+18 september:
+There is still an issue with this version. Please add a custom privacy URL for now.
+Ik wil fix this within 24H
 
 ---
 
