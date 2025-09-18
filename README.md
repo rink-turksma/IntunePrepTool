@@ -10,6 +10,7 @@ Created by **Rink Turksma** using *SAPIEN PowerShell Studio*.
 ## Imported Bug fixes! 
 
 1.7.1.0: Fixed: Adding a tenant without a Custom Privacy URL no longer fails. (For tenants added after 1.6.8.0)
+
 1.7.2.0: Fixed issue uploading to a tenant without a Custom Privacy URL (For tenants added after update 1.7.1.0)
 ---
 
