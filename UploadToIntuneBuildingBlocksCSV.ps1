@@ -147,7 +147,7 @@ foreach ($block in $blocks)
 		write-host "We will upload to Intune now" -ForegroundColor Green; Write-host "`r`n"; Write-host "`r`n";
 		if ($logoaanwezig -eq $null)
 		{
-			if ($customPrivacyURL -ne $null) -and ($customPrivacyURL -notlike ''))
+			if (($customPrivacyURL -ne $null) -and ($customPrivacyURL -notlike ''))
 			{
 				$Win32App = Add-IntuneWin32App -FilePath $itwnffilepath -DisplayName $dnam -Description $description -Publisher $publ -AppVersion $versie -InstallExperience $context -RestartBehavior "suppress" -DetectionRule $DetectionRule -InstallCommandLine $icmd -UninstallCommandLine $ucmd -RequirementRule $RequirementRule -PrivacyURL $customPrivacyURL
 				
@@ -159,7 +159,7 @@ foreach ($block in $blocks)
 		}
 		else
 		{
-			if ($customPrivacyURL -ne $null) -and ($customPrivacyURL -notlike ''))
+			if (($customPrivacyURL -ne $null) -and ($customPrivacyURL -notlike ''))
 			{
 				$Win32App = Add-IntuneWin32App -FilePath $itwnffilepath -DisplayName $dnam -Description $description -Publisher $publ -AppVersion $versie -Icon $Icon -InstallExperience $context -RestartBehavior "suppress" -DetectionRule $DetectionRule -InstallCommandLine $icmd -UninstallCommandLine $ucmd -RequirementRule $RequirementRule -PrivacyURL $customPrivacyURL
 			}
@@ -414,7 +414,7 @@ foreach ($block in $blocks)
 		write-host "We will upload to Intune now" -ForegroundColor Green; Write-host "`r`n"; Write-host "`r`n";
 		if ($logoaanwezig -eq $null)
 		{
-			if ($customPrivacyURL -ne $null) -and ($customPrivacyURL -notlike ''))
+			if (($customPrivacyURL -ne $null) -and ($customPrivacyURL -notlike ''))
 			{
 				$Win32App = Add-IntuneWin32App -FilePath $itwnffilepath -DisplayName $dnam -Description $description -Publisher $publ -AppVersion $versie -InstallExperience $context -RestartBehavior "suppress" -DetectionRule $DetectionRule -InstallCommandLine $icmd -UninstallCommandLine $ucmd -RequirementRule $RequirementRule -PrivacyURL $customPrivacyURL
 			}
@@ -425,7 +425,7 @@ foreach ($block in $blocks)
 		}
 		else
 		{
-			if ($customPrivacyURL -ne $null) -and ($customPrivacyURL -notlike ''))
+			if (($customPrivacyURL -ne $null) -and ($customPrivacyURL -notlike ''))
 			{
 				$Win32App = Add-IntuneWin32App -FilePath $itwnffilepath -DisplayName $dnam -Description $description -Publisher $publ -AppVersion $versie -Icon $Icon -InstallExperience $context -RestartBehavior "suppress" -DetectionRule $DetectionRule -InstallCommandLine $icmd -UninstallCommandLine $ucmd -RequirementRule $RequirementRule -PrivacyURL $customPrivacyURL
 			}
@@ -552,7 +552,7 @@ foreach ($block in $blocks)
 		write-host "We will upload to Intune now" -ForegroundColor Green; Write-host "`r`n"; Write-host "`r`n";
 		if ($logoaanwezig -eq $null)
 		{
-			if ($customPrivacyURL -ne $null) -and ($customPrivacyURL -notlike ''))
+			if (($customPrivacyURL -ne $null) -and ($customPrivacyURL -notlike ''))
 			{
 				$Win32App = Add-IntuneWin32App -FilePath $itwnffilepath -DisplayName $dnam -Description $description -Publisher $publ -AppVersion $versie -InstallExperience $context -RestartBehavior "suppress" -DetectionRule $DetectionRule -InstallCommandLine $icmd -UninstallCommandLine $ucmd -RequirementRule $RequirementRule -PrivacyURL $customPrivacyURL
 			}
@@ -563,7 +563,7 @@ foreach ($block in $blocks)
 		}
 		else
 		{
-			if ($customPrivacyURL -ne $null) -and ($customPrivacyURL -notlike ''))
+			if (($customPrivacyURL -ne $null) -and ($customPrivacyURL -notlike ''))
 			{
 				$Win32App = Add-IntuneWin32App -FilePath $itwnffilepath -DisplayName $dnam -Description $description -Publisher $publ -AppVersion $versie -Icon $Icon -InstallExperience $context -RestartBehavior "suppress" -DetectionRule $DetectionRule -InstallCommandLine $icmd -UninstallCommandLine $ucmd -RequirementRule $RequirementRule -PrivacyURL $customPrivacyURL
 			}
