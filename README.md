@@ -3,7 +3,7 @@
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/rink-turksma/IntunePrepTool/total)   
 ![GitHub issues](https://img.shields.io/github/issues/rink-turksma/IntunePrepTool)  
 
-**Last update: 18 September 2025**  
+**Last update: 1 November 2025**  
 
 Created by **Rink Turksma** using *SAPIEN PowerShell Studio*.  
 
@@ -13,6 +13,7 @@ Created by **Rink Turksma** using *SAPIEN PowerShell Studio*.
 
 1.7.2.0: Fixed issue uploading to a tenant without a Custom Privacy URL (For tenants added after update 1.7.1.0)
 
+1.7.3.0: Fixed some issues when uploading BuildingBlocks
 ---
 
 ## 📖 Overview  
