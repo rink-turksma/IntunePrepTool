@@ -1,8 +1,6 @@
 name: build-msi-and-sign
 
 on:
-  push:
-    branches: [ "main" ]
   workflow_dispatch:
 
 jobs:
