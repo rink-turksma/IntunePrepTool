@@ -1,0 +1,16 @@
+name: Self-hosted runner test
+
+on:
+  push:
+    branches: [ "Test" ]
+
+jobs:
+  test-runner:
+    runs-on: self-hosted
+
+    steps:
+      - name: Say hello
+        shell: pwsh
+        run: |
+          Write-Host "Hello from the self-hosted runner"
+          hostname
