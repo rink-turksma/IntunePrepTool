@@ -4,19 +4,31 @@ on:
   workflow_dispatch:
 
 jobs:
-  test-runner:
+  build:
     runs-on: self-hosted
 
     steps:
       - uses: actions/checkout@v4
 
-      # 1) Build your app -> dist\
-      - name: Build app
+      # 1) Stage ALL files required by your MSI into dist\
+      - name: Stage MSI payload
         shell: pwsh
         run: |
-          mkdir dist -Force | Out-Null
+          New-Item -ItemType Directory -Force dist | Out-Null
+
+          # Your EXEs/DLLs from bin\x64
           Copy-Item .\bin\x64\*.exe dist\ -Force
           Copy-Item .\bin\x64\*.dll dist\ -Force
+          Copy-Item .\bin\x64\*.config dist\ -Force -ErrorAction SilentlyContinue
+
+          # Extra payload files referenced in your .wxs (adjust paths if yours differ)
+          Copy-Item .\config_customerinfo.csv dist\ -Force -ErrorAction Stop
+          Copy-Item .\UploadToIntuneBuildingBlocksCSV.ps1 dist\ -Force -ErrorAction Stop
+          Copy-Item .\IntunePrepTool-AzureOpenAI-setup-Screenshots.pdf dist\ -Force -ErrorAction Stop
+          Copy-Item .\update_package_msi_copy_uninstallstring.png dist\ -Force -ErrorAction Stop
+
+          Write-Host "Dist contents:"
+          Get-ChildItem dist | Select-Object Name,Length | Format-Table -AutoSize
 
       # 2) Upload UNSIGNED app payload for SignPath
       - name: Upload unsigned app payload
@@ -26,7 +38,7 @@ jobs:
           name: unsigned-app
           path: dist/**
 
-      # 3) Sign app payload (exe/dll) with SignPath and download signed result
+      # 3) Sign app payload (SignPath) and download signed result
       - name: Sign app payload (SignPath)
         id: sign-app
         uses: signpath/github-action-submit-signing-request@v2
@@ -39,29 +51,83 @@ jobs:
           wait-for-completion: true
           output-artifact-directory: signed-dist
 
-      # 4) Install WiX (v4+) and build MSI from signed files
-      - name: Install WiX Toolset
+      # 4) Install WiX Toolset v3 (matches your WiX 2006 schema)
+      - name: Install WiX Toolset v3
         shell: pwsh
         run: |
-          dotnet tool install --global wix --version 4.*
-          wix --version
+          if (-not (Get-Command choco -ErrorAction SilentlyContinue)) {
+            Write-Error "Chocolatey not found on this runner. Install Chocolatey or install WiX v3 manually."
+            exit 1
+          }
+          choco install wix -y --no-progress
+          & "${env:ProgramFiles(x86)}\WiX Toolset v3.11\bin\candle.exe" -? | Out-Null
+          & "${env:ProgramFiles(x86)}\WiX Toolset v3.11\bin\light.exe" -? | Out-Null
 
+      # 5) Patch your .wxs so it uses the signed-dist folder instead of your local C:\Users\... paths
+      - name: Patch WiX source paths for CI
+        shell: pwsh
+        run: |
+          $srcWxs = "installer\IntunePrepTool.wxs"
+          if (-not (Test-Path $srcWxs)) {
+            Write-Error "WiX file not found at $srcWxs. Put your .wxs there or change the path in the workflow."
+            exit 1
+          }
+
+          New-Item -ItemType Directory -Force out,obj | Out-Null
+
+          $wxs = Get-Content $srcWxs -Raw
+
+          # Replace your hardcoded MSI_BuildFolder file sources with a preprocessor variable
+          $oldPrefix = "C:\Users\rink\Documents\SAPIEN\PowerShell Studio\Projects\IntunePrepTool\msi\MSI_BuildFolder\"
+          $wxs = $wxs.Replace($oldPrefix, '$(var.SourceDir)\')
+
+          # Replace shortcut icon source (was bin\x64\IntunePrepTool.exe) to use signed payload
+          $wxs = $wxs.Replace('SourceFile="bin\x64\IntunePrepTool.exe"', 'SourceFile="$(var.SourceDir)\IntunePrepTool.exe"')
+
+          # Replace product icon path to a repo-local icon file
+          $wxs = $wxs.Replace(
+            'SourceFile="C:\ProgramData\SAPIEN\MSI Icons\Windows_Application_Installer.ico"',
+            'SourceFile="installer\assets\Windows_Application_Installer.ico"'
+          )
+
+          $patched = "installer\IntunePrepTool.patched.wxs"
+          Set-Content -Path $patched -Value $wxs -Encoding UTF8
+
+          Write-Host "Patched WiX file written to $patched"
+
+      # 6) Build MSI from signed files (SourceDir=signed-dist)
       - name: Build MSI (from signed files)
         shell: pwsh
         run: |
-          # Example: compile/link WiX project
-          # Assumes your .wxs references "signed-dist" as the source folder
-          wix build .\installer\Product.wxs -o .\out\MyApp-unsigned.msi
+          $wixBin = "${env:ProgramFiles(x86)}\WiX Toolset v3.11\bin"
+          $candle = Join-Path $wixBin "candle.exe"
+          $light  = Join-Path $wixBin "light.exe"
 
-      # 5) Upload UNSIGNED MSI for SignPath
+          & $candle `
+            -nologo `
+            -dSourceDir="signed-dist" `
+            -out "obj\\" `
+            "installer\IntunePrepTool.patched.wxs"
+
+          & $light `
+            -nologo `
+            -out "out\IntunePrepTool-unsigned.msi" `
+            "obj\IntunePrepTool.patched.wixobj"
+
+          if (-not (Test-Path "out\IntunePrepTool-unsigned.msi")) {
+            Write-Error "MSI was not created."
+            exit 1
+          }
+
+      # 7) Upload UNSIGNED MSI for SignPath
       - name: Upload unsigned MSI
         id: upload-unsigned-msi
         uses: actions/upload-artifact@v4
         with:
           name: unsigned-msi
-          path: out/MyApp-unsigned.msi
+          path: out/IntunePrepTool-unsigned.msi
 
-      # 6) Sign MSI with SignPath and download signed MSI
+      # 8) Sign MSI (SignPath) and download signed MSI
       - name: Sign MSI (SignPath)
         id: sign-msi
         uses: signpath/github-action-submit-signing-request@v2
@@ -74,7 +140,7 @@ jobs:
           wait-for-completion: true
           output-artifact-directory: signed-msi
 
-      # 7) Publish signed MSI as workflow artifact
+      # 9) Publish signed MSI as workflow artifact
       - name: Upload signed MSI
         uses: actions/upload-artifact@v4
         with:
